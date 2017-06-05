@@ -24,4 +24,14 @@ describe KanjiMaster::Reader do
       expect(instance.maybe_kanji?('漢字')).to be true
     end
   end
+
+  describe 'it should read_text' do
+    it 'should read_text correctly' do
+      analyzed_text = instance.read_text('漢字alphabet898989')
+      expect(analyzed_text.full_text).to eq "漢字alphabet898989"
+      expect(analyzed_text.numbers).to eq "898989"
+      expect(analyzed_text.alphabets).to eq "alphabet"
+      expect(analyzed_text.kanjis).to eq "漢字"
+    end
+  end
 end
