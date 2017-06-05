@@ -30,6 +30,11 @@ reader.alphabet?('word')
 # => true
 reader.maybe_kanji?('漢字')
 # => true
+
+analyzed_text = reader.read_text('漢字alphabet898989')
+analyzed_text.numbers    # => "898989"
+analyzed_text.alphabets  # => "alphabet"
+analyzed_text.kanjis     # => "漢字"
 ```
 
 ## Counter
