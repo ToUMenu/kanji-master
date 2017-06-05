@@ -1,5 +1,7 @@
 # KanjiMaster
 
+[![Gem Version](https://badge.fury.io/rb/kanji_master.svg)](https://badge.fury.io/rb/kanji_master)
+
 ## Installation
 
 Add this line to your application's Gemfile:
