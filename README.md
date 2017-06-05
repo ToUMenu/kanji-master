@@ -28,6 +28,14 @@ reader.maybe_kanji?('漢字')
 # => true
 ```
 
+## Counter
+
+```ruby
+counter = KanjiMaster::Counter.new
+counter.kanji(3)
+# => '三'
+```
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
