@@ -1,6 +1,7 @@
 # KanjiMaster
 
 [![Gem Version](https://badge.fury.io/rb/kanji_master.svg)](https://badge.fury.io/rb/kanji_master)
+[![Build Status](https://travis-ci.org/ToUMenu/kanji-master.svg?branch=master)](https://travis-ci.org/ToUMenu/kanji-master)
 
 ## Installation
 
