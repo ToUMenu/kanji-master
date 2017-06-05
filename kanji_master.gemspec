@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "The gem will help you on handling kanji(chinese character)."
   spec.description   = "The gem will help you on handling kanji(chinese character). Handle the character without problem!"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/ToUMenu/kanji-master"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
