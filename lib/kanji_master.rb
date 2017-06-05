@@ -1,5 +1,3 @@
 require "kanji_master/version"
-
-module KanjiMaster
-  # Your code goes here...
-end
+require "kanji_master/reader"
+require "kanji_master/regex_constant"
