@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "kanji_master"
+require 'pry'
 
 # For test coverage
 require 'coveralls'
