@@ -66,6 +66,20 @@ require "kanji_master/core_extension/string"
 "sushi".hira #=> 'すし'
 ```
 
+### Random
+
+```ruby
+random = KanjiMaster::Random.new
+
+random.prefecture_hash
+# => {:name=>"鳥取県", :romaji=>"tottori", :hiragana=>"とっとりけん", :katakana=>"トットリケン", :area=>"中国"}
+random.prefecture_name
+# => "秋田県"
+
+random.number_kanji
+# => "八"
+```
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -73,7 +87,7 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/kanji_master. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/toumenu/kanji_master. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
