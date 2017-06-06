@@ -1,7 +1,11 @@
 module KanjiMaster
   class Random
     def prefecture_hash
-      Hash[Prefecture.data.to_a.sample(1)]
+      Prefecture.data[rand(1..47)]
+    end
+
+    def prefecture_name
+      Prefecture.data[rand(1..47)][:name]
     end
   end
 end
