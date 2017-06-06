@@ -37,12 +37,22 @@ analyzed_text.alphabets  # => "alphabet"
 analyzed_text.kanjis     # => "漢字"
 ```
 
-## Counter
+### Counter
 
 ```ruby
 counter = KanjiMaster::Counter.new
 counter.kanji(3)
 # => '三'
+```
+
+### Converter
+
+```ruby
+converter = KanjiMaster::Conveter.new
+converter.kana('すし') #=> 'スシ'
+converter.kana('sushi') #=> 'スシ'
+converter.hira('スシ') #=> 'すし'
+converter.hira('sushi') #=> 'すし'
 ```
 
 ## Development
