@@ -1,6 +1,11 @@
 module KanjiMaster
   class RegexConstant
     NON_ENGLISH_REGEX = /[^\u0000-\u007F]$/i
-    KANJI_REGEX = /[\p{Han}]+/
+
+    # Japanese Regex
+    KANJI_REGEX    = /[\p{Han}]+/
+    HIRAGANA_REGEX = /[\p{Hiragana}]+/
+    KATAKANA_REGEX = /[\p{Katakana}]+/
+    ROMAJI_REGEX   = /^[a-zA-Z]/
   end
 end
