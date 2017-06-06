@@ -1,4 +1,5 @@
 require 'nkf'
+require 'romaji'
 
 module KanjiMaster
   class Converter
@@ -10,8 +11,13 @@ module KanjiMaster
 
     def katakana(text); kana(text) end
     def kana(text)
-      return nil unless text.match(RegexConstant::HIRAGANA_REGEX)
-      NKF.nkf('-w --katakana', text)
+      if text.match(RegexConstant::HIRAGANA_REGEX)
+        NKF.nkf('-w --katakana', text)
+      elsif text.match(RegexConstant::KATAKANA_REGEX)
+        text
+      elsif text.match(RegexConstant::ROMAJI_REGEX)
+        Romaji.romaji2kana text
+      end
     end
   end
 end

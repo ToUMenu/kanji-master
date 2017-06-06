@@ -3,7 +3,9 @@ module KanjiMaster
     NON_ENGLISH_REGEX = /[^\u0000-\u007F]$/i
 
     # Japanese Regex
-    KANJI_REGEX = /[\p{Han}]+/
+    KANJI_REGEX    = /[\p{Han}]+/
     HIRAGANA_REGEX = /[\p{Hiragana}]+/
+    KATAKANA_REGEX = /[\p{Katakana}]+/
+    ROMAJI_REGEX   = /^[a-zA-Z]/
   end
 end

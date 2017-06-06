@@ -17,5 +17,13 @@ describe KanjiMaster::RegexConstant do
     it 'HIRAGANA_REGEX' do
       expect(instance::HIRAGANA_REGEX).not_to be nil
     end
+
+    it 'KATAKANA_REGEX' do
+      expect(instance::KATAKANA_REGEX).not_to be nil
+    end
+
+    it 'ROMAJI_REGEX' do
+      expect(instance::ROMAJI_REGEX).not_to be nil
+    end
   end
 end
