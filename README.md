@@ -55,6 +55,17 @@ converter.hira('スシ') #=> 'すし'
 converter.hira('sushi') #=> 'すし'
 ```
 
+### String Core Extension
+
+```
+require "kanji_master/core_extension/string"
+
+"すし".kana #=> 'スシ'
+"sushi".kana #=> 'スシ'
+"スシ".hira #=> 'すし'
+"sushi".hira #=> 'すし'
+```
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
