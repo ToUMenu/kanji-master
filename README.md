@@ -57,7 +57,7 @@ converter.hira('sushi') #=> 'すし'
 
 ### String Core Extension
 
-```
+```ruby
 require "kanji_master/core_extension/string"
 
 "すし".kana #=> 'スシ'
