@@ -1,6 +1,5 @@
 module KanjiMaster
   module StringExtension
-
     def katakana; kana end
     def kana
       converter = Converter.new
