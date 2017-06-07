@@ -6,19 +6,17 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Install with application's Gemfile:
 
 ```ruby
 gem 'kanji_master'
 ```
 
-And then execute:
-
-    $ bundle
-
 Or install it yourself as:
 
-    $ gem install kanji_master
+```shell
+$ gem install kanji_master
+```
 
 ## Usage
 
