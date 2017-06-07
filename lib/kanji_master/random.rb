@@ -11,6 +11,7 @@ module KanjiMaster
     def chinese_number_character
       Constant::KANJI_NUMBER[rand(0..9)]
     end
+    alias :kanji_number :chinese_number_character
     alias :number_kanji :chinese_number_character
   end
 end
