@@ -64,6 +64,9 @@ require "kanji_master/core_extension/string"
 "sushi".kana #=> 'スシ'
 "スシ".hira #=> 'すし'
 "sushi".hira #=> 'すし'
+
+"sushi".alphabet? # => true
+"sushi".maybe_kanji? # => false
 ```
 
 ### Random
