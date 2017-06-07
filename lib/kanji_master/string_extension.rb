@@ -11,5 +11,15 @@ module KanjiMaster
       converter = Converter.new
       converter.hira(self)
     end
+
+    def alphabet?
+      reader = Reader.new
+      reader.alphabet?(self)
+    end
+
+    def maybe_kanji?
+      reader = Reader.new
+      reader.maybe_kanji?(self)
+    end
   end
 end
