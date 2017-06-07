@@ -6,19 +6,17 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Install with application's Gemfile:
 
 ```ruby
 gem 'kanji_master'
 ```
 
-And then execute:
-
-    $ bundle
-
 Or install it yourself as:
 
-    $ gem install kanji_master
+```shell
+$ gem install kanji_master
+```
 
 ## Usage
 
@@ -90,8 +88,13 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/toumenu/kanji_master. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Fork this repository.
 
+```shell
+$ git checkout -b your_working_branch
+```
+
+Feel free to send the pull request!
 
 ## License
 
