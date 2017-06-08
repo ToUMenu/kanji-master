@@ -1,5 +1,6 @@
 require 'yaml'
 require 'active_support'
+require 'active_support/core_ext'
 
 module KanjiMaster
   #  Name get data from Person.rb which access the data from `person.yml`
