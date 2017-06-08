@@ -35,14 +35,6 @@ analyzed_text.alphabets  # => "alphabet"
 analyzed_text.kanjis     # => "漢字"
 ```
 
-### Counter
-
-```ruby
-counter = KanjiMaster::Counter.new
-counter.kanji(3)
-# => '三'
-```
-
 ### Converter
 
 ```ruby
@@ -88,6 +80,14 @@ random.prefecture_name
 
 random.number_kanji
 # => "八"
+```
+
+### Counter
+
+```ruby
+counter = KanjiMaster::Counter.new
+counter.kanji(3)
+# => '三'
 ```
 
 ## Development
