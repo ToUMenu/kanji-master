@@ -3,6 +3,7 @@ require "kanji_master/constant"
 require "kanji_master/regex_constant"
 
 # Data Model
+require "kanji_master/address"
 require "kanji_master/prefecture"
 require "kanji_master/person"
 

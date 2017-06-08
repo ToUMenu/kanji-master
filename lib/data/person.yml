@@ -3,7 +3,7 @@ persons:
   person:
   - 'no': '1'
     name: 川野 清重
-    name_kata: カワノ キヨシゲ
+    name_kana: カワノ キヨシゲ
     gender: 男
     bloodtype: AB
     birthday: 1971/03/02
@@ -15,7 +15,7 @@ persons:
     address_kata: トヤマケントヤマシタツミチョウ
   - 'no': '2'
     name: 金田 菊子
-    name_kata: カネタ キクコ
+    name_kana: カネタ キクコ
     gender: 女
     bloodtype: B
     birthday: 1984/04/27
@@ -27,7 +27,7 @@ persons:
     address_kata: キョウトフキョウトシシモギョウクカンシャデンチョウ
   - 'no': '3'
     name: 田代 郁美
-    name_kata: タシロ イクミ
+    name_kana: タシロ イクミ
     gender: 女
     bloodtype: B
     birthday: 1970/02/04
@@ -39,7 +39,7 @@ persons:
     address_kata: トウキョウトシナガワクナカノブ
   - 'no': '4'
     name: 柴田 軍市
-    name_kata: シバタ グンイチ
+    name_kana: シバタ グンイチ
     gender: 男
     bloodtype: O
     birthday: 1978/03/22
@@ -51,7 +51,7 @@ persons:
     address_kata: ミヤギケンシロイシシジュウオウドウキタ
   - 'no': '5'
     name: 堤 健之
-    name_kata: ツツミ タケシ
+    name_kana: ツツミ タケシ
     gender: 男
     bloodtype: AB
     birthday: 1974/07/27
@@ -63,7 +63,7 @@ persons:
     address_kata: フクオカケンキタキュウシュウシモジクモモヤマダイ
   - 'no': '6'
     name: 石田 久哉
-    name_kata: イシダ ヒサヤ
+    name_kana: イシダ ヒサヤ
     gender: 男
     bloodtype: A
     birthday: 1970/03/14
@@ -75,7 +75,7 @@ persons:
     address_kata: ヒョウゴケンカンザキグンフクサキチョウミナミタワラ
   - 'no': '7'
     name: 萩原 宣男
-    name_kata: ハギワラ ノブオ
+    name_kana: ハギワラ ノブオ
     gender: 男
     bloodtype: B
     birthday: 1984/03/10
@@ -87,7 +87,7 @@ persons:
     address_kata: フクイケンミカタグンミハマチョウオオタ
   - 'no': '8'
     name: 木下 多栄子
-    name_kata: キシタ タエコ
+    name_kana: キシタ タエコ
     gender: 女
     bloodtype: O
     birthday: 1982/09/29
@@ -99,7 +99,7 @@ persons:
     address_kata: イシカワケンコマツシシモマキマチ
   - 'no': '9'
     name: 三宅 理平
-    name_kata: ミヤケ リヘイ
+    name_kana: ミヤケ リヘイ
     gender: 男
     bloodtype: B
     birthday: 1972/10/03
@@ -111,7 +111,7 @@ persons:
     address_kata: コウチケンカミシトサヤマダチョウジンツウジ
   - 'no': '10'
     name: 平松 美喜夫
-    name_kata: ヒラマツ ミキオ
+    name_kana: ヒラマツ ミキオ
     gender: 男
     bloodtype: A
     birthday: 1971/01/11
@@ -123,7 +123,7 @@ persons:
     address_kata: ナガサキケンシマバラシミエマチ
   - 'no': '11'
     name: 中井 八洲子
-    name_kata: ナカイ ヤスコ
+    name_kana: ナカイ ヤスコ
     gender: 女
     bloodtype: A
     birthday: 1986/02/11
@@ -135,7 +135,7 @@ persons:
     address_kata: トウキョウトナカノクミナミダイ
   - 'no': '12'
     name: 土井 善二
-    name_kata: ツチイ ゼンジ
+    name_kana: ツチイ ゼンジ
     gender: 男
     bloodtype: B
     birthday: 1970/11/08
@@ -147,7 +147,7 @@ persons:
     address_kata: トウキョウトチヨダクヨンバンチョウ
   - 'no': '13'
     name: 浜口 朋美
-    name_kata: ハマグチ トモミ
+    name_kana: ハマグチ トモミ
     gender: 女
     bloodtype: O
     birthday: 1976/10/11
@@ -159,7 +159,7 @@ persons:
     address_kata: トヤマケンナントシシメノ
   - 'no': '14'
     name: 湯浅 雅宏
-    name_kata: ユアサ マサヒロ
+    name_kana: ユアサ マサヒロ
     gender: 男
     bloodtype: B
     birthday: 1985/11/16
@@ -171,7 +171,7 @@ persons:
     address_kata: ヤマグチケンホウフシシンデン
   - 'no': '15'
     name: 大平 美世
-    name_kata: オオヒラ ミヨ
+    name_kana: オオヒラ ミヨ
     gender: 女
     bloodtype: B
     birthday: 1972/03/06
@@ -183,7 +183,7 @@ persons:
     address_kata: サイタマケンクキシキタナカゾネ
   - 'no': '16'
     name: 高島 千津
-    name_kata: タカシマ チズ
+    name_kana: タカシマ チズ
     gender: 女
     bloodtype: O
     birthday: 1994/09/24
@@ -195,7 +195,7 @@ persons:
     address_kata: ナガサキケンミナミシマバラシミナミアリマチョウヘイ
   - 'no': '17'
     name: 小柳 興亜
-    name_kata: コヤナギ キョウア
+    name_kana: コヤナギ キョウア
     gender: 男
     bloodtype: A
     birthday: 1983/08/12
@@ -207,7 +207,7 @@ persons:
     address_kata: イシカワケンカガシヤマシロオンセン
   - 'no': '18'
     name: 清水 幸郎
-    name_kata: シミズ ユキロウ
+    name_kana: シミズ ユキロウ
     gender: 男
     bloodtype: B
     birthday: 1977/11/22
@@ -219,7 +219,7 @@ persons:
     address_kata: ヤマグチケンシモノセキシチョウフマエヤハタチョウ
   - 'no': '19'
     name: 小泉 豊秋
-    name_kata: コイズミ トヨアキ
+    name_kana: コイズミ トヨアキ
     gender: 男
     bloodtype: B
     birthday: 1991/06/17
@@ -231,7 +231,7 @@ persons:
     address_kata: エヒメケンマツヤマシヤナギハラ
   - 'no': '20'
     name: 土井 和茂
-    name_kata: ドイ カズシゲ
+    name_kana: ドイ カズシゲ
     gender: 男
     bloodtype: O
     birthday: 1975/09/28
@@ -243,7 +243,7 @@ persons:
     address_kata: シガケンヒガシオウミシゴカショウイノベチョウ
   - 'no': '21'
     name: 塚本 織枝
-    name_kata: ツカモト オリエ
+    name_kana: ツカモト オリエ
     gender: 女
     bloodtype: B
     birthday: 1979/12/01
@@ -255,7 +255,7 @@ persons:
     address_kata: アオモリケンヒラカワシカラタケイザワ
   - 'no': '22'
     name: 遠藤 晶紀
-    name_kata: エンドウ アキ
+    name_kana: エンドウ アキ
     gender: 女
     bloodtype: A
     birthday: 1974/06/26
@@ -267,7 +267,7 @@ persons:
     address_kata: カナガワケンツクイグンシロヤママチシロヤマ
   - 'no': '23'
     name: 中井 康次
-    name_kata: ナカイ コウジ
+    name_kana: ナカイ コウジ
     gender: 男
     bloodtype: A
     birthday: 1980/05/17
@@ -279,7 +279,7 @@ persons:
     address_kata: イシカワケンカナザワシカキノキバタケ
   - 'no': '24'
     name: 小原 凱次
-    name_kata: オハラ カツジ
+    name_kana: オハラ カツジ
     gender: 男
     bloodtype: A
     birthday: 1986/06/05
@@ -291,7 +291,7 @@ persons:
     address_kata: ミエケンナバリシカスガオカ５バンチョウ
   - 'no': '25'
     name: 宮原 佐千雄
-    name_kata: ミヤバラ サチオ
+    name_kana: ミヤバラ サチオ
     gender: 男
     bloodtype: B
     birthday: 1974/06/17
@@ -303,7 +303,7 @@ persons:
     address_kata: ワカヤマケンイワデシアイダニ
   - 'no': '26'
     name: 平野 節美
-    name_kata: ヒラノ セツミ
+    name_kana: ヒラノ セツミ
     gender: 女
     bloodtype: AB
     birthday: 1972/06/16
@@ -315,7 +315,7 @@ persons:
     address_kata: サイタマケンヒキグンオガワマチノウマス
   - 'no': '27'
     name: 平岡 信平
-    name_kata: ヒラオカ シンペイ
+    name_kana: ヒラオカ シンペイ
     gender: 男
     bloodtype: O
     birthday: 1976/06/25
@@ -327,7 +327,7 @@ persons:
     address_kata: イワテケンキタカミシフシウシ
   - 'no': '28'
     name: 米田 三起
-    name_kata: マイタ ミキ
+    name_kana: マイタ ミキ
     gender: 女
     bloodtype: B
     birthday: 1972/11/21
@@ -339,7 +339,7 @@ persons:
     address_kata: アイチケンカスガイシツイシンチョウ
   - 'no': '29'
     name: 上村 裕紀
-    name_kata: ウエムラ ヒロキ
+    name_kana: ウエムラ ヒロキ
     gender: 男
     bloodtype: A
     birthday: 1991/02/02
@@ -351,7 +351,7 @@ persons:
     address_kata: オオサカフネヤガワシナリタチョウ
   - 'no': '30'
     name: 森岡 大夢
-    name_kata: モリオカ ヒロム
+    name_kana: モリオカ ヒロム
     gender: 男
     bloodtype: A
     birthday: 1980/07/08
@@ -363,7 +363,7 @@ persons:
     address_kata: カナガワケンアシガラカミグンナカイマチキタダ
   - 'no': '31'
     name: 菅野 安彦
-    name_kata: カンノ ヤスヒコ
+    name_kana: カンノ ヤスヒコ
     gender: 男
     bloodtype: O
     birthday: 1975/09/10
@@ -375,7 +375,7 @@ persons:
     address_kata: ニイガタケンナガオカシトチクラ
   - 'no': '32'
     name: 柳沢 義幸
-    name_kata: ヤナギサワ ヨシユキ
+    name_kana: ヤナギサワ ヨシユキ
     gender: 男
     bloodtype: A
     birthday: 1979/08/03
@@ -387,7 +387,7 @@ persons:
     address_kata: フクオカケンクルメシミナミ
   - 'no': '33'
     name: 宮城 道義
-    name_kata: ミヤギ ミチヨシ
+    name_kana: ミヤギ ミチヨシ
     gender: 男
     bloodtype: O
     birthday: 1974/10/17
@@ -399,7 +399,7 @@ persons:
     address_kata: イワテケンハチマンタイシコヤノハタ
   - 'no': '34'
     name: 河村 幸郎
-    name_kata: コウムラ ユキロウ
+    name_kana: コウムラ ユキロウ
     gender: 男
     bloodtype: A
     birthday: 1977/12/02
@@ -411,7 +411,7 @@ persons:
     address_kata: ニイガタケンサドシカスガ
   - 'no': '35'
     name: 宮原 健児
-    name_kata: ミヤバラ ケンジ
+    name_kana: ミヤバラ ケンジ
     gender: 男
     bloodtype: A
     birthday: 1989/04/26
@@ -423,7 +423,7 @@ persons:
     address_kata: サガケンサガシミドリコウジ
   - 'no': '36'
     name: 稲垣 葉子
-    name_kata: イナガキ ヨウコ
+    name_kana: イナガキ ヨウコ
     gender: 女
     bloodtype: AB
     birthday: 1978/06/06
@@ -435,7 +435,7 @@ persons:
     address_kata: カガワケンナカタドグンマンノウチョウクモン
   - 'no': '37'
     name: 木村 源平
-    name_kata: キムラ ゲンペイ
+    name_kana: キムラ ゲンペイ
     gender: 男
     bloodtype: O
     birthday: 1972/05/07
@@ -447,7 +447,7 @@ persons:
     address_kata: チバケンモバラシキタタカネトビチ
   - 'no': '38'
     name: 浅野 貴雅
-    name_kata: アサノ タカマサ
+    name_kana: アサノ タカマサ
     gender: 男
     bloodtype: A
     birthday: 1992/03/08
@@ -459,7 +459,7 @@ persons:
     address_kata: オオサカフキシワダシハルキイズミチョウ
   - 'no': '39'
     name: 石田 荘介
-    name_kata: イシダ ソウスケ
+    name_kana: イシダ ソウスケ
     gender: 男
     bloodtype: A
     birthday: 1982/05/31
@@ -471,7 +471,7 @@ persons:
     address_kata: ニイガタケンナガオカシシンサン
   - 'no': '40'
     name: 石川 孝成
-    name_kata: イシカワ タカシゲ
+    name_kana: イシカワ タカシゲ
     gender: 男
     bloodtype: B
     birthday: 1970/01/13
@@ -483,7 +483,7 @@ persons:
     address_kata: トウキョウトニシトウキョウシキタマチ
   - 'no': '41'
     name: 大城 繁次
-    name_kata: オオキ シゲツグ
+    name_kana: オオキ シゲツグ
     gender: 男
     bloodtype: O
     birthday: 1971/09/20
@@ -495,7 +495,7 @@ persons:
     address_kata: トウキョウトコダイラシジョウスイシンマチ
   - 'no': '42'
     name: 竹本 健生
-    name_kata: タケモト タケオ
+    name_kana: タケモト タケオ
     gender: 男
     bloodtype: O
     birthday: 1978/06/26
@@ -507,7 +507,7 @@ persons:
     address_kata: ナガサキケンナガサキシチクゴマチ
   - 'no': '43'
     name: 比嘉 栄理子
-    name_kata: ヒガ エリコ
+    name_kana: ヒガ エリコ
     gender: 女
     bloodtype: O
     birthday: 1987/05/18
@@ -519,7 +519,7 @@ persons:
     address_kata: ヒョウゴケンタツノシシングウチョウシノクビ
   - 'no': '44'
     name: 石橋 真佐文
-    name_kata: イシバシ マサフミ
+    name_kana: イシバシ マサフミ
     gender: 男
     bloodtype: A
     birthday: 1977/01/30
@@ -531,7 +531,7 @@ persons:
     address_kata: カナガワケンカワサキシナカハラクカミシンジョウ
   - 'no': '45'
     name: 岡野 留三
-    name_kata: オカノ リュウゾウ
+    name_kana: オカノ リュウゾウ
     gender: 男
     bloodtype: O
     birthday: 1974/01/19
@@ -543,7 +543,7 @@ persons:
     address_kata: トウキョウトハチオウジシニシカタクラ
   - 'no': '46'
     name: 徳田 雄一郎
-    name_kata: トクタ ユウイチロウ
+    name_kana: トクタ ユウイチロウ
     gender: 男
     bloodtype: B
     birthday: 1980/05/26
@@ -555,7 +555,7 @@ persons:
     address_kata: フクシマケンダテグンカワマタマチニシフクザワ
   - 'no': '47'
     name: 高田 由雄
-    name_kata: タカタ ヨシオ
+    name_kana: タカタ ヨシオ
     gender: 男
     bloodtype: O
     birthday: 1987/08/29
@@ -567,7 +567,7 @@ persons:
     address_kata: トットリケントットリシケタカチョウツネマツ
   - 'no': '48'
     name: 黒川 つばさ
-    name_kata: クロカワ ツバサ
+    name_kana: クロカワ ツバサ
     gender: 男
     bloodtype: B
     birthday: 1981/06/06
@@ -579,7 +579,7 @@ persons:
     address_kata: オカヤマケンツヤマシニイノヤマガタ
   - 'no': '49'
     name: 上村 一城
-    name_kata: カミムラ カズキ
+    name_kana: カミムラ カズキ
     gender: 男
     bloodtype: A
     birthday: 1971/01/01
@@ -591,7 +591,7 @@ persons:
     address_kata: ヤマガタケンサカタシシンデ
   - 'no': '50'
     name: 小倉 信也
-    name_kata: コクラ ノブヤ
+    name_kana: コクラ ノブヤ
     gender: 男
     bloodtype: A
     birthday: 1993/03/09
@@ -603,7 +603,7 @@ persons:
     address_kata: トウキョウトハチオウジシナカチョウ
   - 'no': '51'
     name: 山中 久江
-    name_kata: ヤマナカ ヒサエ
+    name_kana: ヤマナカ ヒサエ
     gender: 女
     bloodtype: O
     birthday: 1972/02/23
@@ -615,7 +615,7 @@ persons:
     address_kata: ホッカイドウシベツグンシベツチョウミナミ２ジョウ
   - 'no': '52'
     name: 南 洵子
-    name_kata: ミナミ ジュンコ
+    name_kana: ミナミ ジュンコ
     gender: 女
     bloodtype: AB
     birthday: 1970/07/16
@@ -627,7 +627,7 @@ persons:
     address_kata: カナガワケンヨコハマシイズミクナカタミナミ
   - 'no': '53'
     name: 原 多美子
-    name_kata: ハラ タミコ
+    name_kana: ハラ タミコ
     gender: 女
     bloodtype: A
     birthday: 1994/10/27
@@ -639,7 +639,7 @@ persons:
     address_kata: アオモリケンヒラカワシタチタナカマエダ
   - 'no': '54'
     name: 山岸 夕子
-    name_kata: ヤマギシ ユウコ
+    name_kana: ヤマギシ ユウコ
     gender: 女
     bloodtype: A
     birthday: 1985/11/21
@@ -651,7 +651,7 @@ persons:
     address_kata: イワテケンオオフナトシアカサキチョウ
   - 'no': '55'
     name: 林田 康司
-    name_kata: ハヤシダ ヤスシ
+    name_kana: ハヤシダ ヤスシ
     gender: 男
     bloodtype: A
     birthday: 1971/01/25
@@ -663,7 +663,7 @@ persons:
     address_kata: トウキョウトエドガワクセイシンチョウ
   - 'no': '56'
     name: 吉野 敬正
-    name_kata: ヨシノ ヨシマサ
+    name_kana: ヨシノ ヨシマサ
     gender: 男
     bloodtype: A
     birthday: 1984/08/15
@@ -675,7 +675,7 @@ persons:
     address_kata: トウキョウトヒガシムラヤマシアキツチョウ
   - 'no': '57'
     name: 相沢 章子
-    name_kata: アイザワ ショウコ
+    name_kana: アイザワ ショウコ
     gender: 女
     bloodtype: A
     birthday: 1974/09/06
@@ -687,7 +687,7 @@ persons:
     address_kata: イバラキケンリュウガサキシイタバシマチ
   - 'no': '58'
     name: 西川 智
-    name_kata: ニシカワ トモ
+    name_kana: ニシカワ トモ
     gender: 女
     bloodtype: A
     birthday: 1971/06/15
@@ -699,7 +699,7 @@ persons:
     address_kata: クマモトケンクマモトシフルオケヤマチ
   - 'no': '59'
     name: 土井 久江
-    name_kata: ドイ ヒサエ
+    name_kana: ドイ ヒサエ
     gender: 女
     bloodtype: A
     birthday: 1990/03/18
@@ -711,7 +711,7 @@ persons:
     address_kata: ギフケンギフシフクトミチョウダ
   - 'no': '60'
     name: 野沢 俊康
-    name_kata: ノザワ トシヤス
+    name_kana: ノザワ トシヤス
     gender: 男
     bloodtype: B
     birthday: 1994/12/10
@@ -723,7 +723,7 @@ persons:
     address_kata: トクシマケンミヨシシイカワチョウタナカ
   - 'no': '61'
     name: 谷本 隆次
-    name_kata: タニモト タカジ
+    name_kana: タニモト タカジ
     gender: 男
     bloodtype: B
     birthday: 1974/08/30
@@ -735,7 +735,7 @@ persons:
     address_kata: トヤマケンナメリカワシコモハラ
   - 'no': '62'
     name: 服部 さやか
-    name_kata: ハットリ サヤカ
+    name_kana: ハットリ サヤカ
     gender: 女
     bloodtype: A
     birthday: 1973/10/18
@@ -747,7 +747,7 @@ persons:
     address_kata: フクシマケンシラカワシサカエマチ
   - 'no': '63'
     name: 村瀬 敏継
-    name_kata: ムラセ トシツグ
+    name_kana: ムラセ トシツグ
     gender: 男
     bloodtype: A
     birthday: 1989/10/20
@@ -759,7 +759,7 @@ persons:
     address_kata: トウキョウトオウメシタキノウエチョウ
   - 'no': '64'
     name: 早川 金義
-    name_kata: ハヤカワ カネヨシ
+    name_kana: ハヤカワ カネヨシ
     gender: 男
     bloodtype: O
     birthday: 1978/06/17
@@ -771,7 +771,7 @@ persons:
     address_kata: ギフケンギフシスギヤマチョウ
   - 'no': '65'
     name: 内藤 理佐
-    name_kata: ナイトウ リサ
+    name_kana: ナイトウ リサ
     gender: 女
     bloodtype: A
     birthday: 1992/12/15
@@ -783,7 +783,7 @@ persons:
     address_kata: ナラケンテンリシモリモトチョウ
   - 'no': '66'
     name: 石橋 教夫
-    name_kata: イシバシ ノリオ
+    name_kana: イシバシ ノリオ
     gender: 男
     bloodtype: O
     birthday: 1979/09/26
@@ -795,7 +795,7 @@ persons:
     address_kata: トウキョウトハチオウジシテラマチ
   - 'no': '67'
     name: 原 良市
-    name_kata: ハラ リョウイチ
+    name_kana: ハラ リョウイチ
     gender: 男
     bloodtype: A
     birthday: 1988/12/31
@@ -807,7 +807,7 @@ persons:
     address_kata: トウキョウトエドガワクコマツガワ
   - 'no': '68'
     name: 中島 一智
-    name_kata: ナカシマ カズトモ
+    name_kana: ナカシマ カズトモ
     gender: 男
     bloodtype: O
     birthday: 1982/05/29
@@ -819,7 +819,7 @@ persons:
     address_kata: ミエケンナバリシシモオバタ
   - 'no': '69'
     name: 岩井 美砂
-    name_kata: イワイ ミサ
+    name_kana: イワイ ミサ
     gender: 女
     bloodtype: A
     birthday: 1980/08/08
@@ -831,7 +831,7 @@ persons:
     address_kata: ヒョウゴケンヒメジシシカマクアガニシチョウ
   - 'no': '70'
     name: 村山 茂義
-    name_kata: ムラヤマ シゲヨシ
+    name_kana: ムラヤマ シゲヨシ
     gender: 男
     bloodtype: O
     birthday: 1975/09/19
@@ -843,7 +843,7 @@ persons:
     address_kata: ヒョウゴケンスモトシゴシキチョウアイハラシンヨウ
   - 'no': '71'
     name: 下田 隆哉
-    name_kata: シモダ タカヤ
+    name_kana: シモダ タカヤ
     gender: 男
     bloodtype: B
     birthday: 1988/01/23
@@ -855,7 +855,7 @@ persons:
     address_kata: シガケンヤスシヨシカワ
   - 'no': '72'
     name: 高山 智子
-    name_kata: タカヤマ トモコ
+    name_kana: タカヤマ トモコ
     gender: 女
     bloodtype: B
     birthday: 1992/05/10
@@ -867,7 +867,7 @@ persons:
     address_kata: ホッカイドウハコダテシカワハラチョウ
   - 'no': '73'
     name: 神谷 泰秀
-    name_kata: シンタニ ヤスヒデ
+    name_kana: シンタニ ヤスヒデ
     gender: 男
     bloodtype: A
     birthday: 1974/07/02
@@ -879,7 +879,7 @@ persons:
     address_kata: カガワケンナカタドグンマンノウチョウクモン
   - 'no': '74'
     name: 武田 勝英
-    name_kata: タケダ カツヒデ
+    name_kana: タケダ カツヒデ
     gender: 男
     bloodtype: AB
     birthday: 1970/01/27
@@ -891,7 +891,7 @@ persons:
     address_kata: トウキョウトクニタチシキタ
   - 'no': '75'
     name: 武井 千琴
-    name_kata: タケイ チコト
+    name_kana: タケイ チコト
     gender: 女
     bloodtype: B
     birthday: 1976/12/02
@@ -903,7 +903,7 @@ persons:
     address_kata: ミエケンマツサカシアンラクチョウ
   - 'no': '76'
     name: 菅原 隆昭
-    name_kata: スガハラ タカアキ
+    name_kana: スガハラ タカアキ
     gender: 男
     bloodtype: B
     birthday: 1986/07/11
@@ -915,7 +915,7 @@ persons:
     address_kata: ホッカイドウイワナイグンキョウワチョウリヤムナイ
   - 'no': '77'
     name: 横田 次生
-    name_kata: ヨコタ ツギオ
+    name_kana: ヨコタ ツギオ
     gender: 男
     bloodtype: O
     birthday: 1975/10/14
@@ -927,7 +927,7 @@ persons:
     address_kata: トウキョウトニシトウキョウシタナシチョウ
   - 'no': '78'
     name: 菅野 三保子
-    name_kata: スガノ ミホコ
+    name_kana: スガノ ミホコ
     gender: 女
     bloodtype: O
     birthday: 1980/04/29
@@ -939,7 +939,7 @@ persons:
     address_kata: ニイガタケンイワフネグンカミハヤシムラコイデ
   - 'no': '79'
     name: 吉沢 威佐夫
-    name_kata: ヨシザワ イサオ
+    name_kana: ヨシザワ イサオ
     gender: 男
     bloodtype: B
     birthday: 1975/12/15
@@ -951,7 +951,7 @@ persons:
     address_kata: ナラケンカシハラシキハラチョウ
   - 'no': '80'
     name: 小田 僧三郎
-    name_kata: オダ ソウザブロウ
+    name_kana: オダ ソウザブロウ
     gender: 男
     bloodtype: A
     birthday: 1987/05/15
@@ -963,7 +963,7 @@ persons:
     address_kata: ナガサキケンナガサキシオウギマチ
   - 'no': '81'
     name: 畠山 鎮雄
-    name_kata: ハタケヤマ シズオ
+    name_kana: ハタケヤマ シズオ
     gender: 男
     bloodtype: A
     birthday: 1988/11/06
@@ -975,7 +975,7 @@ persons:
     address_kata: トウキョウトニシタマグンミズホマチコマガタフジヤマ
   - 'no': '82'
     name: 西村 浩史
-    name_kata: ニシムラ ヒロシ
+    name_kana: ニシムラ ヒロシ
     gender: 男
     bloodtype: O
     birthday: 1971/01/29
@@ -987,7 +987,7 @@ persons:
     address_kata: ヒロシマケンミヨシシキサチョウシキジ
   - 'no': '83'
     name: 藤沢 麗奈
-    name_kata: フジサワ レイナ
+    name_kana: フジサワ レイナ
     gender: 女
     bloodtype: A
     birthday: 1980/03/31
@@ -999,7 +999,7 @@ persons:
     address_kata: グンマケンタカサキシクラブチマチサンノクラ
   - 'no': '84'
     name: 河村 美世
-    name_kata: カワムラ ミヨ
+    name_kana: カワムラ ミヨ
     gender: 女
     bloodtype: B
     birthday: 1993/06/22
@@ -1011,7 +1011,7 @@ persons:
     address_kata: シマネケンカノアシグンツワノチョウタニムラ
   - 'no': '85'
     name: 甲斐 育雄
-    name_kata: カイ イクオ
+    name_kana: カイ イクオ
     gender: 男
     bloodtype: A
     birthday: 1975/10/06
@@ -1023,7 +1023,7 @@ persons:
     address_kata: ホッカイドウサッポロシニシクコトニ４ジョウ
   - 'no': '86'
     name: 星野 麗奈
-    name_kata: ホシノ レイナ
+    name_kana: ホシノ レイナ
     gender: 女
     bloodtype: O
     birthday: 1980/06/25
@@ -1035,7 +1035,7 @@ persons:
     address_kata: キョウトフキョウトシヤマシナクカワタツチボトケ
   - 'no': '87'
     name: 本田 令
-    name_kata: ホンダ レイ
+    name_kana: ホンダ レイ
     gender: 女
     bloodtype: O
     birthday: 1973/01/23
@@ -1047,7 +1047,7 @@ persons:
     address_kata: ニイガタケンニイガタシヒガシナカドオリ
   - 'no': '88'
     name: 角田 貴浩
-    name_kata: スミタ タカヒロ
+    name_kana: スミタ タカヒロ
     gender: 男
     bloodtype: B
     birthday: 1977/07/08
@@ -1059,7 +1059,7 @@ persons:
     address_kata: キョウトフキョウトシニシキョウクオオハラノカミザトオジカチョウ
   - 'no': '89'
     name: 小西 優子
-    name_kata: コニシ ユウコ
+    name_kana: コニシ ユウコ
     gender: 女
     bloodtype: A
     birthday: 1994/11/11
@@ -1071,7 +1071,7 @@ persons:
     address_kata: トウキョウトオオタクカマタ
   - 'no': '90'
     name: 水野 結衣
-    name_kata: ミズノ ユイ
+    name_kana: ミズノ ユイ
     gender: 女
     bloodtype: O
     birthday: 1972/06/11
@@ -1083,7 +1083,7 @@ persons:
     address_kata: トウキョウトミタカシノザキ
   - 'no': '91'
     name: 井上 慎治
-    name_kata: イノウエ シンジ
+    name_kana: イノウエ シンジ
     gender: 男
     bloodtype: O
     birthday: 1990/07/11
@@ -1095,7 +1095,7 @@ persons:
     address_kata: ニイガタケントオカマチシオオイシ
   - 'no': '92'
     name: 高瀬 広明
-    name_kata: タカセ ヒロアキ
+    name_kana: タカセ ヒロアキ
     gender: 男
     bloodtype: A
     birthday: 1975/10/25
@@ -1107,7 +1107,7 @@ persons:
     address_kata: サガケンサガシハッチョウナワテマチ
   - 'no': '93'
     name: 土井 つばさ
-    name_kata: ドイ ツバサ
+    name_kana: ドイ ツバサ
     gender: 男
     bloodtype: O
     birthday: 1982/05/21
@@ -1119,7 +1119,7 @@ persons:
     address_kata: ナガサキケンサセボシヨコオチョウ
   - 'no': '94'
     name: 齋藤 留三
-    name_kata: サイトウ リュウゾウ
+    name_kana: サイトウ リュウゾウ
     gender: 男
     bloodtype: B
     birthday: 1987/03/31
@@ -1131,7 +1131,7 @@ persons:
     address_kata: トウキョウトネリマクトヨタマカミ
   - 'no': '95'
     name: 泉 鉄次
-    name_kata: イズミ テツジ
+    name_kana: イズミ テツジ
     gender: 男
     bloodtype: A
     birthday: 1993/02/12
@@ -1143,7 +1143,7 @@ persons:
     address_kata: ホッカイドウナヨロシトナミ
   - 'no': '96'
     name: 星野 英造
-    name_kata: ホシノ エイゾウ
+    name_kana: ホシノ エイゾウ
     gender: 男
     bloodtype: A
     birthday: 1977/11/06
@@ -1155,7 +1155,7 @@ persons:
     address_kata: ミヤギケンシロイシシアサヒチョウ
   - 'no': '97'
     name: 今村 宏弥
-    name_kata: イマムラ ヒロヤ
+    name_kana: イマムラ ヒロヤ
     gender: 男
     bloodtype: A
     birthday: 1992/01/04
@@ -1167,7 +1167,7 @@ persons:
     address_kata: トウキョウトセタガヤクキョウドウ
   - 'no': '98'
     name: 中谷 真人
-    name_kata: ナカタニ マコト
+    name_kana: ナカタニ マコト
     gender: 男
     bloodtype: A
     birthday: 1972/07/22
@@ -1179,7 +1179,7 @@ persons:
     address_kata: アイチケンツシマシナカノマチ
   - 'no': '99'
     name: 関口 真志
-    name_kata: セキグチ マサシ
+    name_kana: セキグチ マサシ
     gender: 男
     bloodtype: B
     birthday: 1988/04/04
@@ -1191,7 +1191,7 @@ persons:
     address_kata: ミヤザキケンサイトシカミアゲ
   - 'no': '100'
     name: 奥村 要之助
-    name_kata: オクムラ ヨウノスケ
+    name_kana: オクムラ ヨウノスケ
     gender: 男
     bloodtype: O
     birthday: 1971/12/12
@@ -1203,7 +1203,7 @@ persons:
     address_kata: ギフケンギフシココノエチョウ
   - 'no': '101'
     name: 坂本 安民
-    name_kata: サカモト ヤスタミ
+    name_kana: サカモト ヤスタミ
     gender: 男
     bloodtype: A
     birthday: 1988/05/26
@@ -1215,7 +1215,7 @@ persons:
     address_kata: イバラキケンイタコシノブカタ
   - 'no': '102'
     name: 中谷 友恵
-    name_kata: ナカタニ トモエ
+    name_kana: ナカタニ トモエ
     gender: 女
     bloodtype: A
     birthday: 1973/09/18
@@ -1227,7 +1227,7 @@ persons:
     address_kata: ニイガタケンニイガタシイリフネチョウ
   - 'no': '103'
     name: 小島 久江
-    name_kata: コジマ ヒサエ
+    name_kana: コジマ ヒサエ
     gender: 女
     bloodtype: B
     birthday: 1990/03/11
@@ -1239,7 +1239,7 @@ persons:
     address_kata: トウキョウトイタバシクトキワダイ
   - 'no': '104'
     name: 小川 詔勝
-    name_kata: オガワ ノリカツ
+    name_kana: オガワ ノリカツ
     gender: 男
     bloodtype: O
     birthday: 1978/03/21
@@ -1251,7 +1251,7 @@ persons:
     address_kata: イワテケンミヤコシミナミマチ
   - 'no': '105'
     name: 大槻 美次
-    name_kata: オオツキ ヨシツグ
+    name_kana: オオツキ ヨシツグ
     gender: 男
     bloodtype: A
     birthday: 1993/03/03
@@ -1263,7 +1263,7 @@ persons:
     address_kata: シズオカケンカモグンマツザキチョウアケブシ
   - 'no': '106'
     name: 北川 絵美
-    name_kata: キタカワ エミ
+    name_kana: キタカワ エミ
     gender: 女
     bloodtype: B
     birthday: 1981/04/17
@@ -1275,7 +1275,7 @@ persons:
     address_kata: ヒョウゴケンサヨウグンサヨウチョウサヨウ
   - 'no': '107'
     name: 大島 章一
-    name_kata: オオシマ ショウイチ
+    name_kana: オオシマ ショウイチ
     gender: 男
     bloodtype: A
     birthday: 1984/07/23
@@ -1287,7 +1287,7 @@ persons:
     address_kata: ナラケンヤマベグンヤマゾエムラオソセ
   - 'no': '108'
     name: 谷川 裕康
-    name_kata: ヤガワ ヒロヤス
+    name_kana: ヤガワ ヒロヤス
     gender: 男
     bloodtype: AB
     birthday: 1984/09/21
@@ -1299,7 +1299,7 @@ persons:
     address_kata: カガワケンタカマツシタマチ
   - 'no': '109'
     name: 金子 宏弥
-    name_kata: カネコ ヒロヤ
+    name_kana: カネコ ヒロヤ
     gender: 男
     bloodtype: A
     birthday: 1985/10/30
@@ -1311,7 +1311,7 @@ persons:
     address_kata: シズオカケンゴテンバシヤマオダ
   - 'no': '110'
     name: 広瀬 良信
-    name_kata: ヒロセ ヨシノブ
+    name_kana: ヒロセ ヨシノブ
     gender: 男
     bloodtype: A
     birthday: 1972/05/02
@@ -1323,7 +1323,7 @@ persons:
     address_kata: ヤマナシケンホクトシハクシュウチョウシラス
   - 'no': '111'
     name: 岩瀬 周平
-    name_kata: イワセ シュウヘイ
+    name_kana: イワセ シュウヘイ
     gender: 男
     bloodtype: O
     birthday: 1974/08/23
@@ -1335,7 +1335,7 @@ persons:
     address_kata: イシカワケンハクサンシナリマチ
   - 'no': '112'
     name: 古田 雄樹
-    name_kata: フルタ ユウキ
+    name_kana: フルタ ユウキ
     gender: 男
     bloodtype: B
     birthday: 1983/06/01
@@ -1347,7 +1347,7 @@ persons:
     address_kata: イバラキケンシモツマシナカゴウ
   - 'no': '113'
     name: 山村 重三郎
-    name_kata: ヤマムラ シゲザブロウ
+    name_kana: ヤマムラ シゲザブロウ
     gender: 男
     bloodtype: A
     birthday: 1987/11/24
@@ -1359,7 +1359,7 @@ persons:
     address_kata: オキナワケンオキナワシソノダ
   - 'no': '114'
     name: 馬場 顕子
-    name_kata: ババ アキコ
+    name_kana: ババ アキコ
     gender: 女
     bloodtype: A
     birthday: 1981/08/26
@@ -1371,7 +1371,7 @@ persons:
     address_kata: イワテケンオウシュウシコロモガワクオオザカ
   - 'no': '115'
     name: 緒方 志奈
-    name_kata: オガタ シナ
+    name_kana: オガタ シナ
     gender: 女
     bloodtype: O
     birthday: 1990/01/02
@@ -1383,7 +1383,7 @@ persons:
     address_kata: トヤマケントヤマシホンゴウ
   - 'no': '116'
     name: 嶋田 一樹
-    name_kata: シマダ ヒトキ
+    name_kana: シマダ ヒトキ
     gender: 男
     bloodtype: A
     birthday: 1978/08/09
@@ -1395,7 +1395,7 @@ persons:
     address_kata: ヒロシマケンアキグンフチュウチョウツルエ
   - 'no': '117'
     name: 山根 義子
-    name_kata: ヤマネ ヨシコ
+    name_kana: ヤマネ ヨシコ
     gender: 女
     bloodtype: A
     birthday: 1972/02/20
@@ -1407,7 +1407,7 @@ persons:
     address_kata: ギフケンギフシカノウナンヨウチョウ
   - 'no': '118'
     name: 金城 伸江
-    name_kata: キンジョウ ノブエ
+    name_kana: キンジョウ ノブエ
     gender: 女
     bloodtype: AB
     birthday: 1993/10/06
@@ -1419,7 +1419,7 @@ persons:
     address_kata: チバケンカモガワシアマツラ
   - 'no': '119'
     name: 中谷 冬樹
-    name_kata: ナカタニ フユキ
+    name_kana: ナカタニ フユキ
     gender: 男
     bloodtype: B
     birthday: 1980/05/20
@@ -1431,7 +1431,7 @@ persons:
     address_kata: トウキョウトタチカワシニシキチョウ
   - 'no': '120'
     name: 松下 雅栄
-    name_kata: マツシタ マサエ
+    name_kana: マツシタ マサエ
     gender: 男
     bloodtype: B
     birthday: 1991/09/13
@@ -1443,7 +1443,7 @@ persons:
     address_kata: ヒロシマケンヒロシマシナカクカナヤマチョウ
   - 'no': '121'
     name: 谷 友美
-    name_kata: タニ トモミ
+    name_kana: タニ トモミ
     gender: 女
     bloodtype: A
     birthday: 1982/02/18
@@ -1455,7 +1455,7 @@ persons:
     address_kata: トットリケンイワミグンイワミチョウウジ
   - 'no': '122'
     name: 武井 義子
-    name_kata: タケイ ヨシコ
+    name_kana: タケイ ヨシコ
     gender: 女
     bloodtype: B
     birthday: 1974/08/15
@@ -1467,7 +1467,7 @@ persons:
     address_kata: アオモリケンカミキタグンオイラセチョウナカヤチ
   - 'no': '123'
     name: 黒木 督彦
-    name_kata: クロキ トクヒコ
+    name_kana: クロキ トクヒコ
     gender: 男
     bloodtype: B
     birthday: 1987/04/25
@@ -1479,7 +1479,7 @@ persons:
     address_kata: フクイケンフクイシコオリチョウ
   - 'no': '124'
     name: 伊藤 由治
-    name_kata: イトウ ヨシハル
+    name_kana: イトウ ヨシハル
     gender: 男
     bloodtype: B
     birthday: 1991/07/19
@@ -1491,7 +1491,7 @@ persons:
     address_kata: ナガサキケンシマバラシミエマチ
   - 'no': '125'
     name: 山田 直紀
-    name_kata: ヤマダ ナオキ
+    name_kana: ヤマダ ナオキ
     gender: 男
     bloodtype: B
     birthday: 1971/10/23
@@ -1503,7 +1503,7 @@ persons:
     address_kata: ヤマガタケンツルオカシナカシミズ
   - 'no': '126'
     name: 星 元久
-    name_kata: ホシ モトヒサ
+    name_kana: ホシ モトヒサ
     gender: 男
     bloodtype: A
     birthday: 1983/03/06
@@ -1515,7 +1515,7 @@ persons:
     address_kata: トウキョウトシンジュククヒャクニンチョウ
   - 'no': '127'
     name: 泉 厚哉
-    name_kata: イズミ アツヤ
+    name_kana: イズミ アツヤ
     gender: 男
     bloodtype: O
     birthday: 1989/04/17
@@ -1527,7 +1527,7 @@ persons:
     address_kata: トットリケンサイハクグンナンブチョウフクサト
   - 'no': '128'
     name: 飯塚 顕太郎
-    name_kata: イイツカ ケンタロウ
+    name_kana: イイツカ ケンタロウ
     gender: 男
     bloodtype: AB
     birthday: 1992/09/21
@@ -1539,7 +1539,7 @@ persons:
     address_kata: ミエケンクワナシミサキドオリ
   - 'no': '129'
     name: 宮内 健児
-    name_kata: ミヤウチ ケンジ
+    name_kana: ミヤウチ ケンジ
     gender: 男
     bloodtype: O
     birthday: 1981/11/18
@@ -1551,7 +1551,7 @@ persons:
     address_kata: アイチケンナゴヤシナカムラクノダチョウ
   - 'no': '130'
     name: 中村 美己
-    name_kata: ナカムラ ヨシミ
+    name_kana: ナカムラ ヨシミ
     gender: 男
     bloodtype: O
     birthday: 1983/12/19
@@ -1563,7 +1563,7 @@ persons:
     address_kata: フクシマケンスカガワシクズレメン
   - 'no': '131'
     name: 菊地 顕子
-    name_kata: キクチ アキコ
+    name_kana: キクチ アキコ
     gender: 女
     bloodtype: O
     birthday: 1982/09/02
@@ -1575,7 +1575,7 @@ persons:
     address_kata: トウキョウトニシトウキョウシホウヤチョウ
   - 'no': '132'
     name: 小池 惣之助
-    name_kata: コイケ ソウノスケ
+    name_kana: コイケ ソウノスケ
     gender: 男
     bloodtype: A
     birthday: 1989/05/19
@@ -1587,7 +1587,7 @@ persons:
     address_kata: ミヤギケンシバタグンオオガワラマチアサヒチョウ
   - 'no': '133'
     name: 松山 直子
-    name_kata: マツヤマ ナオコ
+    name_kana: マツヤマ ナオコ
     gender: 女
     bloodtype: A
     birthday: 1970/05/16
@@ -1599,7 +1599,7 @@ persons:
     address_kata: ナラケンゴセシイナイド
   - 'no': '134'
     name: 野村 秀次郎
-    name_kata: ノムラ ヒデジロウ
+    name_kana: ノムラ ヒデジロウ
     gender: 男
     bloodtype: A
     birthday: 1973/05/18
@@ -1611,7 +1611,7 @@ persons:
     address_kata: オカヤマケンミマサカシアソ
   - 'no': '135'
     name: 細川 波子
-    name_kata: ホソカワ ナミコ
+    name_kana: ホソカワ ナミコ
     gender: 女
     bloodtype: A
     birthday: 1979/03/15
@@ -1623,7 +1623,7 @@ persons:
     address_kata: ナラケンカシハラシホッケイジチョウ
   - 'no': '136'
     name: 小野寺 元信
-    name_kata: オノデラ モトノブ
+    name_kana: オノデラ モトノブ
     gender: 男
     bloodtype: O
     birthday: 1971/09/30
@@ -1635,7 +1635,7 @@ persons:
     address_kata: ニイガタケンニイガタシマキオ
   - 'no': '137'
     name: 浜野 堅次
-    name_kata: ハマノ ケンジ
+    name_kana: ハマノ ケンジ
     gender: 男
     bloodtype: B
     birthday: 1984/12/18
@@ -1647,7 +1647,7 @@ persons:
     address_kata: トウキョウトタイトウクニシアサクサ
   - 'no': '138'
     name: 柳田 準司
-    name_kata: ヤナギタ ジュンジ
+    name_kana: ヤナギタ ジュンジ
     gender: 男
     bloodtype: B
     birthday: 1993/07/06
@@ -1659,7 +1659,7 @@ persons:
     address_kata: トウキョウトスギナミクオオミヤ
   - 'no': '139'
     name: 岡野 雅栄
-    name_kata: オカノ マサエ
+    name_kana: オカノ マサエ
     gender: 男
     bloodtype: O
     birthday: 1983/12/23
@@ -1671,7 +1671,7 @@ persons:
     address_kata: エヒメケンオオズシヒラノチョウノダ
   - 'no': '140'
     name: 西村 理恵子
-    name_kata: ニシムラ リエコ
+    name_kana: ニシムラ リエコ
     gender: 女
     bloodtype: O
     birthday: 1989/11/19
@@ -1683,7 +1683,7 @@ persons:
     address_kata: シズオカケンフジノミヤシニシコイズミチョウ
   - 'no': '141'
     name: 内藤 一生
-    name_kata: ナイトウ イッセイ
+    name_kana: ナイトウ イッセイ
     gender: 男
     bloodtype: AB
     birthday: 1970/04/14
@@ -1695,7 +1695,7 @@ persons:
     address_kata: トットリケントウハクグンミササチョウカキダニ
   - 'no': '142'
     name: 大崎 勇四郎
-    name_kata: オオサキ ユウシロウ
+    name_kana: オオサキ ユウシロウ
     gender: 男
     bloodtype: B
     birthday: 1988/01/28
@@ -1707,7 +1707,7 @@ persons:
     address_kata: ホッカイドウオタルシテングヤマ
   - 'no': '143'
     name: 坂井 育雄
-    name_kata: サカイ イクオ
+    name_kana: サカイ イクオ
     gender: 男
     bloodtype: B
     birthday: 1971/08/14
@@ -1719,7 +1719,7 @@ persons:
     address_kata: ヒョウゴケントヨオカシヒダカチョウアサクラ
   - 'no': '144'
     name: 山田 是則
-    name_kata: ヤマダ ヨシノリ
+    name_kana: ヤマダ ヨシノリ
     gender: 男
     bloodtype: O
     birthday: 1972/07/02
@@ -1731,7 +1731,7 @@ persons:
     address_kata: イワテケンハナマキシタカマツ
   - 'no': '145'
     name: 白川 永基
-    name_kata: シラカワ エイキ
+    name_kana: シラカワ エイキ
     gender: 男
     bloodtype: A
     birthday: 1981/04/05
@@ -1743,7 +1743,7 @@ persons:
     address_kata: トチギケンサノシオオハシチョウ
   - 'no': '146'
     name: 長田 邦煕
-    name_kata: ナガタ クニヒロ
+    name_kana: ナガタ クニヒロ
     gender: 男
     bloodtype: A
     birthday: 1991/07/14
@@ -1755,7 +1755,7 @@ persons:
     address_kata: アイチケンアンジョウシホウレンチョウ
   - 'no': '147'
     name: 大原 清重
-    name_kata: オオハラ キヨシゲ
+    name_kana: オオハラ キヨシゲ
     gender: 男
     bloodtype: B
     birthday: 1993/03/08
@@ -1767,7 +1767,7 @@ persons:
     address_kata: トヤマケントヤマシハチニンマチ
   - 'no': '148'
     name: 野崎 智勝
-    name_kata: ノザキ トモカツ
+    name_kana: ノザキ トモカツ
     gender: 男
     bloodtype: O
     birthday: 1972/10/07
@@ -1779,7 +1779,7 @@ persons:
     address_kata: ワカヤマケンカイソウグンキミノチョウフクダ
   - 'no': '149'
     name: 川島 真紀子
-    name_kata: カワシマ マキコ
+    name_kana: カワシマ マキコ
     gender: 女
     bloodtype: A
     birthday: 1975/03/23
@@ -1791,7 +1791,7 @@ persons:
     address_kata: トヤマケンイミズシタナダ
   - 'no': '150'
     name: 平山 是則
-    name_kata: ヒラヤマ ヨシノリ
+    name_kana: ヒラヤマ ヨシノリ
     gender: 男
     bloodtype: O
     birthday: 1978/04/18
@@ -1803,7 +1803,7 @@ persons:
     address_kata: クマモトケンクマモトシオミネ
   - 'no': '151'
     name: 宇野 とく子
-    name_kata: ウノ トクコ
+    name_kana: ウノ トクコ
     gender: 女
     bloodtype: A
     birthday: 1990/02/08
@@ -1815,7 +1815,7 @@ persons:
     address_kata: ギフケンギフシニシカイデンコメノ
   - 'no': '152'
     name: 中村 英博
-    name_kata: ナカムラ ヒデヒロ
+    name_kana: ナカムラ ヒデヒロ
     gender: 男
     bloodtype: B
     birthday: 1991/12/19
@@ -1827,7 +1827,7 @@ persons:
     address_kata: トウキョウトセタガヤクオヤマダイ
   - 'no': '153'
     name: 飯塚 愛
-    name_kata: イイツカ アイ
+    name_kana: イイツカ アイ
     gender: 女
     bloodtype: A
     birthday: 1991/02/09
@@ -1839,7 +1839,7 @@ persons:
     address_kata: キョウトフキョウトシキタクオオミヤキタバヤシチョウ
   - 'no': '154'
     name: 小川 重三郎
-    name_kata: オガワ シゲザブロウ
+    name_kana: オガワ シゲザブロウ
     gender: 男
     bloodtype: B
     birthday: 1971/04/05
@@ -1851,7 +1851,7 @@ persons:
     address_kata: トウキョウトカツシカクニシシンコイワ
   - 'no': '155'
     name: 武藤 伸次郎
-    name_kata: ムトウ シンジロウ
+    name_kana: ムトウ シンジロウ
     gender: 男
     bloodtype: O
     birthday: 1980/12/19
@@ -1863,7 +1863,7 @@ persons:
     address_kata: トウキョウトカツシカクヒガシヨツギ
   - 'no': '156'
     name: 杉本 真知子
-    name_kata: スギモト マチコ
+    name_kana: スギモト マチコ
     gender: 女
     bloodtype: A
     birthday: 1977/02/11
@@ -1875,7 +1875,7 @@ persons:
     address_kata: オオサカフスイタシホナミチョウ
   - 'no': '157'
     name: 溝口 友子
-    name_kata: ミゾクチ トモコ
+    name_kana: ミゾクチ トモコ
     gender: 女
     bloodtype: B
     birthday: 1974/01/12
@@ -1887,7 +1887,7 @@ persons:
     address_kata: オオサカフネヤガワシウチアゲミヤマエチョウ
   - 'no': '158'
     name: 谷本 慶太郎
-    name_kata: タニモト ケイタロウ
+    name_kana: タニモト ケイタロウ
     gender: 男
     bloodtype: B
     birthday: 1982/12/28
@@ -1899,7 +1899,7 @@ persons:
     address_kata: トウキョウトヒノシサクラマチ
   - 'no': '159'
     name: 坂本 徳彦
-    name_kata: サカモト ノリヒコ
+    name_kana: サカモト ノリヒコ
     gender: 男
     bloodtype: O
     birthday: 1983/06/19
@@ -1911,7 +1911,7 @@ persons:
     address_kata: アイチケンナゴヤシミナミクサクシタチョウ
   - 'no': '160'
     name: 北川 準郎
-    name_kata: キタカワ ジュンロウ
+    name_kana: キタカワ ジュンロウ
     gender: 男
     bloodtype: B
     birthday: 1984/06/11
@@ -1923,7 +1923,7 @@ persons:
     address_kata: オオサカフカイヅカシニシキ
   - 'no': '161'
     name: 西 敬正
-    name_kata: ニシ ヨシマサ
+    name_kana: ニシ ヨシマサ
     gender: 男
     bloodtype: O
     birthday: 1976/09/29
@@ -1935,7 +1935,7 @@ persons:
     address_kata: ヒョウゴケンニシノミヤシアゲナルオチョウ
   - 'no': '162'
     name: 日野 千絵子
-    name_kata: ヒノ チエコ
+    name_kana: ヒノ チエコ
     gender: 女
     bloodtype: B
     birthday: 1977/02/25
@@ -1947,7 +1947,7 @@ persons:
     address_kata: ギフケンカカミガハラシナカモンゼンチョウ
   - 'no': '163'
     name: 栗原 禎二
-    name_kata: クリハラ テイジ
+    name_kana: クリハラ テイジ
     gender: 男
     bloodtype: B
     birthday: 1982/09/25
@@ -1959,7 +1959,7 @@ persons:
     address_kata: ワカヤマケンワカヤマシシバノチョウ
   - 'no': '164'
     name: 松原 雅宏
-    name_kata: マツバラ マサヒロ
+    name_kana: マツバラ マサヒロ
     gender: 男
     bloodtype: A
     birthday: 1980/05/27
@@ -1971,7 +1971,7 @@ persons:
     address_kata: キョウトフヤワタシキンメイダイニシ
   - 'no': '165'
     name: 三浦 幸郎
-    name_kata: ミウラ ユキロウ
+    name_kana: ミウラ ユキロウ
     gender: 男
     bloodtype: A
     birthday: 1976/01/17
@@ -1983,7 +1983,7 @@ persons:
     address_kata: イワテケンイチノセキシコゼンジ
   - 'no': '166'
     name: 西川 有
-    name_kata: サイカワ タモツ
+    name_kana: サイカワ タモツ
     gender: 男
     bloodtype: B
     birthday: 1989/04/15
@@ -1995,7 +1995,7 @@ persons:
     address_kata: ナガサキケンサセボシセチバルチョウニシノタケ
   - 'no': '167'
     name: 齋藤 好利
-    name_kata: サイトウ ヨシトシ
+    name_kana: サイトウ ヨシトシ
     gender: 男
     bloodtype: A
     birthday: 1981/12/28
@@ -2007,7 +2007,7 @@ persons:
     address_kata: トウキョウトチヨダクイワモトチョウ
   - 'no': '168'
     name: 二宮 晴生
-    name_kata: ニノミヤ ハルオ
+    name_kana: ニノミヤ ハルオ
     gender: 男
     bloodtype: A
     birthday: 1982/06/22
@@ -2019,7 +2019,7 @@ persons:
     address_kata: イシカワケンハクイシシンボマチ
   - 'no': '169'
     name: 岡部 竹義
-    name_kata: オカベ タケヨシ
+    name_kana: オカベ タケヨシ
     gender: 男
     bloodtype: A
     birthday: 1978/11/01
@@ -2031,7 +2031,7 @@ persons:
     address_kata: ナガサキケンミナミマツウラグンシンカミゴトウチョウオガワラゴウ
   - 'no': '170'
     name: 白井 祐次郎
-    name_kata: シライ ユウジロウ
+    name_kana: シライ ユウジロウ
     gender: 男
     bloodtype: O
     birthday: 1989/11/28
@@ -2043,7 +2043,7 @@ persons:
     address_kata: ホッカイドウユウバリシアサヒマチ
   - 'no': '171'
     name: 田上 靖浩
-    name_kata: タガミ ヤスヒロ
+    name_kana: タガミ ヤスヒロ
     gender: 男
     bloodtype: O
     birthday: 1976/12/04
@@ -2055,7 +2055,7 @@ persons:
     address_kata: トウキョウトセタガヤクセタガヤ
   - 'no': '172'
     name: 戸田 貢太郎
-    name_kata: トダ コウタロウ
+    name_kana: トダ コウタロウ
     gender: 男
     bloodtype: A
     birthday: 1970/04/04
@@ -2067,7 +2067,7 @@ persons:
     address_kata: ヒョウゴケントヨオカシタケノチョウカワチ
   - 'no': '173'
     name: 関 梨恵子
-    name_kata: セキ リエコ
+    name_kana: セキ リエコ
     gender: 女
     bloodtype: A
     birthday: 1984/03/04
@@ -2079,7 +2079,7 @@ persons:
     address_kata: オカヤマケンワケグンワケチョウヨシダ
   - 'no': '174'
     name: 小谷 圭織
-    name_kata: コタニ カオリ
+    name_kana: コタニ カオリ
     gender: 女
     bloodtype: A
     birthday: 1984/10/07
@@ -2091,7 +2091,7 @@ persons:
     address_kata: カゴシマケンオオシマグンチナチョウマサナ
   - 'no': '175'
     name: 志村 哲昭
-    name_kata: シムラ テツアキ
+    name_kana: シムラ テツアキ
     gender: 男
     bloodtype: B
     birthday: 1981/08/10
@@ -2103,7 +2103,7 @@ persons:
     address_kata: イバラキケンカスミガウラシアンジキ
   - 'no': '176'
     name: 河合 晴仁
-    name_kata: カワイ ハルヒト
+    name_kana: カワイ ハルヒト
     gender: 男
     bloodtype: O
     birthday: 1972/08/28
@@ -2115,7 +2115,7 @@ persons:
     address_kata: フクオカケンキタキュウシュウシコクラキタクナカイ
   - 'no': '177'
     name: 吉野 孝次
-    name_kata: ヨシノ コウジ
+    name_kana: ヨシノ コウジ
     gender: 男
     bloodtype: A
     birthday: 1978/05/23
@@ -2127,7 +2127,7 @@ persons:
     address_kata: トクシマケンカイフグンカイヨウチョウノエ
   - 'no': '178'
     name: 尾崎 成男
-    name_kata: オザキ シゲオ
+    name_kana: オザキ シゲオ
     gender: 男
     bloodtype: A
     birthday: 1986/08/11
@@ -2139,7 +2139,7 @@ persons:
     address_kata: トウキョウトヒガシクルメシセンゲンチョウ
   - 'no': '179'
     name: 福岡 多紀子
-    name_kata: フクオカ タキコ
+    name_kana: フクオカ タキコ
     gender: 女
     bloodtype: O
     birthday: 1987/09/02
@@ -2151,7 +2151,7 @@ persons:
     address_kata: トウキョウトシブヤクウダガワチョウ
   - 'no': '180'
     name: 近藤 絵里
-    name_kata: コンドウ エリ
+    name_kana: コンドウ エリ
     gender: 女
     bloodtype: O
     birthday: 1982/11/14
@@ -2163,7 +2163,7 @@ persons:
     address_kata: ヒョウゴケンカコガワシベフチョウベフ
   - 'no': '181'
     name: 藤村 義子
-    name_kata: フジムラ ヨシコ
+    name_kana: フジムラ ヨシコ
     gender: 女
     bloodtype: A
     birthday: 1973/04/22
@@ -2175,7 +2175,7 @@ persons:
     address_kata: コウチケンアキシカワキタオツ
   - 'no': '182'
     name: 荻野 麻紀
-    name_kata: オギノ マキ
+    name_kana: オギノ マキ
     gender: 女
     bloodtype: A
     birthday: 1974/08/01
@@ -2187,7 +2187,7 @@ persons:
     address_kata: オオサカフサカイシサカイクコウリョウナカマチ
   - 'no': '183'
     name: 大野 喜久郎
-    name_kata: オオノ キクオ
+    name_kana: オオノ キクオ
     gender: 男
     bloodtype: A
     birthday: 1985/03/31
@@ -2199,7 +2199,7 @@ persons:
     address_kata: オオサカフセッツシトリカイハチボウ
   - 'no': '184'
     name: 南 偉生
-    name_kata: ミナミ ヒデオ
+    name_kana: ミナミ ヒデオ
     gender: 男
     bloodtype: AB
     birthday: 1990/09/11
@@ -2211,7 +2211,7 @@ persons:
     address_kata: ギフケンカカミガハラシナカハバシタチョウ
   - 'no': '185'
     name: 三木 亜依
-    name_kata: ミキ アイ
+    name_kana: ミキ アイ
     gender: 女
     bloodtype: A
     birthday: 1973/06/04
@@ -2223,7 +2223,7 @@ persons:
     address_kata: ヤマガタケンカミノヤマシカナオイヒガシ
   - 'no': '186'
     name: 谷川 英吾
-    name_kata: タニカワ エイゴ
+    name_kana: タニカワ エイゴ
     gender: 男
     bloodtype: A
     birthday: 1989/12/25
@@ -2235,7 +2235,7 @@ persons:
     address_kata: トウキョウトシナガワクオオイ
   - 'no': '187'
     name: 池上 咲子
-    name_kata: イケガミ サクコ
+    name_kana: イケガミ サクコ
     gender: 女
     bloodtype: B
     birthday: 1974/04/15
@@ -2247,7 +2247,7 @@ persons:
     address_kata: トウキョウトハムラシゴノカミ
   - 'no': '188'
     name: 川端 一世
-    name_kata: カワバタ カズヨ
+    name_kana: カワバタ カズヨ
     gender: 女
     bloodtype: A
     birthday: 1978/03/28
@@ -2259,7 +2259,7 @@ persons:
     address_kata: トウキョウトハチジョウジマハチジョウマチミツネ
   - 'no': '189'
     name: 今井 由治
-    name_kata: イマイ ヨシハル
+    name_kana: イマイ ヨシハル
     gender: 男
     bloodtype: O
     birthday: 1985/06/17
@@ -2271,7 +2271,7 @@ persons:
     address_kata: ヒョウゴケンサヨウグンサヨウチョウヒガシナカヤマ
   - 'no': '190'
     name: 塚田 芳弘
-    name_kata: ツカダ ヨシヒロ
+    name_kana: ツカダ ヨシヒロ
     gender: 男
     bloodtype: A
     birthday: 1990/08/27
@@ -2283,7 +2283,7 @@ persons:
     address_kata: キョウトフキョウトシカミギョウクイチカンノンチョウ
   - 'no': '191'
     name: 小川 倉美
-    name_kata: オガワ クラミ
+    name_kana: オガワ クラミ
     gender: 女
     bloodtype: B
     birthday: 1991/10/22
@@ -2295,7 +2295,7 @@ persons:
     address_kata: ミエケンヨッカイチシカミエビチョウ
   - 'no': '192'
     name: 大槻 さゆみ
-    name_kata: オオツキ サユミ
+    name_kana: オオツキ サユミ
     gender: 女
     bloodtype: O
     birthday: 1976/09/09
@@ -2307,7 +2307,7 @@ persons:
     address_kata: ナガサキケンミナミマツウラグンシンカミゴトウチョウニタクビゴウ
   - 'no': '193'
     name: 牧野 文典
-    name_kata: マキノ フミノリ
+    name_kana: マキノ フミノリ
     gender: 男
     bloodtype: A
     birthday: 1979/12/07
@@ -2319,7 +2319,7 @@ persons:
     address_kata: フクシマケンキタカタシヤマトマチオオバヤシ
   - 'no': '194'
     name: 金田 亜由美
-    name_kata: カネタ アユミ
+    name_kana: カネタ アユミ
     gender: 女
     bloodtype: A
     birthday: 1986/03/06
@@ -2331,7 +2331,7 @@ persons:
     address_kata: オオサカフマツバラシタツベ
   - 'no': '195'
     name: 熊谷 堅次
-    name_kata: クマガイ ケンジ
+    name_kana: クマガイ ケンジ
     gender: 男
     bloodtype: A
     birthday: 1985/09/05
@@ -2343,7 +2343,7 @@ persons:
     address_kata: トウキョウトシナガワクヒガシゴタンダ
   - 'no': '196'
     name: 坂本 洋子
-    name_kata: サカモト ヨウコ
+    name_kana: サカモト ヨウコ
     gender: 女
     bloodtype: B
     birthday: 1980/03/21
@@ -2355,7 +2355,7 @@ persons:
     address_kata: アイチケンイナザワシキタイチバミナミマチ
   - 'no': '197'
     name: 神谷 つばさ
-    name_kata: シンタニ ツバサ
+    name_kana: シンタニ ツバサ
     gender: 男
     bloodtype: B
     birthday: 1979/01/27
@@ -2367,7 +2367,7 @@ persons:
     address_kata: ナガサキケンサセボシキハラチョウ
   - 'no': '198'
     name: 山岡 章一
-    name_kata: ヤマオカ ショウイチ
+    name_kana: ヤマオカ ショウイチ
     gender: 男
     bloodtype: O
     birthday: 1972/03/17
@@ -2379,7 +2379,7 @@ persons:
     address_kata: オオサカフヒラカタシオオミネキタマチ
   - 'no': '199'
     name: 金子 直秋
-    name_kata: カネコ ナオアキ
+    name_kana: カネコ ナオアキ
     gender: 男
     bloodtype: B
     birthday: 1979/09/14
@@ -2391,7 +2391,7 @@ persons:
     address_kata: ニイガタケンナガオカシマチダマチ
   - 'no': '200'
     name: 中本 茂信
-    name_kata: ナカモト シゲノブ
+    name_kana: ナカモト シゲノブ
     gender: 男
     bloodtype: A
     birthday: 1981/09/03
@@ -2403,7 +2403,7 @@ persons:
     address_kata: シズオカケンフジシヒノデチョウ
   - 'no': '201'
     name: 戸田 兼一
-    name_kata: トダ カネカズ
+    name_kana: トダ カネカズ
     gender: 男
     bloodtype: O
     birthday: 1976/09/30
@@ -2415,7 +2415,7 @@ persons:
     address_kata: チバケントミサトシゴリョウ
   - 'no': '202'
     name: 米田 護
-    name_kata: マイタ マモル
+    name_kana: マイタ マモル
     gender: 男
     bloodtype: B
     birthday: 1994/05/25
@@ -2427,7 +2427,7 @@ persons:
     address_kata: ホッカイドウヤマコシグンオシャマンベチョウオオハマ
   - 'no': '203'
     name: 小原 章一
-    name_kata: オハラ ショウイチ
+    name_kana: オハラ ショウイチ
     gender: 男
     bloodtype: O
     birthday: 1975/07/22
@@ -2439,7 +2439,7 @@ persons:
     address_kata: アイチケントヨタシヒラシバチョウ
   - 'no': '204'
     name: 中村 道貴
-    name_kata: ナカムラ ミチタカ
+    name_kana: ナカムラ ミチタカ
     gender: 男
     bloodtype: A
     birthday: 1975/02/26
@@ -2451,7 +2451,7 @@ persons:
     address_kata: サイタマケンサイタマシミヌマクシンウエモンシンデン
   - 'no': '205'
     name: 大野 雅宏
-    name_kata: オオノ マサヒロ
+    name_kana: オオノ マサヒロ
     gender: 男
     bloodtype: A
     birthday: 1981/07/20
@@ -2463,7 +2463,7 @@ persons:
     address_kata: ギフケンセキシムゲガワチョウオジノ
   - 'no': '206'
     name: 宮原 秀春
-    name_kata: ミヤバラ ヒデハル
+    name_kana: ミヤバラ ヒデハル
     gender: 男
     bloodtype: O
     birthday: 1993/02/25
@@ -2475,7 +2475,7 @@ persons:
     address_kata: オカヤマケンオカヤマシナダサキチョウニシタカサキ
   - 'no': '207'
     name: 角田 雅生
-    name_kata: スミタ マサオ
+    name_kana: スミタ マサオ
     gender: 男
     bloodtype: A
     birthday: 1988/08/17
@@ -2487,7 +2487,7 @@ persons:
     address_kata: ワカヤマケンワカヤマシアリダヤマチ
   - 'no': '208'
     name: 宮下 麗奈
-    name_kata: ミヤシタ レイナ
+    name_kana: ミヤシタ レイナ
     gender: 女
     bloodtype: A
     birthday: 1989/06/18
@@ -2499,7 +2499,7 @@ persons:
     address_kata: キョウトフキョウトシヤマシナクカンシュウジヒガシドウデンチョウ
   - 'no': '209'
     name: 小島 優子
-    name_kata: コジマ ユウコ
+    name_kana: コジマ ユウコ
     gender: 女
     bloodtype: A
     birthday: 1993/06/12
@@ -2511,7 +2511,7 @@ persons:
     address_kata: ヤマグチケンサンヨウオノダシフナコシ
   - 'no': '210'
     name: 田代 允彦
-    name_kata: タシロ マサヒコ
+    name_kana: タシロ マサヒコ
     gender: 男
     bloodtype: O
     birthday: 1977/03/14
@@ -2523,7 +2523,7 @@ persons:
     address_kata: トヤマケンナメリカワシミドリマチ
   - 'no': '211'
     name: 福田 興亜
-    name_kata: フクタ キョウア
+    name_kana: フクタ キョウア
     gender: 男
     bloodtype: A
     birthday: 1986/07/06
@@ -2535,7 +2535,7 @@ persons:
     address_kata: ミエケンツシカワゲチョウハマダ
   - 'no': '212'
     name: 上原 拓夫
-    name_kata: ウエハラ タクオ
+    name_kana: ウエハラ タクオ
     gender: 男
     bloodtype: A
     birthday: 1994/09/25
@@ -2547,7 +2547,7 @@ persons:
     address_kata: カゴシマケンイチキクシキノシサカエマチ
   - 'no': '213'
     name: 山村 真琴
-    name_kata: ヤマムラ マコト
+    name_kana: ヤマムラ マコト
     gender: 女
     bloodtype: A
     birthday: 1977/09/20
@@ -2559,7 +2559,7 @@ persons:
     address_kata: イワテケンオウシュウシエサシクニシオオドオリ
   - 'no': '214'
     name: 近藤 聡
-    name_kata: コンドウ アキラ
+    name_kana: コンドウ アキラ
     gender: 男
     bloodtype: A
     birthday: 1982/09/30
@@ -2571,7 +2571,7 @@ persons:
     address_kata: ホッカイドウオタルシミドリ
   - 'no': '215'
     name: 河合 斎
-    name_kata: カワイ ヒトシ
+    name_kana: カワイ ヒトシ
     gender: 男
     bloodtype: A
     birthday: 1972/02/21
@@ -2583,7 +2583,7 @@ persons:
     address_kata: トウキョウトイタバシクフタバチョウ
   - 'no': '216'
     name: 堀田 宏季
-    name_kata: ホツタ コウキ
+    name_kana: ホツタ コウキ
     gender: 男
     bloodtype: A
     birthday: 1987/06/20
@@ -2595,7 +2595,7 @@ persons:
     address_kata: ヤマグチケンヤマグチシオオウチミホリ
   - 'no': '217'
     name: 黒木 貴浩
-    name_kata: クロキ タカヒロ
+    name_kana: クロキ タカヒロ
     gender: 男
     bloodtype: B
     birthday: 1985/01/30
@@ -2607,7 +2607,7 @@ persons:
     address_kata: ミヤザキケンミヤコノジョウシタカジョウチョウシカ
   - 'no': '218'
     name: 太田 伝三郎
-    name_kata: オオタ デンザブロウ
+    name_kana: オオタ デンザブロウ
     gender: 男
     bloodtype: A
     birthday: 1970/12/16
@@ -2619,7 +2619,7 @@ persons:
     address_kata: イワテケンハチマンタイシデンドウ
   - 'no': '219'
     name: 臼井 厚哉
-    name_kata: ウスイ アツヤ
+    name_kana: ウスイ アツヤ
     gender: 男
     bloodtype: A
     birthday: 1980/02/22
@@ -2631,7 +2631,7 @@ persons:
     address_kata: サイタマケントコロザワシクメ
   - 'no': '220'
     name: 尾崎 光範
-    name_kata: オザキ ミツノリ
+    name_kana: オザキ ミツノリ
     gender: 男
     bloodtype: B
     birthday: 1976/02/26
@@ -2643,7 +2643,7 @@ persons:
     address_kata: フクイケンフクイシミツヤチョウ
   - 'no': '221'
     name: 山本 元久
-    name_kata: ヤマモト モトヒサ
+    name_kana: ヤマモト モトヒサ
     gender: 男
     bloodtype: O
     birthday: 1992/08/04
@@ -2655,7 +2655,7 @@ persons:
     address_kata: キョウトフオトクニグンオオヤマザキチョウエンミョウジ
   - 'no': '222'
     name: 大山 辰己
-    name_kata: オオヤマ タツミ
+    name_kana: オオヤマ タツミ
     gender: 男
     bloodtype: B
     birthday: 1989/03/19
@@ -2667,7 +2667,7 @@ persons:
     address_kata: カゴシマケンカゴシマシギオンノスチョウ
   - 'no': '223'
     name: 北野 隆哉
-    name_kata: キタノ タカヤ
+    name_kana: キタノ タカヤ
     gender: 男
     bloodtype: A
     birthday: 1987/04/11
@@ -2679,7 +2679,7 @@ persons:
     address_kata: ホッカイドウヒロオグンタイキチョウコウチエン
   - 'no': '224'
     name: 阿部 弘義
-    name_kata: アベ ヒロヨシ
+    name_kana: アベ ヒロヨシ
     gender: 男
     bloodtype: A
     birthday: 1974/04/30
@@ -2691,7 +2691,7 @@ persons:
     address_kata: ナラケンナラシミナミイチチョウ
   - 'no': '225'
     name: 山下 允彦
-    name_kata: ヤマシタ マサヒコ
+    name_kana: ヤマシタ マサヒコ
     gender: 男
     bloodtype: A
     birthday: 1972/01/22
@@ -2703,7 +2703,7 @@ persons:
     address_kata: チバケンカトリグントウノショウマチナツメ
   - 'no': '226'
     name: 古田 浩治
-    name_kata: フルタ コウジ
+    name_kana: フルタ コウジ
     gender: 男
     bloodtype: O
     birthday: 1975/11/01
@@ -2715,7 +2715,7 @@ persons:
     address_kata: トチギケンサノシトナラチョウ
   - 'no': '227'
     name: 宮本 市雄
-    name_kata: ミヤモト イチオ
+    name_kana: ミヤモト イチオ
     gender: 男
     bloodtype: AB
     birthday: 1971/07/09
@@ -2727,7 +2727,7 @@ persons:
     address_kata: トットリケントットリシサジチョウハタ
   - 'no': '228'
     name: 上村 倉美
-    name_kata: ウエムラ クラミ
+    name_kana: ウエムラ クラミ
     gender: 女
     bloodtype: B
     birthday: 1994/03/24
@@ -2739,7 +2739,7 @@ persons:
     address_kata: シガケンヒガシアザイグントラヒメチョウニシオオイ
   - 'no': '229'
     name: 中田 良司
-    name_kata: ナカタ リョウジ
+    name_kana: ナカタ リョウジ
     gender: 男
     bloodtype: A
     birthday: 1985/07/02
@@ -2751,7 +2751,7 @@ persons:
     address_kata: ホッカイドウナカガワグントヨコロチョウモイワ
   - 'no': '230'
     name: 富田 和帰子
-    name_kata: トミタ ワキコ
+    name_kana: トミタ ワキコ
     gender: 女
     bloodtype: A
     birthday: 1984/06/25
@@ -2763,7 +2763,7 @@ persons:
     address_kata: カナガワケンイセハラシタカモリダイ
   - 'no': '231'
     name: 千田 直武
-    name_kata: センダ ナオタケ
+    name_kana: センダ ナオタケ
     gender: 男
     bloodtype: O
     birthday: 1986/06/30
@@ -2775,7 +2775,7 @@ persons:
     address_kata: ナラケンナラシツノフリチョウ
   - 'no': '232'
     name: 武藤 優香
-    name_kata: ムトウ ユウカ
+    name_kana: ムトウ ユウカ
     gender: 女
     bloodtype: A
     birthday: 1990/11/02
@@ -2787,7 +2787,7 @@ persons:
     address_kata: キョウトフマイヅルシオオカワ
   - 'no': '233'
     name: 池上 勇美
-    name_kata: イケガミ イサミ
+    name_kana: イケガミ イサミ
     gender: 女
     bloodtype: A
     birthday: 1979/11/26
@@ -2799,7 +2799,7 @@ persons:
     address_kata: アイチケンチタグンタケトヨチョウタカノマエ
   - 'no': '234'
     name: 岩瀬 佐千雄
-    name_kata: イワセ サチオ
+    name_kana: イワセ サチオ
     gender: 男
     bloodtype: O
     birthday: 1994/10/29
@@ -2811,7 +2811,7 @@ persons:
     address_kata: ニイガタケンニイガタシスナクズレ
   - 'no': '235'
     name: 松野 洋和
-    name_kata: マツノ ヒロカズ
+    name_kana: マツノ ヒロカズ
     gender: 男
     bloodtype: A
     birthday: 1982/05/24
@@ -2823,7 +2823,7 @@ persons:
     address_kata: トウキョウトヒガシヤマトシタマコ
   - 'no': '236'
     name: 平松 美波留
-    name_kata: ヒラマツ ミハル
+    name_kana: ヒラマツ ミハル
     gender: 女
     bloodtype: O
     birthday: 1970/05/19
@@ -2835,7 +2835,7 @@ persons:
     address_kata: アキタケンノシロシナンヨウザキ
   - 'no': '237'
     name: 北野 秀志
-    name_kata: キタノ ヒデシ
+    name_kana: キタノ ヒデシ
     gender: 男
     bloodtype: A
     birthday: 1980/04/20
@@ -2847,7 +2847,7 @@ persons:
     address_kata: フクオカケンキタキュウシュウシトバタクヒガシオオタニ
   - 'no': '238'
     name: 豊田 千琴
-    name_kata: トヨタ チコト
+    name_kana: トヨタ チコト
     gender: 女
     bloodtype: A
     birthday: 1990/12/05
@@ -2859,7 +2859,7 @@ persons:
     address_kata: フクイケンツルガシクツミ
   - 'no': '239'
     name: 竹村 伸江
-    name_kata: タケムラ ノブエ
+    name_kana: タケムラ ノブエ
     gender: 女
     bloodtype: A
     birthday: 1979/08/14
@@ -2871,7 +2871,7 @@ persons:
     address_kata: ヤマガタケンヤマガタシドウヤグチ
   - 'no': '240'
     name: 野口 芙美
-    name_kata: ノグチ フミ
+    name_kana: ノグチ フミ
     gender: 女
     bloodtype: B
     birthday: 1985/09/04
@@ -2883,7 +2883,7 @@ persons:
     address_kata: エヒメケンマツヤマシミナトマチ
   - 'no': '241'
     name: 片岡 英則
-    name_kata: カタオカ ヒデノリ
+    name_kana: カタオカ ヒデノリ
     gender: 男
     bloodtype: A
     birthday: 1994/05/20
@@ -2895,7 +2895,7 @@ persons:
     address_kata: オオサカフマツバラシタツベ
   - 'no': '242'
     name: 井上 完一
-    name_kata: イノウエ カンイチ
+    name_kana: イノウエ カンイチ
     gender: 男
     bloodtype: A
     birthday: 1971/03/26
@@ -2907,7 +2907,7 @@ persons:
     address_kata: トウキョウトチュウオウクニホンバシヨコヤマチョウ
   - 'no': '243'
     name: 平松 憲志
-    name_kata: ヒラマツ ノリユキ
+    name_kana: ヒラマツ ノリユキ
     gender: 男
     bloodtype: O
     birthday: 1987/09/17
@@ -2919,7 +2919,7 @@ persons:
     address_kata: トウキョウトコマエシコマイマチ
   - 'no': '244'
     name: 前田 好近
-    name_kata: マエタ ヨシチカ
+    name_kana: マエタ ヨシチカ
     gender: 男
     bloodtype: AB
     birthday: 1970/03/12
@@ -2931,7 +2931,7 @@ persons:
     address_kata: ミエケンオワセシセギヤマチョウ
   - 'no': '245'
     name: 大谷 完一
-    name_kata: オオタニ カンイチ
+    name_kana: オオタニ カンイチ
     gender: 男
     bloodtype: O
     birthday: 1974/04/01
@@ -2943,7 +2943,7 @@ persons:
     address_kata: イバラキケンツクバシシバサキ
   - 'no': '246'
     name: 長島 森勝
-    name_kata: ナガシマ モリカツ
+    name_kana: ナガシマ モリカツ
     gender: 男
     bloodtype: B
     birthday: 1971/08/08
@@ -2955,7 +2955,7 @@ persons:
     address_kata: ミエケンイセシウジナカノキリチョウ
   - 'no': '247'
     name: 村上 心一
-    name_kata: ムラカミ シンイチ
+    name_kana: ムラカミ シンイチ
     gender: 男
     bloodtype: A
     birthday: 1985/12/29
@@ -2967,7 +2967,7 @@ persons:
     address_kata: サイタマケンフカヤシハタケヤマ
   - 'no': '248'
     name: 水野 政治
-    name_kata: ミズノ マサハル
+    name_kana: ミズノ マサハル
     gender: 男
     bloodtype: B
     birthday: 1972/09/27
@@ -2979,7 +2979,7 @@ persons:
     address_kata: トウキョウトヒガシクルメシチュウオウチョウ
   - 'no': '249'
     name: 堀 繁造
-    name_kata: ホリ シゲゾウ
+    name_kana: ホリ シゲゾウ
     gender: 男
     bloodtype: B
     birthday: 1979/03/29
@@ -2991,7 +2991,7 @@ persons:
     address_kata: ニイガタケンニイガタシイリフネチョウ
   - 'no': '250'
     name: 森 裕子
-    name_kata: モリ ユウコ
+    name_kana: モリ ユウコ
     gender: 女
     bloodtype: A
     birthday: 1972/09/27
@@ -3003,7 +3003,7 @@ persons:
     address_kata: オオサカフヒガシオオサカシイナダホンマチ
   - 'no': '251'
     name: 本多 戴三
-    name_kata: ホンダ タイゾウ
+    name_kana: ホンダ タイゾウ
     gender: 男
     bloodtype: O
     birthday: 1971/09/29
@@ -3015,7 +3015,7 @@ persons:
     address_kata: トウキョウトマチダシツルマ
   - 'no': '252'
     name: 小原 松次郎
-    name_kata: コハラ マツジロウ
+    name_kana: コハラ マツジロウ
     gender: 男
     bloodtype: O
     birthday: 1972/06/13
@@ -3027,7 +3027,7 @@ persons:
     address_kata: トウキョウトコウトウクチュウオウボウハテイ
   - 'no': '253'
     name: 小泉 勝信
-    name_kata: コイズミ カツノブ
+    name_kana: コイズミ カツノブ
     gender: 男
     bloodtype: O
     birthday: 1987/12/15
@@ -3039,7 +3039,7 @@ persons:
     address_kata: オオサカフトヨナカシトネヤマ
   - 'no': '254'
     name: 堀内 兵吉
-    name_kata: ホリウチ ヒョウキチ
+    name_kana: ホリウチ ヒョウキチ
     gender: 男
     bloodtype: B
     birthday: 1976/03/20
@@ -3051,7 +3051,7 @@ persons:
     address_kata: オオサカフトヨナカシシバハラチョウ
   - 'no': '255'
     name: 河合 理香
-    name_kata: カワイ リカ
+    name_kana: カワイ リカ
     gender: 女
     bloodtype: A
     birthday: 1971/04/22
@@ -3063,7 +3063,7 @@ persons:
     address_kata: ホッカイドウウリュウグンホクリュウチョウビバウシ
   - 'no': '256'
     name: 溝口 育雄
-    name_kata: ミゾクチ イクオ
+    name_kana: ミゾクチ イクオ
     gender: 男
     bloodtype: A
     birthday: 1983/06/06
@@ -3075,7 +3075,7 @@ persons:
     address_kata: トウキョウトセタガヤクタイシドウ
   - 'no': '257'
     name: 北島 安則
-    name_kata: キタジマ ヤスノリ
+    name_kana: キタジマ ヤスノリ
     gender: 男
     bloodtype: A
     birthday: 1972/09/07
@@ -3087,7 +3087,7 @@ persons:
     address_kata: トウキョウトコウトウクヒラノ
   - 'no': '258'
     name: 新田 亮子
-    name_kata: アラタ リョウコ
+    name_kana: アラタ リョウコ
     gender: 女
     bloodtype: O
     birthday: 1985/05/19
@@ -3099,7 +3099,7 @@ persons:
     address_kata: ヒョウゴケンミキシベッショチョウニシホウダ
   - 'no': '259'
     name: 小坂 惣之助
-    name_kata: コサカ ソウノスケ
+    name_kana: コサカ ソウノスケ
     gender: 男
     bloodtype: O
     birthday: 1972/11/11
@@ -3111,7 +3111,7 @@ persons:
     address_kata: イバラキケンユウキシカワキヤ
   - 'no': '260'
     name: 山田 晴生
-    name_kata: ヤマダ ハルオ
+    name_kana: ヤマダ ハルオ
     gender: 男
     bloodtype: A
     birthday: 1979/07/17
@@ -3123,7 +3123,7 @@ persons:
     address_kata: トウキョウトオオタクチュウオウ
   - 'no': '261'
     name: 佐々木 麗奈
-    name_kata: ササキ レナ
+    name_kana: ササキ レナ
     gender: 女
     bloodtype: A
     birthday: 1981/11/18
@@ -3135,7 +3135,7 @@ persons:
     address_kata: フクオカケンミヤコグンカンダマチサイワイマチ
   - 'no': '262'
     name: 鈴木 彩
-    name_kata: スズキ アヤ
+    name_kana: スズキ アヤ
     gender: 女
     bloodtype: A
     birthday: 1984/10/27
@@ -3147,7 +3147,7 @@ persons:
     address_kata: オカヤマケンタカハシシカワカミチョウニカ
   - 'no': '263'
     name: 原 輝志郎
-    name_kata: ハラ キシロウ
+    name_kana: ハラ キシロウ
     gender: 男
     bloodtype: B
     birthday: 1990/09/26
@@ -3159,7 +3159,7 @@ persons:
     address_kata: ミヤギケントメシミナミカタマチゼニガネダン
   - 'no': '264'
     name: 飯田 義隆
-    name_kata: イイダ ヨシタカ
+    name_kana: イイダ ヨシタカ
     gender: 男
     bloodtype: AB
     birthday: 1988/06/19
@@ -3171,7 +3171,7 @@ persons:
     address_kata: トウキョウトアラカワクヒガシニッポリ
   - 'no': '265'
     name: 神田 雅美
-    name_kata: コウダ マサミ
+    name_kana: コウダ マサミ
     gender: 女
     bloodtype: A
     birthday: 1994/02/18
@@ -3183,7 +3183,7 @@ persons:
     address_kata: ホッカイドウユウバリシアサヒマチ
   - 'no': '266'
     name: 金沢 一生
-    name_kata: カナザワ イッセイ
+    name_kana: カナザワ イッセイ
     gender: 男
     bloodtype: A
     birthday: 1983/04/05
@@ -3195,7 +3195,7 @@ persons:
     address_kata: ヒョウゴケンニシノミヤシヒノチョウ
   - 'no': '267'
     name: 米田 貞郎
-    name_kata: マイタ サダオ
+    name_kana: マイタ サダオ
     gender: 男
     bloodtype: O
     birthday: 1983/07/31
@@ -3207,7 +3207,7 @@ persons:
     address_kata: フクシマケンキタカタシヤマトマチオオバヤシ
   - 'no': '268'
     name: 森本 啓矩
-    name_kata: モリモト ヒロノリ
+    name_kana: モリモト ヒロノリ
     gender: 男
     bloodtype: A
     birthday: 1975/01/26
@@ -3219,7 +3219,7 @@ persons:
     address_kata: ミエケンクワナシナガシマチョウコウザ
   - 'no': '269'
     name: 河原 昭良
-    name_kata: カワハラ アキヨシ
+    name_kana: カワハラ アキヨシ
     gender: 男
     bloodtype: O
     birthday: 1975/12/13
@@ -3231,7 +3231,7 @@ persons:
     address_kata: キョウトフキョウトシフシミクムラカミチョウ
   - 'no': '270'
     name: 宮崎 光次
-    name_kata: ミヤザキ ミツジ
+    name_kana: ミヤザキ ミツジ
     gender: 男
     bloodtype: O
     birthday: 1990/07/09
@@ -3243,7 +3243,7 @@ persons:
     address_kata: キョウトフアヤベシウエノチョウ
   - 'no': '271'
     name: 岸 新太郎
-    name_kata: キシ シンタロウ
+    name_kana: キシ シンタロウ
     gender: 男
     bloodtype: O
     birthday: 1978/06/30
@@ -3255,7 +3255,7 @@ persons:
     address_kata: フクシマケンニホンマツシフドウ
   - 'no': '272'
     name: 新田 清一
-    name_kata: ニイタ キヨカズ
+    name_kana: ニイタ キヨカズ
     gender: 男
     bloodtype: A
     birthday: 1991/12/06
@@ -3267,7 +3267,7 @@ persons:
     address_kata: ニイガタケンミナミウオヌマシカバノサワ
   - 'no': '273'
     name: 三宅 譲介
-    name_kata: ミヤケ ジョウスケ
+    name_kana: ミヤケ ジョウスケ
     gender: 男
     bloodtype: O
     birthday: 1972/04/12
@@ -3279,7 +3279,7 @@ persons:
     address_kata: トヤマケンナントシバンデ
   - 'no': '274'
     name: 田原 虎之助
-    name_kata: タハラ トラノスケ
+    name_kana: タハラ トラノスケ
     gender: 男
     bloodtype: B
     birthday: 1974/03/13
@@ -3291,7 +3291,7 @@ persons:
     address_kata: フクシマケンソウマシトミザワ
   - 'no': '275'
     name: 松田 靖浩
-    name_kata: マツダ ヤスヒロ
+    name_kana: マツダ ヤスヒロ
     gender: 男
     bloodtype: O
     birthday: 1982/07/12
@@ -3303,7 +3303,7 @@ persons:
     address_kata: オカヤマケンクラシキシコジマエキマエ
   - 'no': '276'
     name: 松田 たか子
-    name_kata: マツダ タカコ
+    name_kana: マツダ タカコ
     gender: 女
     bloodtype: O
     birthday: 1973/06/13
@@ -3315,7 +3315,7 @@ persons:
     address_kata: チバケンカモガワシアマツラ
   - 'no': '277'
     name: 手塚 亮子
-    name_kata: テヅカ リョウコ
+    name_kana: テヅカ リョウコ
     gender: 女
     bloodtype: B
     birthday: 1986/12/07
@@ -3327,7 +3327,7 @@ persons:
     address_kata: フクシマケンキタカタシシオカワマチヒルダ
   - 'no': '278'
     name: 岡部 成男
-    name_kata: オカベ シゲオ
+    name_kana: オカベ シゲオ
     gender: 男
     bloodtype: A
     birthday: 1978/05/31
@@ -3339,7 +3339,7 @@ persons:
     address_kata: フクオカケンクラテグンコタケマチニイダ
   - 'no': '279'
     name: 松野 美次
-    name_kata: マツノ ヨシツグ
+    name_kana: マツノ ヨシツグ
     gender: 男
     bloodtype: B
     birthday: 1971/11/17
@@ -3351,7 +3351,7 @@ persons:
     address_kata: クマモトケンヤマガシキクカマチマツオ
   - 'no': '280'
     name: 及川 美津枝
-    name_kata: オイカワ ミツエ
+    name_kana: オイカワ ミツエ
     gender: 女
     bloodtype: B
     birthday: 1982/07/18
@@ -3363,7 +3363,7 @@ persons:
     address_kata: チバケンノダシキマガセ
   - 'no': '281'
     name: 北川 秀志
-    name_kata: キタカワ ヒデシ
+    name_kana: キタカワ ヒデシ
     gender: 男
     bloodtype: AB
     birthday: 1994/11/14
@@ -3375,7 +3375,7 @@ persons:
     address_kata: ヒロシマケンアキグンカイタチョウタイショウマチ
   - 'no': '282'
     name: 菊池 喜久郎
-    name_kata: キクチ キクオ
+    name_kana: キクチ キクオ
     gender: 男
     bloodtype: B
     birthday: 1976/06/13
@@ -3387,7 +3387,7 @@ persons:
     address_kata: シズオカケンハママツシオノ
   - 'no': '283'
     name: 小谷 梨絵
-    name_kata: コタニ リエ
+    name_kana: コタニ リエ
     gender: 女
     bloodtype: O
     birthday: 1980/04/17
@@ -3399,7 +3399,7 @@ persons:
     address_kata: ホッカイドウクドウグンセタナチョウキタヒヤマクカブトノ
   - 'no': '284'
     name: 橋本 豊司
-    name_kata: ハシモト トヨシ
+    name_kana: ハシモト トヨシ
     gender: 男
     bloodtype: AB
     birthday: 1972/09/15
@@ -3411,7 +3411,7 @@ persons:
     address_kata: フクシマケンミナミソウマシオダカクカタクサ
   - 'no': '285'
     name: 坂本 利浩
-    name_kata: サカモト トシヒロ
+    name_kana: サカモト トシヒロ
     gender: 男
     bloodtype: O
     birthday: 1991/08/25
@@ -3423,7 +3423,7 @@ persons:
     address_kata: トウキョウトチヨダククダンキタ
   - 'no': '286'
     name: 西川 保行
-    name_kata: ニシカワ ヤスユキ
+    name_kana: ニシカワ ヤスユキ
     gender: 男
     bloodtype: O
     birthday: 1987/07/12
@@ -3435,7 +3435,7 @@ persons:
     address_kata: アイチケンオカザキシドウドニシマチ
   - 'no': '287'
     name: 笠原 芳伸
-    name_kata: カサハラ ヨシノブ
+    name_kana: カサハラ ヨシノブ
     gender: 男
     bloodtype: AB
     birthday: 1973/12/27
@@ -3447,7 +3447,7 @@ persons:
     address_kata: トウキョウトヒノシミサワ
   - 'no': '288'
     name: 村山 周
-    name_kata: ムラヤマ シュウキチ
+    name_kana: ムラヤマ シュウキチ
     gender: 男
     bloodtype: B
     birthday: 1993/03/07
@@ -3459,7 +3459,7 @@ persons:
     address_kata: ホッカイドウサッポロシキタクキタ２７ジョウニシ
   - 'no': '289'
     name: 新田 豊司
-    name_kata: アラタ トヨシ
+    name_kana: アラタ トヨシ
     gender: 男
     bloodtype: O
     birthday: 1973/09/12
@@ -3471,7 +3471,7 @@ persons:
     address_kata: イバラキケンサクラガワシアオキ
   - 'no': '290'
     name: 石崎 幸博
-    name_kata: イシザキ ユキヒロ
+    name_kana: イシザキ ユキヒロ
     gender: 男
     bloodtype: O
     birthday: 1993/12/30
@@ -3483,7 +3483,7 @@ persons:
     address_kata: ギフケンタカヤマシアサヒチョウイチノシュク
   - 'no': '291'
     name: 落合 美博
-    name_kata: オチアイ ヨシヒロ
+    name_kana: オチアイ ヨシヒロ
     gender: 男
     bloodtype: B
     birthday: 1991/03/24
@@ -3495,7 +3495,7 @@ persons:
     address_kata: ギフケンカカミガハラシカワシマコウダマチ
   - 'no': '292'
     name: 佐藤 錦也
-    name_kata: サトウ キンヤ
+    name_kana: サトウ キンヤ
     gender: 男
     bloodtype: A
     birthday: 1973/05/03
@@ -3507,7 +3507,7 @@ persons:
     address_kata: ヒョウゴケンコウベシナガタクミナミコマエチョウ
   - 'no': '293'
     name: 久保 直志
-    name_kata: クボ タダシ
+    name_kana: クボ タダシ
     gender: 男
     bloodtype: B
     birthday: 1988/07/06
@@ -3519,7 +3519,7 @@ persons:
     address_kata: オカヤマケンオカヤマシクバン
   - 'no': '294'
     name: 古田 恵志
-    name_kata: フルタ ケイシ
+    name_kana: フルタ ケイシ
     gender: 男
     bloodtype: A
     birthday: 1987/12/31
@@ -3531,7 +3531,7 @@ persons:
     address_kata: トウキョウトセタガヤクセタガヤ
   - 'no': '295'
     name: 森下 宜昭
-    name_kata: モリシタ ヨシアキ
+    name_kana: モリシタ ヨシアキ
     gender: 男
     bloodtype: B
     birthday: 1975/01/09
@@ -3543,7 +3543,7 @@ persons:
     address_kata: ミヤギケンカッタグンシチカシュクマチカミカラスガワ
   - 'no': '296'
     name: 庄司 三佐男
-    name_kata: ショウジ ミサオ
+    name_kana: ショウジ ミサオ
     gender: 男
     bloodtype: A
     birthday: 1980/10/13
@@ -3555,7 +3555,7 @@ persons:
     address_kata: ホッカイドウカミカワグンビエイチョウミタ
   - 'no': '297'
     name: 庄司 達生
-    name_kata: ショウジ タツオ
+    name_kana: ショウジ タツオ
     gender: 男
     bloodtype: B
     birthday: 1993/05/25
@@ -3567,7 +3567,7 @@ persons:
     address_kata: ヒョウゴケンタカグンタカチョウナカクオクナカ
   - 'no': '298'
     name: 今井 菊治
-    name_kata: イマイ キクハル
+    name_kana: イマイ キクハル
     gender: 男
     bloodtype: B
     birthday: 1981/10/30
@@ -3579,7 +3579,7 @@ persons:
     address_kata: フクイケンオオノシマツマル
   - 'no': '299'
     name: 上村 恵理
-    name_kata: ウエムラ エリ
+    name_kana: ウエムラ エリ
     gender: 女
     bloodtype: O
     birthday: 1975/06/01
@@ -3591,7 +3591,7 @@ persons:
     address_kata: エヒメケンイマバリシタカハシ
   - 'no': '300'
     name: 樋口 志奈
-    name_kata: ヒグチ シナ
+    name_kana: ヒグチ シナ
     gender: 女
     bloodtype: A
     birthday: 1992/09/24
@@ -3603,7 +3603,7 @@ persons:
     address_kata: トヤマケントヤマシフチュウマチコノシマ
   - 'no': '301'
     name: 宮城 義子
-    name_kata: ミヤギ ヨシコ
+    name_kana: ミヤギ ヨシコ
     gender: 女
     bloodtype: A
     birthday: 1971/05/07
@@ -3615,7 +3615,7 @@ persons:
     address_kata: オカヤマケンオカヤマシナカシマダチョウ
   - 'no': '302'
     name: 堀 祐子
-    name_kata: ホリ ユウコ
+    name_kana: ホリ ユウコ
     gender: 女
     bloodtype: A
     birthday: 1977/01/28
@@ -3627,7 +3627,7 @@ persons:
     address_kata: アオモリケンカミキタグンノヘジマチマエヒラ
   - 'no': '303'
     name: 川上 初
-    name_kata: カワカミ ハジメ
+    name_kana: カワカミ ハジメ
     gender: 男
     bloodtype: O
     birthday: 1991/12/03
@@ -3639,7 +3639,7 @@ persons:
     address_kata: ナラケンキタカツラギグンオウジチョウタイシ
   - 'no': '304'
     name: 菅野 重文
-    name_kata: スガノ シゲフミ
+    name_kana: スガノ シゲフミ
     gender: 男
     bloodtype: AB
     birthday: 1970/12/23
@@ -3651,7 +3651,7 @@ persons:
     address_kata: イバラキケンカミスシミゾグチ
   - 'no': '305'
     name: 西岡 由枝
-    name_kata: ニシオカ ヨシエ
+    name_kana: ニシオカ ヨシエ
     gender: 女
     bloodtype: A
     birthday: 1994/11/25
@@ -3663,7 +3663,7 @@ persons:
     address_kata: ワカヤマケンヒガシムログンコザガワチョウアイセ
   - 'no': '306'
     name: 宮崎 洋子
-    name_kata: ミヤザキ ヨウコ
+    name_kana: ミヤザキ ヨウコ
     gender: 女
     bloodtype: B
     birthday: 1984/06/13
@@ -3675,7 +3675,7 @@ persons:
     address_kata: シズオカケンシズオカシアオイクヒラノ
   - 'no': '307'
     name: 小林 恵八郎
-    name_kata: コバヤシ エイハチロウ
+    name_kana: コバヤシ エイハチロウ
     gender: 男
     bloodtype: O
     birthday: 1988/09/13
@@ -3687,7 +3687,7 @@ persons:
     address_kata: ニイガタケンミナミウオヌマシミョウガサワ
   - 'no': '308'
     name: 向井 明博
-    name_kata: ムカイ アキヒロ
+    name_kana: ムカイ アキヒロ
     gender: 男
     bloodtype: B
     birthday: 1983/12/06
@@ -3699,7 +3699,7 @@ persons:
     address_kata: トウキョウトハチオウジシミヤマチョウ
   - 'no': '309'
     name: 丹羽 正保
-    name_kata: ニワ マサヤス
+    name_kana: ニワ マサヤス
     gender: 男
     bloodtype: B
     birthday: 1983/12/10
@@ -3711,7 +3711,7 @@ persons:
     address_kata: ワカヤマケンニシムログンスサミチョウツヅラ
   - 'no': '310'
     name: 宇野 荘介
-    name_kata: ウノ ソウスケ
+    name_kana: ウノ ソウスケ
     gender: 男
     bloodtype: B
     birthday: 1974/01/11
@@ -3723,7 +3723,7 @@ persons:
     address_kata: トウキョウトタマシカラキダ
   - 'no': '311'
     name: 黒田 春実
-    name_kata: クロタ ハルミ
+    name_kana: クロタ ハルミ
     gender: 女
     bloodtype: B
     birthday: 1973/10/26
@@ -3735,7 +3735,7 @@ persons:
     address_kata: ニイガタケンアガノシブンダ
   - 'no': '312'
     name: 武田 哲子
-    name_kata: タケダ テツコ
+    name_kana: タケダ テツコ
     gender: 女
     bloodtype: AB
     birthday: 1972/06/10
@@ -3747,7 +3747,7 @@ persons:
     address_kata: ナラケンテンリシジョウガンジチョウ
   - 'no': '313'
     name: 米田 靖雄
-    name_kata: ヨネタ ヤスオ
+    name_kana: ヨネタ ヤスオ
     gender: 男
     bloodtype: A
     birthday: 1970/12/15
@@ -3759,7 +3759,7 @@ persons:
     address_kata: アイチケンコマキシハヤシ
   - 'no': '314'
     name: 笠井 武久
-    name_kata: カサイ タケヒサ
+    name_kana: カサイ タケヒサ
     gender: 男
     bloodtype: B
     birthday: 1970/06/26
@@ -3771,7 +3771,7 @@ persons:
     address_kata: キョウトフキョウトシフシミクシモトバロクタンチョウチョウ
   - 'no': '315'
     name: 大森 美里
-    name_kata: オオモリ ミサト
+    name_kana: オオモリ ミサト
     gender: 女
     bloodtype: B
     birthday: 1990/06/12
@@ -3783,7 +3783,7 @@ persons:
     address_kata: トットリケントウハクグンコトウラチョウナカツハラ
   - 'no': '316'
     name: 田原 一城
-    name_kata: タハラ カズキ
+    name_kana: タハラ カズキ
     gender: 男
     bloodtype: A
     birthday: 1979/12/08
@@ -3795,7 +3795,7 @@ persons:
     address_kata: ミヤギケンイワヌマシヒガシヤチ
   - 'no': '317'
     name: 長沢 有紀子
-    name_kata: ナガサワ ユキコ
+    name_kana: ナガサワ ユキコ
     gender: 女
     bloodtype: A
     birthday: 1981/12/03
@@ -3807,7 +3807,7 @@ persons:
     address_kata: ヒョウゴケンササヤマシホンゴウ
   - 'no': '318'
     name: 坂井 重則
-    name_kata: サカイ シゲノリ
+    name_kana: サカイ シゲノリ
     gender: 男
     bloodtype: A
     birthday: 1979/01/06
@@ -3819,7 +3819,7 @@ persons:
     address_kata: ニイガタケンジョウエツシニシマツノキ
   - 'no': '319'
     name: 大石 圭
-    name_kata: オオイシ ケイ
+    name_kana: オオイシ ケイ
     gender: 女
     bloodtype: A
     birthday: 1994/08/23
@@ -3831,7 +3831,7 @@ persons:
     address_kata: ヒョウゴケンタンバシサンナンチョウミナミナカ
   - 'no': '320'
     name: 嶋田 小春
-    name_kata: シマダ コハル
+    name_kana: シマダ コハル
     gender: 女
     bloodtype: A
     birthday: 1975/01/29
@@ -3843,7 +3843,7 @@ persons:
     address_kata: ナガサキケンサイカイシサイカイチョウナカウラミナミゴウ
   - 'no': '321'
     name: 福原 十三男
-    name_kata: フクハラ トミオ
+    name_kana: フクハラ トミオ
     gender: 男
     bloodtype: A
     birthday: 1977/05/29
@@ -3855,7 +3855,7 @@ persons:
     address_kata: トヤマケンクロベシイクジナカク
   - 'no': '322'
     name: 井口 初美
-    name_kata: イグチ ハツミ
+    name_kana: イグチ ハツミ
     gender: 女
     bloodtype: AB
     birthday: 1985/07/02
@@ -3867,7 +3867,7 @@ persons:
     address_kata: フクシマケンフクシマシカミノデラ
   - 'no': '323'
     name: 永野 和茂
-    name_kata: ナガノ カズシゲ
+    name_kana: ナガノ カズシゲ
     gender: 男
     bloodtype: O
     birthday: 1992/06/14
@@ -3879,7 +3879,7 @@ persons:
     address_kata: フクオカケンオオムタシシロマチ
   - 'no': '324'
     name: 森本 成美
-    name_kata: モリモト ナリミ
+    name_kana: モリモト ナリミ
     gender: 女
     bloodtype: A
     birthday: 1973/12/19
@@ -3891,7 +3891,7 @@ persons:
     address_kata: アイチケントヨタシオバザワチョウ
   - 'no': '325'
     name: 田辺 つばさ
-    name_kata: タナベ ツバサ
+    name_kana: タナベ ツバサ
     gender: 男
     bloodtype: A
     birthday: 1979/10/25
@@ -3903,7 +3903,7 @@ persons:
     address_kata: トウキョウトイナギシモムラ
   - 'no': '326'
     name: 吉原 亜依
-    name_kata: ヨシハラ アイ
+    name_kana: ヨシハラ アイ
     gender: 女
     bloodtype: A
     birthday: 1972/09/13
@@ -3915,7 +3915,7 @@ persons:
     address_kata: オオイタケンベップシホノメ
   - 'no': '327'
     name: 大西 幸博
-    name_kata: オオニシ ユキヒロ
+    name_kana: オオニシ ユキヒロ
     gender: 男
     bloodtype: O
     birthday: 1987/10/04
@@ -3927,7 +3927,7 @@ persons:
     address_kata: トウキョウトニシタマグンミズホマチタカネ
   - 'no': '328'
     name: 岩井 荘介
-    name_kata: イワイ ソウスケ
+    name_kana: イワイ ソウスケ
     gender: 男
     bloodtype: A
     birthday: 1978/04/27
@@ -3939,7 +3939,7 @@ persons:
     address_kata: ニイガタケンニイガタシウチノカタムカイ
   - 'no': '329'
     name: 津田 貞久
-    name_kata: ツダ サダヒサ
+    name_kana: ツダ サダヒサ
     gender: 男
     bloodtype: B
     birthday: 1989/12/09
@@ -3951,7 +3951,7 @@ persons:
     address_kata: トウキョウトナカノクマツガオカ
   - 'no': '330'
     name: 花田 明久
-    name_kata: ハナダ アキヒサ
+    name_kana: ハナダ アキヒサ
     gender: 男
     bloodtype: B
     birthday: 1989/04/21
@@ -3963,7 +3963,7 @@ persons:
     address_kata: ヤマグチケンアブグンアトウチョウイクモニシブン
   - 'no': '331'
     name: 小沢 敬
-    name_kata: オザワ サトシ
+    name_kana: オザワ サトシ
     gender: 男
     bloodtype: O
     birthday: 1970/03/02
@@ -3975,7 +3975,7 @@ persons:
     address_kata: オオサカフセッツシサクラマチ
   - 'no': '332'
     name: 片岡 泰秀
-    name_kata: カタオカ ヤスヒデ
+    name_kana: カタオカ ヤスヒデ
     gender: 男
     bloodtype: B
     birthday: 1977/08/10
@@ -3987,7 +3987,7 @@ persons:
     address_kata: フクイケンイマダテグンイケダチョウシンボ
   - 'no': '333'
     name: 馬場 理香
-    name_kata: ババ リカ
+    name_kana: ババ リカ
     gender: 女
     bloodtype: A
     birthday: 1990/11/02
@@ -3999,7 +3999,7 @@ persons:
     address_kata: トウキョウトハチオウジシウエノマチ
   - 'no': '334'
     name: 大原 元臣
-    name_kata: オオハラ モトオミ
+    name_kana: オオハラ モトオミ
     gender: 男
     bloodtype: B
     birthday: 1992/05/01
@@ -4011,7 +4011,7 @@ persons:
     address_kata: ヒョウゴケンコウベシヒョウゴクツユノチョウ
   - 'no': '335'
     name: 山岡 秋美
-    name_kata: ヤマオカ アキミ
+    name_kana: ヤマオカ アキミ
     gender: 女
     bloodtype: A
     birthday: 1985/03/09
@@ -4023,7 +4023,7 @@ persons:
     address_kata: カガワケンマルガメシフクシマチョウ
   - 'no': '336'
     name: 千葉 華代
-    name_kata: チバ ハナヨ
+    name_kana: チバ ハナヨ
     gender: 女
     bloodtype: AB
     birthday: 1993/08/15
@@ -4035,7 +4035,7 @@ persons:
     address_kata: フクシマケンシラカワシマチダ
   - 'no': '337'
     name: 河原 繁次
-    name_kata: カワハラ シゲツグ
+    name_kana: カワハラ シゲツグ
     gender: 男
     bloodtype: B
     birthday: 1978/01/18
@@ -4047,7 +4047,7 @@ persons:
     address_kata: トウキョウトハチオウジシオカドマチ
   - 'no': '338'
     name: 青山 奈緒実
-    name_kata: アオヤマ ナオミ
+    name_kana: アオヤマ ナオミ
     gender: 女
     bloodtype: O
     birthday: 1994/03/13
@@ -4059,7 +4059,7 @@ persons:
     address_kata: ヒョウゴケンコウベシスマクエビスチョウ
   - 'no': '339'
     name: 宮本 雅近
-    name_kata: ミヤモト マサチカ
+    name_kana: ミヤモト マサチカ
     gender: 男
     bloodtype: A
     birthday: 1973/05/28
@@ -4071,7 +4071,7 @@ persons:
     address_kata: トウキョウトマチダシオオクラマチ
   - 'no': '340'
     name: 吉川 千琴
-    name_kata: ヨシカワ チコト
+    name_kana: ヨシカワ チコト
     gender: 女
     bloodtype: A
     birthday: 1977/10/24
@@ -4083,7 +4083,7 @@ persons:
     address_kata: ニイガタケンサンジョウシフクロ
   - 'no': '341'
     name: 小野 安彦
-    name_kata: オノ ヤスヒコ
+    name_kana: オノ ヤスヒコ
     gender: 男
     bloodtype: A
     birthday: 1970/07/08
@@ -4095,7 +4095,7 @@ persons:
     address_kata: トウキョウトカツシカクミナミミズモト
   - 'no': '342'
     name: 山川 美樹
-    name_kata: ヤマカワ ミキ
+    name_kana: ヤマカワ ミキ
     gender: 女
     bloodtype: A
     birthday: 1974/12/01
@@ -4107,7 +4107,7 @@ persons:
     address_kata: ニイガタケンニイガタシテラオヒガシ
   - 'no': '343'
     name: 石原 隆次
-    name_kata: イシハラ リュウジ
+    name_kana: イシハラ リュウジ
     gender: 男
     bloodtype: O
     birthday: 1988/02/07
@@ -4119,7 +4119,7 @@ persons:
     address_kata: カナガワケンヨコハマシホドガヤクイワマチョウ
   - 'no': '344'
     name: 今村 厚成
-    name_kata: イマムラ アツナリ
+    name_kana: イマムラ アツナリ
     gender: 男
     bloodtype: O
     birthday: 1993/06/19
@@ -4131,7 +4131,7 @@ persons:
     address_kata: ナラケンヨシノグンテンカワムラワダ
   - 'no': '345'
     name: 本田 保二
-    name_kata: ホンダ ヤスジ
+    name_kana: ホンダ ヤスジ
     gender: 男
     bloodtype: A
     birthday: 1994/10/11
@@ -4143,7 +4143,7 @@ persons:
     address_kata: ヤマナシケンホクトシナガサカチョウオオバッタ
   - 'no': '346'
     name: 横井 裕康
-    name_kata: ヨコイ ヒロヤス
+    name_kana: ヨコイ ヒロヤス
     gender: 男
     bloodtype: B
     birthday: 1971/01/02
@@ -4155,7 +4155,7 @@ persons:
     address_kata: オキナワケンクニガミグンモトブチョウトグチ
   - 'no': '347'
     name: 溝口 章緒
-    name_kata: ミゾクチ アキオ
+    name_kana: ミゾクチ アキオ
     gender: 女
     bloodtype: O
     birthday: 1970/11/18
@@ -4167,7 +4167,7 @@ persons:
     address_kata: ギフケンオオガキシカミイシヅチョウネギカミ
   - 'no': '348'
     name: 長田 恵治
-    name_kata: オサダ ケイジ
+    name_kana: オサダ ケイジ
     gender: 男
     bloodtype: O
     birthday: 1971/02/18
@@ -4179,7 +4179,7 @@ persons:
     address_kata: イバラキケンカシマシミヤシタ
   - 'no': '349'
     name: 新谷 森勝
-    name_kata: アラヤ モリカツ
+    name_kana: アラヤ モリカツ
     gender: 男
     bloodtype: B
     birthday: 1973/09/01
@@ -4191,7 +4191,7 @@ persons:
     address_kata: オカヤマケンミマサカシタワラ
   - 'no': '350'
     name: 川野 宣男
-    name_kata: コウノ ノブオ
+    name_kana: コウノ ノブオ
     gender: 男
     bloodtype: AB
     birthday: 1985/02/05
@@ -4203,7 +4203,7 @@ persons:
     address_kata: カナガワケンヨコハマシアサヒクイマガワチョウ
   - 'no': '351'
     name: 古田 準一郎
-    name_kata: コダ ジュンイチロウ
+    name_kana: コダ ジュンイチロウ
     gender: 男
     bloodtype: A
     birthday: 1992/07/26
@@ -4215,7 +4215,7 @@ persons:
     address_kata: ナガノケンウエダシシモムロガ
   - 'no': '352'
     name: 坂本 保二
-    name_kata: サカモト ヤスジ
+    name_kana: サカモト ヤスジ
     gender: 男
     bloodtype: B
     birthday: 1974/04/07
@@ -4227,7 +4227,7 @@ persons:
     address_kata: トクシマケンナルトシムヤチョウキタハマ
   - 'no': '353'
     name: 武藤 権一
-    name_kata: タケトウ ケンイチ
+    name_kana: タケトウ ケンイチ
     gender: 男
     bloodtype: B
     birthday: 1984/01/19
@@ -4239,7 +4239,7 @@ persons:
     address_kata: トヤマケントヤマシキタダイトウブ
   - 'no': '354'
     name: 藤岡 知明
-    name_kata: フジオカ トモアキ
+    name_kana: フジオカ トモアキ
     gender: 男
     bloodtype: O
     birthday: 1973/04/05
@@ -4251,7 +4251,7 @@ persons:
     address_kata: トウキョウトナカノクエゴタ
   - 'no': '355'
     name: 米田 佳江
-    name_kata: マイタ ヨシエ
+    name_kana: マイタ ヨシエ
     gender: 女
     bloodtype: B
     birthday: 1974/01/25
@@ -4263,7 +4263,7 @@ persons:
     address_kata: トウキョウトニシタマグンミズホマチムサシ
   - 'no': '356'
     name: 中田 克明
-    name_kata: ナカタ カツアキ
+    name_kana: ナカタ カツアキ
     gender: 男
     bloodtype: A
     birthday: 1978/08/24
@@ -4275,7 +4275,7 @@ persons:
     address_kata: フクシマケンフクシマシイイザカマチユノ
   - 'no': '357'
     name: 原 良弥
-    name_kata: ハラ リョウヤ
+    name_kana: ハラ リョウヤ
     gender: 男
     bloodtype: A
     birthday: 1994/07/26
@@ -4287,7 +4287,7 @@ persons:
     address_kata: ヒョウゴケンコウベシナダクヒノデチョウ
   - 'no': '358'
     name: 畑中 康三
-    name_kata: ハタケナカ コウゾウ
+    name_kana: ハタケナカ コウゾウ
     gender: 男
     bloodtype: B
     birthday: 1984/03/12
@@ -4299,7 +4299,7 @@ persons:
     address_kata: コウチケンタカオカグンサカワチョウカワノウチグミ
   - 'no': '359'
     name: 井上 善英
-    name_kata: イノウエ ヨシヒデ
+    name_kana: イノウエ ヨシヒデ
     gender: 男
     bloodtype: O
     birthday: 1994/03/14
@@ -4311,7 +4311,7 @@ persons:
     address_kata: トウキョウトシンジュククイチガヤコウラチョウ
   - 'no': '360'
     name: 大塚 裕香
-    name_kata: オオツカ ユウカ
+    name_kana: オオツカ ユウカ
     gender: 女
     bloodtype: B
     birthday: 1978/01/08
@@ -4323,7 +4323,7 @@ persons:
     address_kata: イシカワケンカホクグンツバタマチツヅラオリ
   - 'no': '361'
     name: 大沢 勝英
-    name_kata: オオサワ カツヒデ
+    name_kana: オオサワ カツヒデ
     gender: 男
     bloodtype: O
     birthday: 1970/03/24
@@ -4335,7 +4335,7 @@ persons:
     address_kata: ヒョウゴケンタカサゴシタカサゴチョウヒガシノウニンマチ
   - 'no': '362'
     name: 横井 正保
-    name_kata: ヨコイ マサヤス
+    name_kana: ヨコイ マサヤス
     gender: 男
     bloodtype: B
     birthday: 1970/04/29
@@ -4347,7 +4347,7 @@ persons:
     address_kata: ミエケンツシヒガシフルカワチョウ
   - 'no': '363'
     name: 福本 千琴
-    name_kata: フクモト チコト
+    name_kana: フクモト チコト
     gender: 女
     bloodtype: B
     birthday: 1993/04/02
@@ -4359,7 +4359,7 @@ persons:
     address_kata: フクオカケンキタキュウシュウシヤハタニシクジユウガオカ
   - 'no': '364'
     name: 山下 泰秀
-    name_kata: ヤマシタ ヤスヒデ
+    name_kana: ヤマシタ ヤスヒデ
     gender: 男
     bloodtype: B
     birthday: 1993/04/14
@@ -4371,7 +4371,7 @@ persons:
     address_kata: ヤマガタケンサカタシシンデ
   - 'no': '365'
     name: 川村 満生
-    name_kata: カワムラ ミチオ
+    name_kana: カワムラ ミチオ
     gender: 男
     bloodtype: O
     birthday: 1984/06/01
@@ -4383,7 +4383,7 @@ persons:
     address_kata: フクオカケンヤナガワシヤオヤマチ
   - 'no': '366'
     name: 山岡 鉄次
-    name_kata: ヤマオカ テツジ
+    name_kana: ヤマオカ テツジ
     gender: 男
     bloodtype: A
     birthday: 1983/05/11
@@ -4395,7 +4395,7 @@ persons:
     address_kata: フクイケンフクイシオオテ
   - 'no': '367'
     name: 遠藤 好博
-    name_kata: エンドウ ヨシヒロ
+    name_kana: エンドウ ヨシヒロ
     gender: 男
     bloodtype: A
     birthday: 1979/12/09
@@ -4407,7 +4407,7 @@ persons:
     address_kata: ホッカイドウシラヌカグンシラヌカチョウニシショロニシ３ジョウミナミ
   - 'no': '368'
     name: 荒木 麻琴
-    name_kata: アラキ マコト
+    name_kana: アラキ マコト
     gender: 女
     bloodtype: A
     birthday: 1972/02/01
@@ -4419,7 +4419,7 @@ persons:
     address_kata: ヒロシマケンクレシニコウチョウ
   - 'no': '369'
     name: 野村 繁美
-    name_kata: ノムラ シゲミ
+    name_kana: ノムラ シゲミ
     gender: 女
     bloodtype: B
     birthday: 1981/02/20
@@ -4431,7 +4431,7 @@ persons:
     address_kata: ニイガタケンニシカンバラグンヤヒコムラヤマギシ
   - 'no': '370'
     name: 青木 芳尚
-    name_kata: アオキ ヨシナオ
+    name_kana: アオキ ヨシナオ
     gender: 男
     bloodtype: A
     birthday: 1993/07/28
@@ -4443,7 +4443,7 @@ persons:
     address_kata: オキナワケンシマジリグンイヘヤソンマエドマリ
   - 'no': '371'
     name: 土屋 章子
-    name_kata: ツチヤ ショウコ
+    name_kana: ツチヤ ショウコ
     gender: 女
     bloodtype: A
     birthday: 1994/03/04
@@ -4455,7 +4455,7 @@ persons:
     address_kata: アイチケンオカザキシヤスドチョウ
   - 'no': '372'
     name: 島田 澄
-    name_kata: シマダ スミ
+    name_kana: シマダ スミ
     gender: 女
     bloodtype: O
     birthday: 1985/09/05
@@ -4467,7 +4467,7 @@ persons:
     address_kata: チバケンイスミシオイケ
   - 'no': '373'
     name: 野田 利次
-    name_kata: ノダ トシジ
+    name_kana: ノダ トシジ
     gender: 男
     bloodtype: A
     birthday: 1990/03/22
@@ -4479,7 +4479,7 @@ persons:
     address_kata: トウキョウトミヤケジマミヤケムライガヤ
   - 'no': '374'
     name: 北川 伸江
-    name_kata: キタカワ ノブエ
+    name_kana: キタカワ ノブエ
     gender: 女
     bloodtype: O
     birthday: 1992/06/15
@@ -4491,7 +4491,7 @@ persons:
     address_kata: ホッカイドウキタミシトコロチョウヨシノ
   - 'no': '375'
     name: 小川 政年
-    name_kata: オガワ マサトシ
+    name_kana: オガワ マサトシ
     gender: 男
     bloodtype: A
     birthday: 1989/01/01
@@ -4503,7 +4503,7 @@ persons:
     address_kata: トウキョウトシンジュククツキジマチ
   - 'no': '376'
     name: 竹村 敏美
-    name_kata: タケムラ トシミ
+    name_kana: タケムラ トシミ
     gender: 女
     bloodtype: AB
     birthday: 1980/11/18
@@ -4515,7 +4515,7 @@ persons:
     address_kata: ミヤギケンケセンヌマシハジカミマギ
   - 'no': '377'
     name: 平井 則昭
-    name_kata: ヒライ ノリアキ
+    name_kana: ヒライ ノリアキ
     gender: 男
     bloodtype: A
     birthday: 1982/10/01
@@ -4527,7 +4527,7 @@ persons:
     address_kata: ニイガタケントオカマチシコネギシ
   - 'no': '378'
     name: 平川 謙三
-    name_kata: ヒラカワ ケンゾウ
+    name_kana: ヒラカワ ケンゾウ
     gender: 男
     bloodtype: A
     birthday: 1987/09/18
@@ -4539,7 +4539,7 @@ persons:
     address_kata: イワテケンハチマンタイシウシヤマグチ
   - 'no': '379'
     name: 三好 慶太郎
-    name_kata: ミヨシ ケイタロウ
+    name_kana: ミヨシ ケイタロウ
     gender: 男
     bloodtype: A
     birthday: 1972/04/30
@@ -4551,7 +4551,7 @@ persons:
     address_kata: フクシマケンシラカワシタイシンシモコヤ
   - 'no': '380'
     name: 新田 菜美
-    name_kata: アラタ ナミ
+    name_kana: アラタ ナミ
     gender: 女
     bloodtype: A
     birthday: 1982/06/06
@@ -4563,7 +4563,7 @@ persons:
     address_kata: トチギケンハガグンニノミヤマチクゲタニシ
   - 'no': '381'
     name: 小松 望
-    name_kata: コマツ ノゾミ
+    name_kana: コマツ ノゾミ
     gender: 女
     bloodtype: B
     birthday: 1980/07/23
@@ -4575,7 +4575,7 @@ persons:
     address_kata: ギフケンカニシシミズガオカ
   - 'no': '382'
     name: 石崎 兵吉
-    name_kata: イシザキ ヒョウキチ
+    name_kana: イシザキ ヒョウキチ
     gender: 男
     bloodtype: A
     birthday: 1982/07/22
@@ -4587,7 +4587,7 @@ persons:
     address_kata: アイチケンオカザキシタツミキタ
   - 'no': '383'
     name: 安井 好行
-    name_kata: ヤスイ ヨシユキ
+    name_kana: ヤスイ ヨシユキ
     gender: 男
     bloodtype: O
     birthday: 1982/06/25
@@ -4599,7 +4599,7 @@ persons:
     address_kata: ミエケンクワナシヨツヤチョウ
   - 'no': '384'
     name: 市川 希美
-    name_kata: イチカワ ノゾミ
+    name_kana: イチカワ ノゾミ
     gender: 女
     bloodtype: B
     birthday: 1992/10/11
@@ -4611,7 +4611,7 @@ persons:
     address_kata: グンマケンタカサキシクラブチマチサンノクラ
   - 'no': '385'
     name: 新田 美津江
-    name_kata: アラタ ミツエ
+    name_kana: アラタ ミツエ
     gender: 女
     bloodtype: O
     birthday: 1992/11/02
@@ -4623,7 +4623,7 @@ persons:
     address_kata: ニイガタケンニシカンバラグンヤヒコムラヤマギシ
   - 'no': '386'
     name: 庄司 理平
-    name_kata: ショウジ リヘイ
+    name_kana: ショウジ リヘイ
     gender: 男
     bloodtype: O
     birthday: 1979/10/06
@@ -4635,7 +4635,7 @@ persons:
     address_kata: エヒメケンマツヤマシミナトマチ
   - 'no': '387'
     name: 小森 真樹
-    name_kata: コモリ マキ
+    name_kana: コモリ マキ
     gender: 女
     bloodtype: A
     birthday: 1980/08/04
@@ -4647,7 +4647,7 @@ persons:
     address_kata: ニイガタケントオカマチシナカゴ
   - 'no': '388'
     name: 河野 政年
-    name_kata: カワノ マサトシ
+    name_kana: カワノ マサトシ
     gender: 男
     bloodtype: A
     birthday: 1971/04/14
@@ -4659,7 +4659,7 @@ persons:
     address_kata: フクシマケンニホンマツシカミシンデン
   - 'no': '389'
     name: 稲垣 真樹
-    name_kata: イナガキ マキ
+    name_kana: イナガキ マキ
     gender: 女
     bloodtype: A
     birthday: 1981/03/19
@@ -4671,7 +4671,7 @@ persons:
     address_kata: アイチケンオカザキシウトウミナミマチ
   - 'no': '390'
     name: 川野 なつみ
-    name_kata: カワノ ナツミ
+    name_kana: カワノ ナツミ
     gender: 女
     bloodtype: B
     birthday: 1975/12/01
@@ -4683,7 +4683,7 @@ persons:
     address_kata: ギフケンセキシツキミチョウ
   - 'no': '391'
     name: 福田 力弥
-    name_kata: フクタ リキヤ
+    name_kana: フクタ リキヤ
     gender: 男
     bloodtype: O
     birthday: 1970/07/20
@@ -4695,7 +4695,7 @@ persons:
     address_kata: トウキョウトオウメシバイゴウ
   - 'no': '392'
     name: 望月 令
-    name_kata: モチヅキ レイ
+    name_kana: モチヅキ レイ
     gender: 女
     bloodtype: B
     birthday: 1970/02/20
@@ -4707,7 +4707,7 @@ persons:
     address_kata: ヒョウゴケンコウベシタルミクフクダ
   - 'no': '393'
     name: 星野 光範
-    name_kata: ホシノ ミツノリ
+    name_kana: ホシノ ミツノリ
     gender: 男
     bloodtype: B
     birthday: 1991/11/12
@@ -4719,7 +4719,7 @@ persons:
     address_kata: トウキョウトセタガヤクミナミカラスヤマ
   - 'no': '394'
     name: 新谷 麻紀
-    name_kata: シンタニ マキ
+    name_kana: シンタニ マキ
     gender: 女
     bloodtype: A
     birthday: 1981/04/18
@@ -4731,7 +4731,7 @@ persons:
     address_kata: ヤマグチケンウベシミヤジチョウ
   - 'no': '395'
     name: 小松 知生
-    name_kata: コマツ トモオ
+    name_kana: コマツ トモオ
     gender: 男
     bloodtype: O
     birthday: 1994/11/15
@@ -4743,7 +4743,7 @@ persons:
     address_kata: トウキョウトシンジュククキクイチョウ
   - 'no': '396'
     name: 大崎 靖浩
-    name_kata: ダイサキ ヤスヒロ
+    name_kana: ダイサキ ヤスヒロ
     gender: 男
     bloodtype: B
     birthday: 1970/03/10
@@ -4755,7 +4755,7 @@ persons:
     address_kata: ワカヤマケンタナベシワダ
   - 'no': '397'
     name: 角田 友
-    name_kata: スミタ トモ
+    name_kana: スミタ トモ
     gender: 女
     bloodtype: B
     birthday: 1970/01/28
@@ -4767,7 +4767,7 @@ persons:
     address_kata: トウキョウトニシタマグンミズホマチハコネガサキヒガシマツバラ
   - 'no': '398'
     name: 森 恵志
-    name_kata: モリ ケイシ
+    name_kana: モリ ケイシ
     gender: 男
     bloodtype: B
     birthday: 1985/03/20
@@ -4779,7 +4779,7 @@ persons:
     address_kata: トウキョウトハチオウジシヤノマチ
   - 'no': '399'
     name: 野田 満生
-    name_kata: ノダ ミツオ
+    name_kana: ノダ ミツオ
     gender: 男
     bloodtype: O
     birthday: 1989/10/18
@@ -4791,7 +4791,7 @@ persons:
     address_kata: カナガワケンカワサキシナカハラクコスギジンヤチョウ
   - 'no': '400'
     name: 松下 智子
-    name_kata: マツシタ トモコ
+    name_kana: マツシタ トモコ
     gender: 女
     bloodtype: B
     birthday: 1981/09/11
@@ -4803,7 +4803,7 @@ persons:
     address_kata: ホッカイドウアッケシグンハマナカチョウキリタップニシ３ジョウ
   - 'no': '401'
     name: 大谷 優子
-    name_kata: オオタニ ユウコ
+    name_kana: オオタニ ユウコ
     gender: 女
     bloodtype: O
     birthday: 1988/09/27
@@ -4815,7 +4815,7 @@ persons:
     address_kata: ホッカイドウシベツグンナカシベツチョウヒガシ９ジョウキタ
   - 'no': '402'
     name: 竹田 繁美
-    name_kata: タケダ シゲミ
+    name_kana: タケダ シゲミ
     gender: 女
     bloodtype: B
     birthday: 1981/10/02
@@ -4827,7 +4827,7 @@ persons:
     address_kata: ヒョウゴケンタカラヅカシカワモ
   - 'no': '403'
     name: 青山 裕香
-    name_kata: アオヤマ ユウカ
+    name_kana: アオヤマ ユウカ
     gender: 女
     bloodtype: B
     birthday: 1989/07/26
@@ -4839,7 +4839,7 @@ persons:
     address_kata: オキナワケンシマジリグンアグニソンヒガシ
   - 'no': '404'
     name: 柴田 茂也
-    name_kata: シバタ シゲヤ
+    name_kana: シバタ シゲヤ
     gender: 男
     bloodtype: O
     birthday: 1987/02/17
@@ -4851,7 +4851,7 @@ persons:
     address_kata: アオモリケンカミキタグンノヘジマチニホンキ
   - 'no': '405'
     name: 宮沢 義幸
-    name_kata: ミヤザワ ヨシユキ
+    name_kana: ミヤザワ ヨシユキ
     gender: 男
     bloodtype: A
     birthday: 1980/04/27
@@ -4863,7 +4863,7 @@ persons:
     address_kata: トヤマケンナントシタケバヤシ
   - 'no': '406'
     name: 熊谷 惣之助
-    name_kata: クマガイ ソウノスケ
+    name_kana: クマガイ ソウノスケ
     gender: 男
     bloodtype: A
     birthday: 1986/01/13
@@ -4875,7 +4875,7 @@ persons:
     address_kata: キョウトフキョウトシナカギョウクミクラチョウ
   - 'no': '407'
     name: 高瀬 成子
-    name_kata: タカセ セイコ
+    name_kana: タカセ セイコ
     gender: 女
     bloodtype: A
     birthday: 1982/09/07
@@ -4887,7 +4887,7 @@ persons:
     address_kata: オオサカフヒガシオオサカシヒガシイシキリチョウ
   - 'no': '408'
     name: 吉井 貴朗
-    name_kata: ヨシイ タカオ
+    name_kana: ヨシイ タカオ
     gender: 男
     bloodtype: B
     birthday: 1970/10/10
@@ -4899,7 +4899,7 @@ persons:
     address_kata: イシカワケンコマツシミドリマチ
   - 'no': '409'
     name: 石田 史男
-    name_kata: イシダ フミオ
+    name_kana: イシダ フミオ
     gender: 男
     bloodtype: A
     birthday: 1976/09/14
@@ -4911,7 +4911,7 @@ persons:
     address_kata: トウキョウトアダチクセンジュナカイチョウ
   - 'no': '410'
     name: 寺田 ハルノ
-    name_kata: テラダ ハルノ
+    name_kana: テラダ ハルノ
     gender: 女
     bloodtype: B
     birthday: 1970/02/24
@@ -4923,7 +4923,7 @@ persons:
     address_kata: キョウトフカメオカシカミヤダチョウ
   - 'no': '411'
     name: 松浦 久近
-    name_kata: マツウラ ヒサチカ
+    name_kana: マツウラ ヒサチカ
     gender: 男
     bloodtype: A
     birthday: 1983/09/28
@@ -4935,7 +4935,7 @@ persons:
     address_kata: ヤマガタケンサカタシオオシマダ
   - 'no': '412'
     name: 森川 俊憲
-    name_kata: モリカワ トシノリ
+    name_kana: モリカワ トシノリ
     gender: 男
     bloodtype: A
     birthday: 1972/06/05
@@ -4947,7 +4947,7 @@ persons:
     address_kata: トウキョウトコウトウクチュウオウボウハテイ
   - 'no': '413'
     name: 谷川 宏幸
-    name_kata: ヤガワ ヒロユキ
+    name_kana: ヤガワ ヒロユキ
     gender: 男
     bloodtype: O
     birthday: 1980/01/11
@@ -4959,7 +4959,7 @@ persons:
     address_kata: フクシマケンフクシマシカミノデラ
   - 'no': '414'
     name: 荻野 正進
-    name_kata: オギノ マサノブ
+    name_kana: オギノ マサノブ
     gender: 男
     bloodtype: A
     birthday: 1978/07/12
@@ -4971,7 +4971,7 @@ persons:
     address_kata: キョウトフキョウトシミナミクヒガシクジョウヒガシフダノツジチョウ
   - 'no': '415'
     name: 徳永 佐十郎
-    name_kata: トクナガ サジュウロウ
+    name_kana: トクナガ サジュウロウ
     gender: 男
     bloodtype: O
     birthday: 1990/10/03
@@ -4983,7 +4983,7 @@ persons:
     address_kata: シガケンモリヤマシフタマチチョウ
   - 'no': '416'
     name: 戸田 保光
-    name_kata: トダ ヤスミツ
+    name_kana: トダ ヤスミツ
     gender: 男
     bloodtype: A
     birthday: 1985/04/11
@@ -4995,7 +4995,7 @@ persons:
     address_kata: アイチケンキタシタラグントヨネムラミサワ
   - 'no': '417'
     name: 工藤 喜代信
-    name_kata: クドウ キヨノブ
+    name_kana: クドウ キヨノブ
     gender: 男
     bloodtype: O
     birthday: 1970/07/28
@@ -5007,7 +5007,7 @@ persons:
     address_kata: ナガサキケンナガサキシミナミマチ
   - 'no': '418'
     name: 中田 美次
-    name_kata: ナカタ ヨシツグ
+    name_kana: ナカタ ヨシツグ
     gender: 男
     bloodtype: B
     birthday: 1982/03/22
@@ -5019,7 +5019,7 @@ persons:
     address_kata: シズオカケンシマダシミヤガワチョウ
   - 'no': '419'
     name: 北川 雅
-    name_kata: キタカワ ミヤビ
+    name_kana: キタカワ ミヤビ
     gender: 女
     bloodtype: A
     birthday: 1994/09/24
@@ -5031,7 +5031,7 @@ persons:
     address_kata: トウキョウトシナガワクハタノダイ
   - 'no': '420'
     name: 小沢 光善
-    name_kata: オザワ ミツヨシ
+    name_kana: オザワ ミツヨシ
     gender: 男
     bloodtype: O
     birthday: 1987/03/06
@@ -5043,7 +5043,7 @@ persons:
     address_kata: アオモリケンゴショガワラシシンミヤ
   - 'no': '421'
     name: 宮城 知明
-    name_kata: ミヤギ トモアキ
+    name_kana: ミヤギ トモアキ
     gender: 男
     bloodtype: O
     birthday: 1994/10/27
@@ -5055,7 +5055,7 @@ persons:
     address_kata: フクシマケンコオリヤマシミホタマチノダ
   - 'no': '422'
     name: 堀内 明寛
-    name_kata: ホリウチ アキヒロ
+    name_kana: ホリウチ アキヒロ
     gender: 男
     bloodtype: A
     birthday: 1980/11/13
@@ -5067,7 +5067,7 @@ persons:
     address_kata: オカヤマケンタカハシシマツバラチョウオオヅヨリ
   - 'no': '423'
     name: 高瀬 絵里
-    name_kata: タカセ エリ
+    name_kana: タカセ エリ
     gender: 女
     bloodtype: A
     birthday: 1984/06/21
@@ -5079,7 +5079,7 @@ persons:
     address_kata: トウキョウトムサシムラヤマシナカハラ
   - 'no': '424'
     name: 大橋 杏子
-    name_kata: オオハシ キョウコ
+    name_kana: オオハシ キョウコ
     gender: 女
     bloodtype: O
     birthday: 1976/12/17
@@ -5091,7 +5091,7 @@ persons:
     address_kata: トウキョウトニシトウキョウシミナミチョウ
   - 'no': '425'
     name: 富永 ハルノ
-    name_kata: トミナガ ハルノ
+    name_kana: トミナガ ハルノ
     gender: 女
     bloodtype: A
     birthday: 1989/07/14
@@ -5103,7 +5103,7 @@ persons:
     address_kata: トウキョウトオオタクニシコウジヤ
   - 'no': '426'
     name: 柳田 美緒
-    name_kata: ヤナギタ ミオ
+    name_kana: ヤナギタ ミオ
     gender: 女
     bloodtype: A
     birthday: 1992/09/11
@@ -5115,7 +5115,7 @@ persons:
     address_kata: ミヤギケントメシミナミカタマチツノガケマエ
   - 'no': '427'
     name: 田島 勝司
-    name_kata: タシマ カツシ
+    name_kana: タシマ カツシ
     gender: 男
     bloodtype: B
     birthday: 1977/09/02
@@ -5127,7 +5127,7 @@ persons:
     address_kata: オオイタケンオオイタシコトブキマチ
   - 'no': '428'
     name: 市川 希美
-    name_kata: イチカワ ノゾミ
+    name_kana: イチカワ ノゾミ
     gender: 女
     bloodtype: O
     birthday: 1990/09/06
@@ -5139,7 +5139,7 @@ persons:
     address_kata: トウキョウトコウトウクアオミ
   - 'no': '429'
     name: 市川 完一
-    name_kata: イチカワ カンイチ
+    name_kana: イチカワ カンイチ
     gender: 男
     bloodtype: O
     birthday: 1984/12/12
@@ -5151,7 +5151,7 @@ persons:
     address_kata: オキナワケンナカガミグンキタナカグスクソンオギドウ
   - 'no': '430'
     name: 古谷 亜由美
-    name_kata: コタニ アユミ
+    name_kana: コタニ アユミ
     gender: 女
     bloodtype: A
     birthday: 1982/01/04
@@ -5163,7 +5163,7 @@ persons:
     address_kata: オカヤマケンオカヤマシニシガワラ
   - 'no': '431'
     name: 三谷 竹一
-    name_kata: ミタニ タケイチ
+    name_kana: ミタニ タケイチ
     gender: 男
     bloodtype: O
     birthday: 1980/04/18
@@ -5175,7 +5175,7 @@ persons:
     address_kata: フクシマケンアイヅワカマツシオオトマチカミミヨリミナミハラ
   - 'no': '432'
     name: 平野 治行
-    name_kata: ヒラノ ハルユキ
+    name_kana: ヒラノ ハルユキ
     gender: 男
     bloodtype: AB
     birthday: 1990/11/28
@@ -5187,7 +5187,7 @@ persons:
     address_kata: ナガサキケンナガサキシイワヤマチ
   - 'no': '433'
     name: 杉山 憲志
-    name_kata: スギヤマ ノリユキ
+    name_kana: スギヤマ ノリユキ
     gender: 男
     bloodtype: O
     birthday: 1987/02/10
@@ -5199,7 +5199,7 @@ persons:
     address_kata: ホッカイドウキタヒロシマシシントミチョウニシ
   - 'no': '434'
     name: 上野 省次郎
-    name_kata: ウエノ ショウジロウ
+    name_kana: ウエノ ショウジロウ
     gender: 男
     bloodtype: A
     birthday: 1990/04/02
@@ -5211,7 +5211,7 @@ persons:
     address_kata: フクシマケンキタカタシヒガシカゴタ
   - 'no': '435'
     name: 渋谷 和海
-    name_kata: シブタニ カズミ
+    name_kana: シブタニ カズミ
     gender: 男
     bloodtype: B
     birthday: 1979/09/02
@@ -5223,7 +5223,7 @@ persons:
     address_kata: キョウトフキョウトシサキョウクカミタカノサンタンダチョウ
   - 'no': '436'
     name: 森川 良秋
-    name_kata: モリカワ ヨシアキ
+    name_kana: モリカワ ヨシアキ
     gender: 男
     bloodtype: O
     birthday: 1976/04/18
@@ -5235,7 +5235,7 @@ persons:
     address_kata: トウキョウトハチオウジシヒガシアサカワマチ
   - 'no': '437'
     name: 土井 恵志
-    name_kata: ドイ ケイシ
+    name_kana: ドイ ケイシ
     gender: 男
     bloodtype: O
     birthday: 1989/06/25
@@ -5247,7 +5247,7 @@ persons:
     address_kata: ヒロシマケンフクヤマシエキヤチョウクラミツ
   - 'no': '438'
     name: 岩本 清名
-    name_kata: イワモト セイナ
+    name_kana: イワモト セイナ
     gender: 女
     bloodtype: A
     birthday: 1982/08/05
@@ -5259,7 +5259,7 @@ persons:
     address_kata: アイチケントヨタシオバザワチョウ
   - 'no': '439'
     name: 岡野 敬吉
-    name_kata: オカノ ケイキチ
+    name_kana: オカノ ケイキチ
     gender: 男
     bloodtype: A
     birthday: 1991/05/08
@@ -5271,7 +5271,7 @@ persons:
     address_kata: トウキョウトチョウフシタマガワ
   - 'no': '440'
     name: 堀内 麻紀
-    name_kata: ホリウチ マキ
+    name_kana: ホリウチ マキ
     gender: 女
     bloodtype: A
     birthday: 1987/01/31
@@ -5283,7 +5283,7 @@ persons:
     address_kata: ミヤザキケンエビノシサイゴウ
   - 'no': '441'
     name: 柏木 亜衣
-    name_kata: カシワギ アイ
+    name_kana: カシワギ アイ
     gender: 女
     bloodtype: A
     birthday: 1973/10/12
@@ -5295,7 +5295,7 @@ persons:
     address_kata: フクシマケンダテシタマチ
   - 'no': '442'
     name: 大石 真里
-    name_kata: オオイシ マリ
+    name_kana: オオイシ マリ
     gender: 女
     bloodtype: O
     birthday: 1974/04/01
@@ -5307,7 +5307,7 @@ persons:
     address_kata: トウキョウトムサシノシサカイ
   - 'no': '443'
     name: 小林 裕紀
-    name_kata: コバヤシ ヒロキ
+    name_kana: コバヤシ ヒロキ
     gender: 男
     bloodtype: B
     birthday: 1975/12/24
@@ -5319,7 +5319,7 @@ persons:
     address_kata: アオモリケンヒガシツガルグンヨモギタムラアミダガワ
   - 'no': '444'
     name: 平田 寿美
-    name_kata: ヒラタ ヒサミ
+    name_kana: ヒラタ ヒサミ
     gender: 女
     bloodtype: O
     birthday: 1987/03/13
@@ -5331,7 +5331,7 @@ persons:
     address_kata: ミヤギケンクリハラシイチハサマミヤジタ
   - 'no': '445'
     name: 徳田 栄之介
-    name_kata: トクタ エイノスケ
+    name_kana: トクタ エイノスケ
     gender: 男
     bloodtype: A
     birthday: 1973/09/11
@@ -5343,7 +5343,7 @@ persons:
     address_kata: トウキョウトオオタクカマタホンチョウ
   - 'no': '446'
     name: 入江 正宣
-    name_kata: イリエ マサノリ
+    name_kana: イリエ マサノリ
     gender: 男
     bloodtype: O
     birthday: 1987/08/28
@@ -5355,7 +5355,7 @@ persons:
     address_kata: フクシマケンイワセグンテンエイムライイトヨ
   - 'no': '447'
     name: 清水 家継
-    name_kata: シミズ イエツグ
+    name_kana: シミズ イエツグ
     gender: 男
     bloodtype: A
     birthday: 1986/10/16
@@ -5367,7 +5367,7 @@ persons:
     address_kata: トウキョウトオオタクミナミユキガヤ
   - 'no': '448'
     name: 佐野 ナツ子
-    name_kata: サノ ナツコ
+    name_kana: サノ ナツコ
     gender: 女
     bloodtype: O
     birthday: 1985/08/12
@@ -5379,7 +5379,7 @@ persons:
     address_kata: ギフケンセキシナガズミチョウ
   - 'no': '449'
     name: 安部 とみ子
-    name_kata: アベ トミコ
+    name_kana: アベ トミコ
     gender: 女
     bloodtype: A
     birthday: 1989/11/05
@@ -5391,7 +5391,7 @@ persons:
     address_kata: サイタマケンソウカシヤナギシマチョウ
   - 'no': '450'
     name: 上村 夕子
-    name_kata: ウエムラ ユウコ
+    name_kana: ウエムラ ユウコ
     gender: 女
     bloodtype: B
     birthday: 1970/06/08
@@ -5403,7 +5403,7 @@ persons:
     address_kata: グンマケンオウラグンイタクラマチイタクラ
   - 'no': '451'
     name: 千葉 信広
-    name_kata: チバ ノブヒロ
+    name_kana: チバ ノブヒロ
     gender: 男
     bloodtype: O
     birthday: 1979/12/19
@@ -5415,7 +5415,7 @@ persons:
     address_kata: チバケンソウサシオギノ
   - 'no': '452'
     name: 岸 なつみ
-    name_kata: キシ ナツミ
+    name_kana: キシ ナツミ
     gender: 女
     bloodtype: A
     birthday: 1976/02/10
@@ -5427,7 +5427,7 @@ persons:
     address_kata: ニイガタケンウオヌマシキヨモト
   - 'no': '453'
     name: 島田 友美
-    name_kata: シマダ トモミ
+    name_kana: シマダ トモミ
     gender: 女
     bloodtype: O
     birthday: 1990/12/28
@@ -5439,7 +5439,7 @@ persons:
     address_kata: トウキョウトシンジュククババシタチョウ
   - 'no': '454'
     name: 河村 知生
-    name_kata: コウムラ トモオ
+    name_kana: コウムラ トモオ
     gender: 男
     bloodtype: A
     birthday: 1985/11/30
@@ -5451,7 +5451,7 @@ persons:
     address_kata: トウキョウトエドガワクヒガシマツモト
   - 'no': '455'
     name: 前田 久紀
-    name_kata: マエタ ヒサノリ
+    name_kana: マエタ ヒサノリ
     gender: 男
     bloodtype: AB
     birthday: 1977/06/05
@@ -5463,7 +5463,7 @@ persons:
     address_kata: トウキョウトシンジュククサカマチ
   - 'no': '456'
     name: 大石 雅近
-    name_kata: オオイシ マサチカ
+    name_kana: オオイシ マサチカ
     gender: 男
     bloodtype: B
     birthday: 1977/09/22
@@ -5475,7 +5475,7 @@ persons:
     address_kata: ヒロシマケンヤマガタグンアキオオタチョウシモツツガ
   - 'no': '457'
     name: 神田 理香
-    name_kata: カンダ リカ
+    name_kana: カンダ リカ
     gender: 女
     bloodtype: A
     birthday: 1985/05/22
@@ -5487,7 +5487,7 @@ persons:
     address_kata: ホッカイドウカミカワグンシミズチョウホンドオリニシ
   - 'no': '458'
     name: 栗原 三重子
-    name_kata: クリハラ ミエコ
+    name_kana: クリハラ ミエコ
     gender: 女
     bloodtype: O
     birthday: 1970/07/27
@@ -5499,7 +5499,7 @@ persons:
     address_kata: ヒョウゴケンミキシミドリガオカチョウナカ
   - 'no': '459'
     name: 清水 元久
-    name_kata: シミズ モトヒサ
+    name_kana: シミズ モトヒサ
     gender: 男
     bloodtype: O
     birthday: 1981/08/10
@@ -5511,7 +5511,7 @@ persons:
     address_kata: キョウトフキョウトシカミギョウクケイカインチョウ
   - 'no': '460'
     name: 柏木 威佐夫
-    name_kata: カシワギ イサオ
+    name_kana: カシワギ イサオ
     gender: 男
     bloodtype: B
     birthday: 1982/01/24
@@ -5523,7 +5523,7 @@ persons:
     address_kata: ミエケンツシノザキガイトイワタ
   - 'no': '461'
     name: 三上 成子
-    name_kata: ミカミ セイコ
+    name_kana: ミカミ セイコ
     gender: 女
     bloodtype: O
     birthday: 1980/10/04
@@ -5535,7 +5535,7 @@ persons:
     address_kata: アイチケンナゴヤシナカムラクノダチョウ
   - 'no': '462'
     name: 青木 沙耶香
-    name_kata: アオキ サヤカ
+    name_kana: アオキ サヤカ
     gender: 女
     bloodtype: A
     birthday: 1990/10/26
@@ -5547,7 +5547,7 @@ persons:
     address_kata: フクイケンフクイシシモイチチョウ
   - 'no': '463'
     name: 稲葉 保平
-    name_kata: イナバ ヤスヘイ
+    name_kana: イナバ ヤスヘイ
     gender: 男
     bloodtype: B
     birthday: 1976/12/31
@@ -5559,7 +5559,7 @@ persons:
     address_kata: クマモトケンクマモトシマワタリ
   - 'no': '464'
     name: 須田 元久
-    name_kata: スダ モトヒサ
+    name_kana: スダ モトヒサ
     gender: 男
     bloodtype: O
     birthday: 1974/06/21
@@ -5571,7 +5571,7 @@ persons:
     address_kata: オカヤマケンアカイワシカマシモ
   - 'no': '465'
     name: 湯浅 偉生
-    name_kata: ユアサ ヒデオ
+    name_kana: ユアサ ヒデオ
     gender: 男
     bloodtype: AB
     birthday: 1979/01/09
@@ -5583,7 +5583,7 @@ persons:
     address_kata: ホッカイドウトコログンクンネップチョウオオマチ
   - 'no': '466'
     name: 金田 利次
-    name_kata: カナダ トシジ
+    name_kana: カナダ トシジ
     gender: 男
     bloodtype: B
     birthday: 1985/10/09
@@ -5595,7 +5595,7 @@ persons:
     address_kata: ミヤギケンオオサキシタジリヌマベ
   - 'no': '467'
     name: 谷本 酉蔵
-    name_kata: タニモト トリゾウ
+    name_kana: タニモト トリゾウ
     gender: 男
     bloodtype: A
     birthday: 1979/09/26
@@ -5607,7 +5607,7 @@ persons:
     address_kata: キョウトフキョウトシナカギョウクエンプクジチョウ
   - 'no': '468'
     name: 福永 英充
-    name_kata: フクナガ ヒデミツ
+    name_kana: フクナガ ヒデミツ
     gender: 男
     bloodtype: O
     birthday: 1977/11/15
@@ -5619,7 +5619,7 @@ persons:
     address_kata: アイチケンヤトミシシバイ
   - 'no': '469'
     name: 北野 十志夫
-    name_kata: キタノ トシオ
+    name_kana: キタノ トシオ
     gender: 男
     bloodtype: O
     birthday: 1991/01/08
@@ -5631,7 +5631,7 @@ persons:
     address_kata: チバケンカトリシシモオガワ
   - 'no': '470'
     name: 斎藤 章緒
-    name_kata: サイトウ アキオ
+    name_kana: サイトウ アキオ
     gender: 女
     bloodtype: O
     birthday: 1993/04/11
@@ -5643,7 +5643,7 @@ persons:
     address_kata: ナガサキケンナガサキシイケシママチ
   - 'no': '471'
     name: 中村 良司
-    name_kata: ナカムラ リョウジ
+    name_kana: ナカムラ リョウジ
     gender: 男
     bloodtype: O
     birthday: 1977/02/27
@@ -5655,7 +5655,7 @@ persons:
     address_kata: ヒロシマケンヒガシヒロシマシハチホンマツチョウササ
   - 'no': '472'
     name: 山口 絢子
-    name_kata: ヤマグチ アヤコ
+    name_kana: ヤマグチ アヤコ
     gender: 女
     bloodtype: O
     birthday: 1980/01/10
@@ -5667,7 +5667,7 @@ persons:
     address_kata: イワテケンオウシュウシマエサワクミッカマチ
   - 'no': '473'
     name: 内海 とく子
-    name_kata: ウチウミ トクコ
+    name_kana: ウチウミ トクコ
     gender: 女
     bloodtype: A
     birthday: 1994/04/13
@@ -5679,7 +5679,7 @@ persons:
     address_kata: フクシマケンシラカワシツルシバ
   - 'no': '474'
     name: 野崎 幸博
-    name_kata: ノザキ ユキヒロ
+    name_kana: ノザキ ユキヒロ
     gender: 男
     bloodtype: A
     birthday: 1978/02/25
@@ -5691,7 +5691,7 @@ persons:
     address_kata: シズオカケンシズオカシシミズクヤサカヒガシ
   - 'no': '475'
     name: 石井 顕太郎
-    name_kata: イシイ ケンタロウ
+    name_kana: イシイ ケンタロウ
     gender: 男
     bloodtype: AB
     birthday: 1986/04/16
@@ -5703,7 +5703,7 @@ persons:
     address_kata: ニイガタケンイワフネグンサンポクマチキタタナカ
   - 'no': '476'
     name: 山内 治次
-    name_kata: ヤマウチ ハルジ
+    name_kana: ヤマウチ ハルジ
     gender: 男
     bloodtype: B
     birthday: 1982/12/13
@@ -5715,7 +5715,7 @@ persons:
     address_kata: トヤマケントヤマシクボシンマチ
   - 'no': '477'
     name: 杉原 とく子
-    name_kata: スギハラ トクコ
+    name_kana: スギハラ トクコ
     gender: 女
     bloodtype: O
     birthday: 1970/09/01
@@ -5727,7 +5727,7 @@ persons:
     address_kata: トウキョウトエドガワクナカカサイ
   - 'no': '478'
     name: 上野 智治
-    name_kata: ウエノ トモハル
+    name_kana: ウエノ トモハル
     gender: 男
     bloodtype: O
     birthday: 1972/02/01
@@ -5739,7 +5739,7 @@ persons:
     address_kata: トウキョウトヒガシヤマトシチュウオウ
   - 'no': '479'
     name: 長田 秋代
-    name_kata: オサダ アキヨ
+    name_kana: オサダ アキヨ
     gender: 女
     bloodtype: O
     birthday: 1973/05/30
@@ -5751,7 +5751,7 @@ persons:
     address_kata: ギフケンカモグンヤオツチョウミナト
   - 'no': '480'
     name: 松浦 恵
-    name_kata: マツウラ メグミ
+    name_kana: マツウラ メグミ
     gender: 女
     bloodtype: O
     birthday: 1984/08/02
@@ -5763,7 +5763,7 @@ persons:
     address_kata: サガケンイマリシミナミハタチョウカサジ
   - 'no': '481'
     name: 土田 征四郎
-    name_kata: トダ セイシロウ
+    name_kana: トダ セイシロウ
     gender: 男
     bloodtype: O
     birthday: 1970/01/09
@@ -5775,7 +5775,7 @@ persons:
     address_kata: オオサカフカワチナガノシイチチョウ
   - 'no': '482'
     name: 松原 重文
-    name_kata: マツバラ シゲフミ
+    name_kana: マツバラ シゲフミ
     gender: 男
     bloodtype: O
     birthday: 1977/01/14
@@ -5787,7 +5787,7 @@ persons:
     address_kata: トウキョウトアダチクイリヤマチ
   - 'no': '483'
     name: 新谷 繁造
-    name_kata: シンタニ シゲゾウ
+    name_kana: シンタニ シゲゾウ
     gender: 男
     bloodtype: A
     birthday: 1981/03/12
@@ -5799,7 +5799,7 @@ persons:
     address_kata: ナガノケンカミタカイグンオブセマチヨシジマ
   - 'no': '484'
     name: 宮沢 益已
-    name_kata: ミヤザワ マスミ
+    name_kana: ミヤザワ マスミ
     gender: 男
     bloodtype: A
     birthday: 1993/02/15
@@ -5811,7 +5811,7 @@ persons:
     address_kata: クマモトケンアラオシコモヤ
   - 'no': '485'
     name: 三浦 美智
-    name_kata: ミウラ ミチ
+    name_kana: ミウラ ミチ
     gender: 女
     bloodtype: A
     birthday: 1974/03/27
@@ -5823,7 +5823,7 @@ persons:
     address_kata: シズオカケンゴテンバシコマカド
   - 'no': '486'
     name: 浜崎 昭良
-    name_kata: ハマサキ アキヨシ
+    name_kana: ハマサキ アキヨシ
     gender: 男
     bloodtype: O
     birthday: 1973/11/12
@@ -5835,7 +5835,7 @@ persons:
     address_kata: クマモトケンクマモトシクロカミ
   - 'no': '487'
     name: 平田 豊秋
-    name_kata: ヒラタ トヨアキ
+    name_kana: ヒラタ トヨアキ
     gender: 男
     bloodtype: A
     birthday: 1972/08/02
@@ -5847,7 +5847,7 @@ persons:
     address_kata: トクシマケンミヨシシヤマシロチョウシモカワ
   - 'no': '488'
     name: 篠崎 直幸
-    name_kata: シノサキ ナオユキ
+    name_kana: シノサキ ナオユキ
     gender: 男
     bloodtype: O
     birthday: 1994/04/13
@@ -5859,7 +5859,7 @@ persons:
     address_kata: チバケンイチハラシクグツ
   - 'no': '489'
     name: 上村 ひびき
-    name_kata: ウエムラ ヒビキ
+    name_kana: ウエムラ ヒビキ
     gender: 男
     bloodtype: O
     birthday: 1984/12/12
@@ -5871,7 +5871,7 @@ persons:
     address_kata: アイチケンナゴヤシチクサクホリワリチョウ
   - 'no': '490'
     name: 土田 昭子
-    name_kata: トダ テルコ
+    name_kana: トダ テルコ
     gender: 女
     bloodtype: B
     birthday: 1972/08/09
@@ -5883,7 +5883,7 @@ persons:
     address_kata: フクオカケンフクオカシハカタクトウコウジマチ
   - 'no': '491'
     name: 竹下 房男
-    name_kata: タケシタ フサオ
+    name_kana: タケシタ フサオ
     gender: 男
     bloodtype: A
     birthday: 1985/02/06
@@ -5895,7 +5895,7 @@ persons:
     address_kata: アイチケンカスガイシミノマチ
   - 'no': '492'
     name: 小西 利次
-    name_kata: コニシ トシジ
+    name_kana: コニシ トシジ
     gender: 男
     bloodtype: B
     birthday: 1982/06/13
@@ -5907,7 +5907,7 @@ persons:
     address_kata: アイチケンナゴヤシミドリクタカネダイ
   - 'no': '493'
     name: 小笠原 利人
-    name_kata: オガサハラ トシヒト
+    name_kana: オガサハラ トシヒト
     gender: 男
     bloodtype: O
     birthday: 1983/11/27
@@ -5919,7 +5919,7 @@ persons:
     address_kata: ホッカイドウチトセシホクト
   - 'no': '494'
     name: 榊原 伸二
-    name_kata: サカキハラ シンジ
+    name_kana: サカキハラ シンジ
     gender: 男
     bloodtype: B
     birthday: 1978/10/16
@@ -5931,7 +5931,7 @@ persons:
     address_kata: ギフケンハシマグンカサマツチョウテンノウチョウ
   - 'no': '495'
     name: 佐伯 雅近
-    name_kata: サイキ マサチカ
+    name_kana: サイキ マサチカ
     gender: 男
     bloodtype: AB
     birthday: 1988/08/06
@@ -5943,7 +5943,7 @@ persons:
     address_kata: トットリケンサイハクグンダイセンチョウミヤウチ
   - 'no': '496'
     name: 泉 僧三郎
-    name_kata: イズミ ソウザブロウ
+    name_kana: イズミ ソウザブロウ
     gender: 男
     bloodtype: A
     birthday: 1987/11/21
@@ -5955,7 +5955,7 @@ persons:
     address_kata: カゴシマケンカノヤシコトブキ
   - 'no': '497'
     name: 小谷 晴生
-    name_kata: コタニ ハルオ
+    name_kana: コタニ ハルオ
     gender: 男
     bloodtype: O
     birthday: 1972/08/12
@@ -5967,7 +5967,7 @@ persons:
     address_kata: シガケンコウカシミナクチチョウアヤノ
   - 'no': '498'
     name: 森下 完一
-    name_kata: モリシタ カンイチ
+    name_kana: モリシタ カンイチ
     gender: 男
     bloodtype: A
     birthday: 1972/12/31
@@ -5979,7 +5979,7 @@ persons:
     address_kata: ナガノケンスワシコワタ
   - 'no': '499'
     name: 山村 真琴
-    name_kata: ヤマムラ マコト
+    name_kana: ヤマムラ マコト
     gender: 女
     bloodtype: O
     birthday: 1990/11/20
@@ -5991,7 +5991,7 @@ persons:
     address_kata: フクイケンフクイシナカツノチョウ
   - 'no': '500'
     name: 本間 さゆみ
-    name_kata: ホンマ サユミ
+    name_kana: ホンマ サユミ
     gender: 女
     bloodtype: O
     birthday: 1994/05/14

@@ -26,4 +26,25 @@ describe KanjiMaster::Random do
       expect(instance.number_kanji).not_to be nil
     end
   end
+
+  # Checked Person Data in `spec/person_spec.rb`, which uses in random person, address...
+  1.upto(500*0.1) do |i|
+    it "should random person (#{i})" do
+      expect(instance.person).not_to be nil
+      expect(instance.person.name).not_to be nil
+      expect(instance.person.address).not_to be nil
+      expect(instance.person.name_kana).not_to be nil
+      expect(instance.person.birthday).not_to be nil
+    end
+
+    it "should random address #{i}" do
+      expect(instance.address).not_to be nil
+      expect(instance.address.name).not_to be nil
+      expect(instance.address.hira).not_to be nil
+      expect(instance.address.hiragana).not_to be nil
+      expect(instance.address.katakana).not_to be nil
+      expect(instance.address.kana).not_to be nil
+      expect(instance.address.zip_code).not_to be nil
+    end
+  end
 end
