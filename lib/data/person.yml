@@ -1,0 +1,6003 @@
+---
+persons:
+  person:
+  - 'no': '1'
+    name: 川野 清重
+    name_kata: カワノ キヨシゲ
+    gender: 男
+    bloodtype: AB
+    birthday: 1971/03/02
+    tel: 076-789-7451
+    keitai: 090-2326-5104
+    mail: kysgkwnnwkgsyk@plala.or.jp
+    zip: 930-0053
+    address: 富山県富山市辰巳町8-13-9
+    address_kata: トヤマケントヤマシタツミチョウ
+  - 'no': '2'
+    name: 金田 菊子
+    name_kata: カネタ キクコ
+    gender: 女
+    bloodtype: B
+    birthday: 1984/04/27
+    tel: 075-946-3913
+    keitai: 090-2696-9730
+    mail: okukik1984@infoseek.co.jp
+    zip: 600-8088
+    address: 京都府京都市下京区官社殿町6-11-1
+    address_kata: キョウトフキョウトシシモギョウクカンシャデンチョウ
+  - 'no': '3'
+    name: 田代 郁美
+    name_kata: タシロ イクミ
+    gender: 女
+    bloodtype: B
+    birthday: 1970/02/04
+    tel: 03-3736-5477
+    keitai: 090-8659-5903
+    mail: tasiro@tokyo24.com
+    zip: 142-0053
+    address: 東京都品川区中延6849
+    address_kata: トウキョウトシナガワクナカノブ
+  - 'no': '4'
+    name: 柴田 軍市
+    name_kata: シバタ グンイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/03/22
+    tel: 0224-92-2031
+    keitai: 090-2446-4568
+    mail: itinug0322@excite.com
+    zip: 989-0265
+    address: 宮城県白石市十王堂北5-10-3
+    address_kata: ミヤギケンシロイシシジュウオウドウキタ
+  - 'no': '5'
+    name: 堤 健之
+    name_kata: ツツミ タケシ
+    gender: 男
+    bloodtype: AB
+    birthday: 1974/07/27
+    tel: 093-898-4264
+    keitai: 090-6427-2377
+    mail: tks8000030@goo.ne.jp
+    zip: 800-0030
+    address: 福岡県北九州市門司区桃山台2-11-9
+    address_kata: フクオカケンキタキュウシュウシモジクモモヤマダイ
+  - 'no': '6'
+    name: 石田 久哉
+    name_kata: イシダ ヒサヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1970/03/14
+    tel: 0790-94-2380
+    keitai: 090-8003-6653
+    mail: ayasih1970@ybb.ne.jp
+    zip: 679-2203
+    address: '兵庫県神崎郡福崎町南田原6-6-8 ノースコート南田原 '
+    address_kata: ヒョウゴケンカンザキグンフクサキチョウミナミタワラ
+  - 'no': '7'
+    name: 萩原 宣男
+    name_kata: ハギワラ ノブオ
+    gender: 男
+    bloodtype: B
+    birthday: 1984/03/10
+    tel: 0770-46-5293
+    keitai: 090-0054-0156
+    mail: rwgh84@ocn.ne.jp
+    zip: 919-1206
+    address: 福井県三方郡美浜町太田9-1-4-5F
+    address_kata: フクイケンミカタグンミハマチョウオオタ
+  - 'no': '8'
+    name: 木下 多栄子
+    name_kata: キシタ タエコ
+    gender: 女
+    bloodtype: O
+    birthday: 1982/09/29
+    tel: 0761-52-1040
+    keitai: 090-8810-7773
+    mail: taeko.kisita@nifty.com
+    zip: 923-0026
+    address: 石川県小松市下牧町4-1-4 サンシャイン下牧町 512
+    address_kata: イシカワケンコマツシシモマキマチ
+  - 'no': '9'
+    name: 三宅 理平
+    name_kata: ミヤケ リヘイ
+    gender: 男
+    bloodtype: B
+    birthday: 1972/10/03
+    tel: 08875-7-9145
+    keitai: 090-6814-5368
+    mail: iehir782@tiki.ne.jp
+    zip: 782-0024
+    address: 高知県香美市土佐山田町神通寺3-9-5
+    address_kata: コウチケンカミシトサヤマダチョウジンツウジ
+  - 'no': '10'
+    name: 平松 美喜夫
+    name_kata: ヒラマツ ミキオ
+    gender: 男
+    bloodtype: A
+    birthday: 1971/01/11
+    tel: 0957-87-6452
+    keitai: 090-0282-5352
+    mail: tmrh0111@example.org
+    zip: 855-0003
+    address: 長崎県島原市三会町4-1-2
+    address_kata: ナガサキケンシマバラシミエマチ
+  - 'no': '11'
+    name: 中井 八洲子
+    name_kata: ナカイ ヤスコ
+    gender: 女
+    bloodtype: A
+    birthday: 1986/02/11
+    tel: 03-3568-4998
+    keitai: 070-4618-7493
+    mail: okusay0211@gmail.com
+    zip: 164-0014
+    address: 東京都中野区南台2-2-1
+    address_kata: トウキョウトナカノクミナミダイ
+  - 'no': '12'
+    name: 土井 善二
+    name_kata: ツチイ ゼンジ
+    gender: 男
+    bloodtype: B
+    birthday: 1970/11/08
+    tel: 03-3044-2584
+    keitai: 090-2927-7270
+    mail: iznez70@hi-ho.ne.jp
+    zip: 102-0081
+    address: 東京都千代田区四番町7-7-3
+    address_kata: トウキョウトチヨダクヨンバンチョウ
+  - 'no': '13'
+    name: 浜口 朋美
+    name_kata: ハマグチ トモミ
+    gender: 女
+    bloodtype: O
+    birthday: 1976/10/11
+    tel: 0763-98-4327
+    keitai: 070-9342-1700
+    mail: hamaguti@hotmail.com
+    zip: 939-1845
+    address: 富山県南砺市示野2-3-1
+    address_kata: トヤマケンナントシシメノ
+  - 'no': '14'
+    name: 湯浅 雅宏
+    name_kata: ユアサ マサヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1985/11/16
+    tel: 0835-13-3988
+    keitai: 090-3518-8495
+    mail: masahiro_yuasa@gmo-media.jp
+    zip: 747-0825
+    address: 山口県防府市新田1-1-1 ボヌール新田 901
+    address_kata: ヤマグチケンホウフシシンデン
+  - 'no': '15'
+    name: 大平 美世
+    name_kata: オオヒラ ミヨ
+    gender: 女
+    bloodtype: B
+    birthday: 1972/03/06
+    tel: 0480-61-1103
+    keitai: 070-5003-0633
+    mail: oohiramiyo@combzmail.jp
+    zip: 346-0036
+    address: 埼玉県久喜市北中曽根2-1-6-3階
+    address_kata: サイタマケンクキシキタナカゾネ
+  - 'no': '16'
+    name: 高島 千津
+    name_kata: タカシマ チズ
+    gender: 女
+    bloodtype: O
+    birthday: 1994/09/24
+    tel: 0957-51-1777
+    keitai: 090-8034-6033
+    mail: takasimatizu@coara.or.jp
+    zip: 859-2413
+    address: 長崎県南島原市南有馬町丙3-7-3
+    address_kata: ナガサキケンミナミシマバラシミナミアリマチョウヘイ
+  - 'no': '17'
+    name: 小柳 興亜
+    name_kata: コヤナギ キョウア
+    gender: 男
+    bloodtype: A
+    birthday: 1983/08/12
+    tel: 07617-0-7439
+    keitai: 090-7120-0118
+    mail: ''
+    zip: 922-0242
+    address: 石川県加賀市山代温泉7-6-3
+    address_kata: イシカワケンカガシヤマシロオンセン
+  - 'no': '18'
+    name: 清水 幸郎
+    name_kata: シミズ ユキロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1977/11/22
+    tel: 0832-87-8450
+    keitai: 090-6835-6376
+    mail: yukirou7520956@plala.or.jp
+    zip: 752-0956
+    address: 山口県下関市長府前八幡町8418
+    address_kata: ヤマグチケンシモノセキシチョウフマエヤハタチョウ
+  - 'no': '19'
+    name: 小泉 豊秋
+    name_kata: コイズミ トヨアキ
+    gender: 男
+    bloodtype: B
+    birthday: 1991/06/17
+    tel: 089-622-6021
+    keitai: 090-4687-2230
+    mail: ikaoyot0617@web.ad.jp
+    zip: 799-2434
+    address: 愛媛県松山市柳原9-15-4 柳原ハイツA 1階
+    address_kata: エヒメケンマツヤマシヤナギハラ
+  - 'no': '20'
+    name: 土井 和茂
+    name_kata: ドイ カズシゲ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/09/28
+    tel: 0748-06-4240
+    keitai: 090-2808-9198
+    mail: doikazusige@eaccess.net
+    zip: 529-1435
+    address: 滋賀県東近江市五個荘伊野部町2-9-4
+    address_kata: シガケンヒガシオウミシゴカショウイノベチョウ
+  - 'no': '21'
+    name: 塚本 織枝
+    name_kata: ツカモト オリエ
+    gender: 女
+    bloodtype: B
+    birthday: 1979/12/01
+    tel: 0172-90-2736
+    keitai: 090-0119-4039
+    mail: orie-tukamoto@example.or.jp
+    zip: 036-0132
+    address: 青森県平川市唐竹井沢6-3-4
+    address_kata: アオモリケンヒラカワシカラタケイザワ
+  - 'no': '22'
+    name: 遠藤 晶紀
+    name_kata: エンドウ アキ
+    gender: 女
+    bloodtype: A
+    birthday: 1974/06/26
+    tel: 042-924-7423
+    keitai: 090-3974-4620
+    mail: uodne2003@mesh.ne.jp
+    zip: 220-0116
+    address: 神奈川県津久井郡城山町城山6-3-2
+    address_kata: カナガワケンツクイグンシロヤママチシロヤマ
+  - 'no': '23'
+    name: 中井 康次
+    name_kata: ナカイ コウジ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/05/17
+    tel: 076-825-6892
+    keitai: 090-1733-6847
+    mail: nki1980@example.ad.jp
+    zip: 920-0999
+    address: 石川県金沢市柿木畠7-6-9 サンコーポラス柿木畠 9階
+    address_kata: イシカワケンカナザワシカキノキバタケ
+  - 'no': '24'
+    name: 小原 凱次
+    name_kata: オハラ カツジ
+    gender: 男
+    bloodtype: A
+    birthday: 1986/06/05
+    tel: 0595-71-6184
+    keitai: 070-0955-8753
+    mail: izutak86@excite.com
+    zip: 518-0457
+    address: 三重県名張市春日丘５番町4-9-9
+    address_kata: ミエケンナバリシカスガオカ５バンチョウ
+  - 'no': '25'
+    name: 宮原 佐千雄
+    name_kata: ミヤバラ サチオ
+    gender: 男
+    bloodtype: B
+    birthday: 1974/06/17
+    tel: 0736-13-7917
+    keitai: 090-0784-5882
+    mail: satio@combzmail.jp
+    zip: 649-6257
+    address: 和歌山県岩出市相谷7-2-1
+    address_kata: ワカヤマケンイワデシアイダニ
+  - 'no': '26'
+    name: 平野 節美
+    name_kata: ヒラノ セツミ
+    gender: 女
+    bloodtype: AB
+    birthday: 1972/06/16
+    tel: 0493-50-1146
+    keitai: 090-8505-0624
+    mail: hirano_setumi@mail.goo.ne.jp
+    zip: 355-0305
+    address: 埼玉県比企郡小川町能増5-2-8 ノースコート能増 406
+    address_kata: サイタマケンヒキグンオガワマチノウマス
+  - 'no': '27'
+    name: 平岡 信平
+    name_kata: ヒラオカ シンペイ
+    gender: 男
+    bloodtype: O
+    birthday: 1976/06/25
+    tel: 0197-99-7732
+    keitai: 090-9487-2568
+    mail: snpi1976@example.net
+    zip: 024-0101
+    address: 岩手県北上市臥牛2193
+    address_kata: イワテケンキタカミシフシウシ
+  - 'no': '28'
+    name: 米田 三起
+    name_kata: マイタ ミキ
+    gender: 女
+    bloodtype: B
+    birthday: 1972/11/21
+    tel: 0568-66-9540
+    keitai: ''
+    mail: mikimaita@plala.or.jp
+    zip: 486-0952
+    address: 愛知県春日井市追進町7580
+    address_kata: アイチケンカスガイシツイシンチョウ
+  - 'no': '29'
+    name: 上村 裕紀
+    name_kata: ウエムラ ヒロキ
+    gender: 男
+    bloodtype: A
+    birthday: 1991/02/02
+    tel: 072-035-5520
+    keitai: 090-6415-3235
+    mail: rmu91@plala.or.jp
+    zip: 572-0004
+    address: 大阪府寝屋川市成田町2-8-1 クローバーステイ成田町 3階
+    address_kata: オオサカフネヤガワシナリタチョウ
+  - 'no': '30'
+    name: 森岡 大夢
+    name_kata: モリオカ ヒロム
+    gender: 男
+    bloodtype: A
+    birthday: 1980/07/08
+    tel: 0465-19-9216
+    keitai: 090-8532-8591
+    mail: morioka2590143@excite.com
+    zip: 259-0143
+    address: 神奈川県足柄上郡中井町北田8-5-4-115号室
+    address_kata: カナガワケンアシガラカミグンナカイマチキタダ
+  - 'no': '31'
+    name: 菅野 安彦
+    name_kata: カンノ ヤスヒコ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/09/10
+    tel: 0258-61-9436
+    keitai: ''
+    mail: okihusay0910@example.or.jp
+    zip: 940-0149
+    address: 新潟県長岡市栃倉1-15-9
+    address_kata: ニイガタケンナガオカシトチクラ
+  - 'no': '32'
+    name: 柳沢 義幸
+    name_kata: ヤナギサワ ヨシユキ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/08/03
+    tel: 0942-01-3701
+    keitai: 090-3214-6284
+    mail: kysy91011511@nifty.jp
+    zip: 830-0051
+    address: 福岡県久留米市南9-10-1 パナハイツ南 1511号室
+    address_kata: フクオカケンクルメシミナミ
+  - 'no': '33'
+    name: 宮城 道義
+    name_kata: ミヤギ ミチヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1974/10/17
+    tel: 0195-54-7893
+    keitai: 090-6957-6810
+    mail: ''
+    zip: 028-7543
+    address: 岩手県八幡平市小屋畑1-15-8
+    address_kata: イワテケンハチマンタイシコヤノハタ
+  - 'no': '34'
+    name: 河村 幸郎
+    name_kata: コウムラ ユキロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1977/12/02
+    tel: 0259-55-4106
+    keitai: 090-3637-2044
+    mail: ykru_kumr@tokyo24.com
+    zip: 952-0006
+    address: 新潟県佐渡市春日9-5-5
+    address_kata: ニイガタケンサドシカスガ
+  - 'no': '35'
+    name: 宮原 健児
+    name_kata: ミヤバラ ケンジ
+    gender: 男
+    bloodtype: A
+    birthday: 1989/04/26
+    tel: 0952-28-6881
+    keitai: 090-4803-2312
+    mail: mybr_knz@sakura.ne.jp
+    zip: 840-0841
+    address: 佐賀県佐賀市緑小路8-14-9
+    address_kata: サガケンサガシミドリコウジ
+  - 'no': '36'
+    name: 稲垣 葉子
+    name_kata: イナガキ ヨウコ
+    gender: 女
+    bloodtype: AB
+    birthday: 1978/06/06
+    tel: 0877-90-1737
+    keitai: 090-9207-2540
+    mail: ikagani766@combzmail.jp
+    zip: 766-0011
+    address: 香川県仲多度郡まんのう町公文5-11-5
+    address_kata: カガワケンナカタドグンマンノウチョウクモン
+  - 'no': '37'
+    name: 木村 源平
+    name_kata: キムラ ゲンペイ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/05/07
+    tel: 0475-27-0420
+    keitai: 070-3804-6850
+    mail: rmk0507@example.ac.jp
+    zip: 297-0003
+    address: 千葉県茂原市北高根飛地2-9-6
+    address_kata: チバケンモバラシキタタカネトビチ
+  - 'no': '38'
+    name: 浅野 貴雅
+    name_kata: アサノ タカマサ
+    gender: 男
+    bloodtype: A
+    birthday: 1992/03/08
+    tel: 072-980-2988
+    keitai: ''
+    mail: asamakat2005@yahoo.co.jp
+    zip: 596-0035
+    address: 大阪府岸和田市春木泉町2-13-4
+    address_kata: オオサカフキシワダシハルキイズミチョウ
+  - 'no': '39'
+    name: 石田 荘介
+    name_kata: イシダ ソウスケ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/05/31
+    tel: 0258-24-0592
+    keitai: ''
+    mail: ekusuos@excite.co.jp
+    zip: 940-2127
+    address: 新潟県長岡市新産1-6-7
+    address_kata: ニイガタケンナガオカシシンサン
+  - 'no': '40'
+    name: 石川 孝成
+    name_kata: イシカワ タカシゲ
+    gender: 男
+    bloodtype: B
+    birthday: 1970/01/13
+    tel: 042-326-0229
+    keitai: 090-8880-4580
+    mail: gsktdion@dion.ne.jp
+    zip: 202-0003
+    address: 東京都西東京市北町6-7-4
+    address_kata: トウキョウトニシトウキョウシキタマチ
+  - 'no': '41'
+    name: 大城 繁次
+    name_kata: オオキ シゲツグ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/09/20
+    tel: 042-578-0884
+    keitai: 090-3457-4613
+    mail: sigetugu_ooki@goo.ne.jp
+    zip: 187-0023
+    address: 東京都小平市上水新町5-14-1 エポカ上水新町 14階
+    address_kata: トウキョウトコダイラシジョウスイシンマチ
+  - 'no': '42'
+    name: 竹本 健生
+    name_kata: タケモト タケオ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/06/26
+    tel: 0958-05-8096
+    keitai: ''
+    mail: takemoto-takeo@yahoo.co.jp
+    zip: 850-0052
+    address: 長崎県長崎市筑後町7-4-7 セジュール筑後町 604号室
+    address_kata: ナガサキケンナガサキシチクゴマチ
+  - 'no': '43'
+    name: 比嘉 栄理子
+    name_kata: ヒガ エリコ
+    gender: 女
+    bloodtype: O
+    birthday: 1987/05/18
+    tel: 0791-55-8871
+    keitai: 090-3142-3988
+    mail: okire679@nifty.com
+    zip: 679-4301
+    address: 兵庫県たつの市新宮町篠首6-15-3
+    address_kata: ヒョウゴケンタツノシシングウチョウシノクビ
+  - 'no': '44'
+    name: 石橋 真佐文
+    name_kata: イシバシ マサフミ
+    gender: 男
+    bloodtype: A
+    birthday: 1977/01/30
+    tel: 044-536-5418
+    keitai: 090-2672-0777
+    mail: isbs1977@rakuten.co.jp
+    zip: 211-0045
+    address: 神奈川県川崎市中原区上新城7-11-7
+    address_kata: カナガワケンカワサキシナカハラクカミシンジョウ
+  - 'no': '45'
+    name: 岡野 留三
+    name_kata: オカノ リュウゾウ
+    gender: 男
+    bloodtype: O
+    birthday: 1974/01/19
+    tel: 0426-45-9261
+    keitai: 090-9762-7970
+    mail: ryuuzou.okano@example.net
+    zip: 192-0917
+    address: 東京都八王子市西片倉1-2-6
+    address_kata: トウキョウトハチオウジシニシカタクラ
+  - 'no': '46'
+    name: 徳田 雄一郎
+    name_kata: トクタ ユウイチロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1980/05/26
+    tel: 024-527-7708
+    keitai: 090-8519-6671
+    mail: yuuitiroutokuta@nifty.com
+    zip: 960-1404
+    address: 福島県伊達郡川俣町西福沢6-7-5 ヴィレッジ西福沢 13F
+    address_kata: フクシマケンダテグンカワマタマチニシフクザワ
+  - 'no': '47'
+    name: 高田 由雄
+    name_kata: タカタ ヨシオ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/08/29
+    tel: 0857-36-4637
+    keitai: 090-4200-5359
+    mail: oisoy87@rakuten.co.jp
+    zip: 689-0212
+    address: 鳥取県鳥取市気高町常松8-15-8
+    address_kata: トットリケントットリシケタカチョウツネマツ
+  - 'no': '48'
+    name: 黒川 つばさ
+    name_kata: クロカワ ツバサ
+    gender: 男
+    bloodtype: B
+    birthday: 1981/06/06
+    tel: 0868-51-7980
+    keitai: 090-1811-0489
+    mail: asabut708@odn.ne.jp
+    zip: 708-1226
+    address: 岡山県津山市新野山形7527
+    address_kata: オカヤマケンツヤマシニイノヤマガタ
+  - 'no': '49'
+    name: 上村 一城
+    name_kata: カミムラ カズキ
+    gender: 男
+    bloodtype: A
+    birthday: 1971/01/01
+    tel: 0234-87-2620
+    keitai: 090-7136-0210
+    mail: kmmrkzk@plala.or.jp
+    zip: 999-8204
+    address: 山形県酒田市新出3-14-2 シャルム新出 3階
+    address_kata: ヤマガタケンサカタシシンデ
+  - 'no': '50'
+    name: 小倉 信也
+    name_kata: コクラ ノブヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1993/03/09
+    tel: 0426-71-0299
+    keitai: 090-8490-6244
+    mail: kokura192@rakuten.co.jp
+    zip: 192-0085
+    address: '東京都八王子市中町4-4-8 スカイコート中町 '
+    address_kata: トウキョウトハチオウジシナカチョウ
+  - 'no': '51'
+    name: 山中 久江
+    name_kata: ヤマナカ ヒサエ
+    gender: 女
+    bloodtype: O
+    birthday: 1972/02/23
+    tel: 01538-7-0128
+    keitai: 090-2166-8431
+    mail: ''
+    zip: 086-1652
+    address: 北海道標津郡標津町南二条7-14-5
+    address_kata: ホッカイドウシベツグンシベツチョウミナミ２ジョウ
+  - 'no': '52'
+    name: 南 洵子
+    name_kata: ミナミ ジュンコ
+    gender: 女
+    bloodtype: AB
+    birthday: 1970/07/16
+    tel: 045-390-5419
+    keitai: 070-0575-9751
+    mail: jnk-mnm@excite.com
+    zip: 245-0014
+    address: 神奈川県横浜市泉区中田南5-4-3
+    address_kata: カナガワケンヨコハマシイズミクナカタミナミ
+  - 'no': '53'
+    name: 原 多美子
+    name_kata: ハラ タミコ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/10/27
+    tel: 0172-75-5285
+    keitai: 090-1758-8221
+    mail: okimat036@example.gr.jp
+    zip: 036-0155
+    address: 青森県平川市館田中前田2-4-8 パークハイツ館田中前田 1303号室
+    address_kata: アオモリケンヒラカワシタチタナカマエダ
+  - 'no': '54'
+    name: 山岸 夕子
+    name_kata: ヤマギシ ユウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1985/11/21
+    tel: 0192-38-0541
+    keitai: 090-2252-8679
+    mail: okuuy1121@ath.cx
+    zip: 022-0007
+    address: 岩手県大船渡市赤崎町6-7-2
+    address_kata: イワテケンオオフナトシアカサキチョウ
+  - 'no': '55'
+    name: 林田 康司
+    name_kata: ハヤシダ ヤスシ
+    gender: 男
+    bloodtype: A
+    birthday: 1971/01/25
+    tel: 03-3071-9249
+    keitai: ''
+    mail: isusay71@sakura.ne.jp
+    zip: 134-0087
+    address: 東京都江戸川区清新町9-9-3
+    address_kata: トウキョウトエドガワクセイシンチョウ
+  - 'no': '56'
+    name: 吉野 敬正
+    name_kata: ヨシノ ヨシマサ
+    gender: 男
+    bloodtype: A
+    birthday: 1984/08/15
+    tel: 042-130-1336
+    keitai: 090-3707-3124
+    mail: yosimasa0815@nifty.jp
+    zip: 189-0001
+    address: 東京都東村山市秋津町3-5-8 アーバンティ秋津町 1309
+    address_kata: トウキョウトヒガシムラヤマシアキツチョウ
+  - 'no': '57'
+    name: 相沢 章子
+    name_kata: アイザワ ショウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1974/09/06
+    tel: 0297-67-4369
+    keitai: 070-7628-2390
+    mail: wza1974@comeon.to
+    zip: 301-0801
+    address: 茨城県龍ヶ崎市板橋町4-13-5-6階
+    address_kata: イバラキケンリュウガサキシイタバシマチ
+  - 'no': '58'
+    name: 西川 智
+    name_kata: ニシカワ トモ
+    gender: 女
+    bloodtype: A
+    birthday: 1971/06/15
+    tel: 096-673-9870
+    keitai: 090-8436-6761
+    mail: mt860@bbtec.net
+    zip: 860-0038
+    address: 熊本県熊本市古桶屋町5-9-9
+    address_kata: クマモトケンクマモトシフルオケヤマチ
+  - 'no': '59'
+    name: 土井 久江
+    name_kata: ドイ ヒサエ
+    gender: 女
+    bloodtype: A
+    birthday: 1990/03/18
+    tel: 058-673-6813
+    keitai: 090-7278-3240
+    mail: hisae07@sannet.ne.jp
+    zip: 501-2567
+    address: 岐阜県岐阜市福富町田5-3-3
+    address_kata: ギフケンギフシフクトミチョウダ
+  - 'no': '60'
+    name: 野沢 俊康
+    name_kata: ノザワ トシヤス
+    gender: 男
+    bloodtype: B
+    birthday: 1994/12/10
+    tel: 0883-74-5507
+    keitai: ''
+    mail: tsys2151@sannet.ne.jp
+    zip: 779-4803
+    address: 徳島県三好市井川町田中2-15-1
+    address_kata: トクシマケンミヨシシイカワチョウタナカ
+  - 'no': '61'
+    name: 谷本 隆次
+    name_kata: タニモト タカジ
+    gender: 男
+    bloodtype: B
+    birthday: 1974/08/30
+    tel: 076-208-2532
+    keitai: 090-4838-2960
+    mail: tanimoto-takazi@dion.ne.jp
+    zip: 936-0066
+    address: 富山県滑川市菰原3-10-6 サンハイツ菰原 1314号室
+    address_kata: トヤマケンナメリカワシコモハラ
+  - 'no': '62'
+    name: 服部 さやか
+    name_kata: ハットリ サヤカ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/10/18
+    tel: 0248-35-5229
+    keitai: 090-7146-2551
+    mail: sayakaakayas@dion.ne.jp
+    zip: 961-0803
+    address: 福島県白河市栄町7-6-8 エスポワール栄町 5階
+    address_kata: フクシマケンシラカワシサカエマチ
+  - 'no': '63'
+    name: 村瀬 敏継
+    name_kata: ムラセ トシツグ
+    gender: 男
+    bloodtype: A
+    birthday: 1989/10/20
+    tel: 0428-97-0076
+    keitai: ''
+    mail: ''
+    zip: 198-0085
+    address: 東京都青梅市滝ノ上町1-12-1
+    address_kata: トウキョウトオウメシタキノウエチョウ
+  - 'no': '64'
+    name: 早川 金義
+    name_kata: ハヤカワ カネヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/06/17
+    tel: 058-953-5362
+    keitai: 070-8631-9062
+    mail: awakayah78@example.net
+    zip: 500-8829
+    address: 岐阜県岐阜市杉山町3-4-2
+    address_kata: ギフケンギフシスギヤマチョウ
+  - 'no': '65'
+    name: 内藤 理佐
+    name_kata: ナイトウ リサ
+    gender: 女
+    bloodtype: A
+    birthday: 1992/12/15
+    tel: 0743-42-6410
+    keitai: 090-0697-2999
+    mail: naitou92@sannet.ne.jp
+    zip: 632-0007
+    address: 奈良県天理市森本町1-6-7
+    address_kata: ナラケンテンリシモリモトチョウ
+  - 'no': '66'
+    name: 石橋 教夫
+    name_kata: イシバシ ノリオ
+    gender: 男
+    bloodtype: O
+    birthday: 1979/09/26
+    tel: 0426-49-0263
+    keitai: 090-4720-0974
+    mail: isabisi79@rakuten.co.jp
+    zip: 192-0073
+    address: 東京都八王子市寺町5913
+    address_kata: トウキョウトハチオウジシテラマチ
+  - 'no': '67'
+    name: 原 良市
+    name_kata: ハラ リョウイチ
+    gender: 男
+    bloodtype: A
+    birthday: 1988/12/31
+    tel: 03-3749-6202
+    keitai: 090-6457-7055
+    mail: hara1231@rakuten.co.jp
+    zip: 132-0034
+    address: 東京都江戸川区小松川8-8-4
+    address_kata: トウキョウトエドガワクコマツガワ
+  - 'no': '68'
+    name: 中島 一智
+    name_kata: ナカシマ カズトモ
+    gender: 男
+    bloodtype: O
+    birthday: 1982/05/29
+    tel: 0595-73-8004
+    keitai: 070-6763-6591
+    mail: mskn5180612@sannet.ne.jp
+    zip: 518-0612
+    address: 三重県名張市下小波田7-10-9 シャトル下小波田 13階
+    address_kata: ミエケンナバリシシモオバタ
+  - 'no': '69'
+    name: 岩井 美砂
+    name_kata: イワイ ミサ
+    gender: 女
+    bloodtype: A
+    birthday: 1980/08/08
+    tel: 0792-43-3437
+    keitai: 090-6968-0745
+    mail: ms_iwi@excite.com
+    zip: 672-8088
+    address: 兵庫県姫路市飾磨区英賀西町5-5-3
+    address_kata: ヒョウゴケンヒメジシシカマクアガニシチョウ
+  - 'no': '70'
+    name: 村山 茂義
+    name_kata: ムラヤマ シゲヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/09/19
+    tel: 0799-11-9510
+    keitai: 090-4042-4510
+    mail: isoyegis@hotmail.com
+    zip: 656-1318
+    address: 兵庫県洲本市五色町鮎原神陽2-4-7
+    address_kata: ヒョウゴケンスモトシゴシキチョウアイハラシンヨウ
+  - 'no': '71'
+    name: 下田 隆哉
+    name_kata: シモダ タカヤ
+    gender: 男
+    bloodtype: B
+    birthday: 1988/01/23
+    tel: 077-190-5233
+    keitai: 090-7237-9592
+    mail: ''
+    zip: 524-0201
+    address: 滋賀県野洲市吉川3083
+    address_kata: シガケンヤスシヨシカワ
+  - 'no': '72'
+    name: 高山 智子
+    name_kata: タカヤマ トモコ
+    gender: 女
+    bloodtype: B
+    birthday: 1992/05/10
+    tel: 0138-58-1348
+    keitai: ''
+    mail: tomoko926@example.com
+    zip: 041-0844
+    address: 北海道函館市川原町9-2-6
+    address_kata: ホッカイドウハコダテシカワハラチョウ
+  - 'no': '73'
+    name: 神谷 泰秀
+    name_kata: シンタニ ヤスヒデ
+    gender: 男
+    bloodtype: A
+    birthday: 1974/07/02
+    tel: 0877-01-3935
+    keitai: 090-6385-3505
+    mail: edihusay74@example.ne.jp
+    zip: 766-0011
+    address: 香川県仲多度郡まんのう町公文7418
+    address_kata: カガワケンナカタドグンマンノウチョウクモン
+  - 'no': '74'
+    name: 武田 勝英
+    name_kata: タケダ カツヒデ
+    gender: 男
+    bloodtype: AB
+    birthday: 1970/01/27
+    tel: 042-641-3012
+    keitai: 090-3025-6588
+    mail: dhtk@ocn.ne.jp
+    zip: 186-0001
+    address: 東京都国立市北1-4-4 サンハイツ北 6F
+    address_kata: トウキョウトクニタチシキタ
+  - 'no': '75'
+    name: 武井 千琴
+    name_kata: タケイ チコト
+    gender: 女
+    bloodtype: B
+    birthday: 1976/12/02
+    tel: 0598-10-7638
+    keitai: 090-8676-0050
+    mail: tikoto_takei@gmail.com
+    zip: 515-0207
+    address: 三重県松阪市安楽町3-12-6
+    address_kata: ミエケンマツサカシアンラクチョウ
+  - 'no': '76'
+    name: 菅原 隆昭
+    name_kata: スガハラ タカアキ
+    gender: 男
+    bloodtype: B
+    birthday: 1986/07/11
+    tel: 0135-29-8146
+    keitai: 070-2472-5868
+    mail: takaaki.sugahara@nifty.jp
+    zip: 045-0031
+    address: 北海道岩内郡共和町梨野舞納4-11-8 ライオンズマンション梨野舞納 6F
+    address_kata: ホッカイドウイワナイグンキョウワチョウリヤムナイ
+  - 'no': '77'
+    name: 横田 次生
+    name_kata: ヨコタ ツギオ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/10/14
+    tel: 042-569-0513
+    keitai: ''
+    mail: tugio-yokota@plala.or.jp
+    zip: 188-0011
+    address: '東京都西東京市田無町7-1-1 ニューシティ田無町 '
+    address_kata: トウキョウトニシトウキョウシタナシチョウ
+  - 'no': '78'
+    name: 菅野 三保子
+    name_kata: スガノ ミホコ
+    gender: 女
+    bloodtype: O
+    birthday: 1980/04/29
+    tel: 0254-68-0308
+    keitai: 090-9539-1056
+    mail: sugano7137@t-com.ne.jp
+    zip: 959-3413
+    address: 新潟県岩船郡神林村小出7-13-7
+    address_kata: ニイガタケンイワフネグンカミハヤシムラコイデ
+  - 'no': '79'
+    name: 吉沢 威佐夫
+    name_kata: ヨシザワ イサオ
+    gender: 男
+    bloodtype: B
+    birthday: 1975/12/15
+    tel: 0744-76-8378
+    keitai: 090-0745-0622
+    mail: oasi634@goo.ne.jp
+    zip: 634-0004
+    address: 奈良県橿原市木原町5-4-2
+    address_kata: ナラケンカシハラシキハラチョウ
+  - 'no': '80'
+    name: 小田 僧三郎
+    name_kata: オダ ソウザブロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/05/15
+    tel: 0958-19-8235
+    keitai: 070-5182-6585
+    mail: souzaburou@sunfield.ne.jp
+    zip: 852-8132
+    address: 長崎県長崎市扇町4-11-4
+    address_kata: ナガサキケンナガサキシオウギマチ
+  - 'no': '81'
+    name: 畠山 鎮雄
+    name_kata: ハタケヤマ シズオ
+    gender: 男
+    bloodtype: A
+    birthday: 1988/11/06
+    tel: 042-195-3047
+    keitai: 090-7258-0389
+    mail: htkym190@mxi.asp.home.ne.jp
+    zip: 190-1202
+    address: 東京都西多摩郡瑞穂町駒形富士山3-9-3
+    address_kata: トウキョウトニシタマグンミズホマチコマガタフジヤマ
+  - 'no': '82'
+    name: 西村 浩史
+    name_kata: ニシムラ ヒロシ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/01/29
+    tel: 0824-65-2787
+    keitai: 090-5468-4530
+    mail: nisimura1971@example.org
+    zip: 729-4207
+    address: 広島県三次市吉舎町敷地8-13-4
+    address_kata: ヒロシマケンミヨシシキサチョウシキジ
+  - 'no': '83'
+    name: 藤沢 麗奈
+    name_kata: フジサワ レイナ
+    gender: 女
+    bloodtype: A
+    birthday: 1980/03/31
+    tel: 0273-20-9724
+    keitai: 090-2558-4923
+    mail: awasizuh1980@example.org
+    zip: 370-3402
+    address: 群馬県高崎市倉渕町三ノ倉9034
+    address_kata: グンマケンタカサキシクラブチマチサンノクラ
+  - 'no': '84'
+    name: 河村 美世
+    name_kata: カワムラ ミヨ
+    gender: 女
+    bloodtype: B
+    birthday: 1993/06/22
+    tel: 0856-29-7611
+    keitai: 090-6170-5530
+    mail: ''
+    zip: 699-5214
+    address: 島根県鹿足郡津和野町溪村9-12-8
+    address_kata: シマネケンカノアシグンツワノチョウタニムラ
+  - 'no': '85'
+    name: 甲斐 育雄
+    name_kata: カイ イクオ
+    gender: 男
+    bloodtype: A
+    birthday: 1975/10/06
+    tel: 011-611-5388
+    keitai: ''
+    mail: ikuo1006@livedoor.com
+    zip: 063-0814
+    address: 北海道札幌市西区琴似四条5573
+    address_kata: ホッカイドウサッポロシニシクコトニ４ジョウ
+  - 'no': '86'
+    name: 星野 麗奈
+    name_kata: ホシノ レイナ
+    gender: 女
+    bloodtype: O
+    birthday: 1980/06/25
+    tel: 075-195-0789
+    keitai: 090-4752-4026
+    mail: onisohinfoweb@infoweb.ne.jp
+    zip: 607-8325
+    address: 京都府京都市山科区川田土仏9-10-3 シャトル川田土仏 510
+    address_kata: キョウトフキョウトシヤマシナクカワタツチボトケ
+  - 'no': '87'
+    name: 本田 令
+    name_kata: ホンダ レイ
+    gender: 女
+    bloodtype: O
+    birthday: 1973/01/23
+    tel: 025-277-3492
+    keitai: 090-3960-4938
+    mail: rei-honda@gmail.com
+    zip: 951-8116
+    address: 新潟県新潟市東中通9634
+    address_kata: ニイガタケンニイガタシヒガシナカドオリ
+  - 'no': '88'
+    name: 角田 貴浩
+    name_kata: スミタ タカヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1977/07/08
+    tel: 075-512-0410
+    keitai: 090-5031-2847
+    mail: sumita-takahiro@comeon.to
+    zip: 610-1126
+    address: 京都府京都市西京区大原野上里男鹿町3-11-9-2F
+    address_kata: キョウトフキョウトシニシキョウクオオハラノカミザトオジカチョウ
+  - 'no': '89'
+    name: 小西 優子
+    name_kata: コニシ ユウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/11/11
+    tel: 03-3827-4087
+    keitai: 090-5351-0442
+    mail: ''
+    zip: 144-0052
+    address: 東京都大田区蒲田6-9-9
+    address_kata: トウキョウトオオタクカマタ
+  - 'no': '90'
+    name: 水野 結衣
+    name_kata: ミズノ ユイ
+    gender: 女
+    bloodtype: O
+    birthday: 1972/06/11
+    tel: 0422-36-5499
+    keitai: 090-4933-2798
+    mail: onuzim181@comeon.to
+    zip: 181-0014
+    address: 東京都三鷹市野崎8-14-4
+    address_kata: トウキョウトミタカシノザキ
+  - 'no': '91'
+    name: 井上 慎治
+    name_kata: イノウエ シンジ
+    gender: 男
+    bloodtype: O
+    birthday: 1990/07/11
+    tel: 0257-64-7085
+    keitai: 090-8388-3308
+    mail: uni0711@web.ad.jp
+    zip: 949-8555
+    address: 新潟県十日町市大石9-8-2 ノースコート大石 2F
+    address_kata: ニイガタケントオカマチシオオイシ
+  - 'no': '92'
+    name: 高瀬 広明
+    name_kata: タカセ ヒロアキ
+    gender: 男
+    bloodtype: A
+    birthday: 1975/10/25
+    tel: 0952-83-2686
+    keitai: ''
+    mail: sktgmail@gmail.com
+    zip: 849-0925
+    address: 佐賀県佐賀市八丁畷町2-7-1
+    address_kata: サガケンサガシハッチョウナワテマチ
+  - 'no': '93'
+    name: 土井 つばさ
+    name_kata: ドイ ツバサ
+    gender: 男
+    bloodtype: O
+    birthday: 1982/05/21
+    tel: 0956-96-7488
+    keitai: 090-2849-6979
+    mail: ''
+    zip: 857-0018
+    address: 長崎県佐世保市横尾町7-4-9 ローレル横尾町 1304
+    address_kata: ナガサキケンサセボシヨコオチョウ
+  - 'no': '94'
+    name: 齋藤 留三
+    name_kata: サイトウ リュウゾウ
+    gender: 男
+    bloodtype: B
+    birthday: 1987/03/31
+    tel: 03-3468-5418
+    keitai: 090-3944-2413
+    mail: saitou-ryuuzou@plala.or.jp
+    zip: 176-0011
+    address: 東京都練馬区豊玉上2-8-8
+    address_kata: トウキョウトネリマクトヨタマカミ
+  - 'no': '95'
+    name: 泉 鉄次
+    name_kata: イズミ テツジ
+    gender: 男
+    bloodtype: A
+    birthday: 1993/02/12
+    tel: 01654-7-2147
+    keitai: 090-4756-1298
+    mail: izumi.tetuzi@mail.goo.ne.jp
+    zip: 096-0076
+    address: 北海道名寄市砺波4-8-1
+    address_kata: ホッカイドウナヨロシトナミ
+  - 'no': '96'
+    name: 星野 英造
+    name_kata: ホシノ エイゾウ
+    gender: 男
+    bloodtype: A
+    birthday: 1977/11/06
+    tel: 0224-48-6890
+    keitai: 090-6185-4234
+    mail: hosino6890@goo.ne.jp
+    zip: 989-0223
+    address: 宮城県白石市旭町5-12-6
+    address_kata: ミヤギケンシロイシシアサヒチョウ
+  - 'no': '97'
+    name: 今村 宏弥
+    name_kata: イマムラ ヒロヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1992/01/04
+    tel: 03-3150-9930
+    keitai: 090-5517-1397
+    mail: hiroya@dti.ad.jp
+    zip: 156-0052
+    address: 東京都世田谷区経堂1-1-3 経堂コーポ 12階
+    address_kata: トウキョウトセタガヤクキョウドウ
+  - 'no': '98'
+    name: 中谷 真人
+    name_kata: ナカタニ マコト
+    gender: 男
+    bloodtype: A
+    birthday: 1972/07/22
+    tel: 0567-46-0592
+    keitai: 090-5943-8717
+    mail: makoto1972@nifty.jp
+    zip: 496-0864
+    address: 愛知県津島市中之町6923
+    address_kata: アイチケンツシマシナカノマチ
+  - 'no': '99'
+    name: 関口 真志
+    name_kata: セキグチ マサシ
+    gender: 男
+    bloodtype: B
+    birthday: 1988/04/04
+    tel: 0983-09-2847
+    keitai: 090-6158-1179
+    mail: sekiguti-masasi@sunfield.ne.jp
+    zip: 881-1231
+    address: 宮崎県西都市上揚8-10-4-910号室
+    address_kata: ミヤザキケンサイトシカミアゲ
+  - 'no': '100'
+    name: 奥村 要之助
+    name_kata: オクムラ ヨウノスケ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/12/12
+    tel: 058-637-2427
+    keitai: ''
+    mail: yunskokmr@hi-ho.ne.jp
+    zip: 500-8146
+    address: 岐阜県岐阜市九重町5-8-1
+    address_kata: ギフケンギフシココノエチョウ
+  - 'no': '101'
+    name: 坂本 安民
+    name_kata: サカモト ヤスタミ
+    gender: 男
+    bloodtype: A
+    birthday: 1988/05/26
+    tel: 0299-69-7890
+    keitai: 090-4239-2189
+    mail: ystm7890@mesh.ne.jp
+    zip: 311-2415
+    address: 茨城県潮来市延方7449
+    address_kata: イバラキケンイタコシノブカタ
+  - 'no': '102'
+    name: 中谷 友恵
+    name_kata: ナカタニ トモエ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/09/18
+    tel: 025-347-8047
+    keitai: 090-5384-8892
+    mail: tomoe-nakatani@rakuten.co.jp
+    zip: 951-8011
+    address: 新潟県新潟市入船町8-5-1
+    address_kata: ニイガタケンニイガタシイリフネチョウ
+  - 'no': '103'
+    name: 小島 久江
+    name_kata: コジマ ヒサエ
+    gender: 女
+    bloodtype: B
+    birthday: 1990/03/11
+    tel: 03-3880-6554
+    keitai: 070-1312-3960
+    mail: mzk6554@mesh.ne.jp
+    zip: 174-0071
+    address: 東京都板橋区常盤台9417
+    address_kata: トウキョウトイタバシクトキワダイ
+  - 'no': '104'
+    name: 小川 詔勝
+    name_kata: オガワ ノリカツ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/03/21
+    tel: 0193-62-9795
+    keitai: 090-0468-2742
+    mail: tkrn@coara.or.jp
+    zip: 027-0051
+    address: 岩手県宮古市南町7-10-2 Kコーポ南町 4階
+    address_kata: イワテケンミヤコシミナミマチ
+  - 'no': '105'
+    name: 大槻 美次
+    name_kata: オオツキ ヨシツグ
+    gender: 男
+    bloodtype: A
+    birthday: 1993/03/03
+    tel: 0558-32-1846
+    keitai: 090-1433-3137
+    mail: ugutisoy93@dti.ne.jp
+    zip: 410-3603
+    address: 静岡県賀茂郡松崎町明伏7277
+    address_kata: シズオカケンカモグンマツザキチョウアケブシ
+  - 'no': '106'
+    name: 北川 絵美
+    name_kata: キタカワ エミ
+    gender: 女
+    bloodtype: B
+    birthday: 1981/04/17
+    tel: 0790-15-7467
+    keitai: 090-1879-7245
+    mail: awakatik1981@mail.goo.ne.jp
+    zip: 679-5301
+    address: 兵庫県佐用郡佐用町佐用2-6-6 シャンパーニュ佐用 214号室
+    address_kata: ヒョウゴケンサヨウグンサヨウチョウサヨウ
+  - 'no': '107'
+    name: 大島 章一
+    name_kata: オオシマ ショウイチ
+    gender: 男
+    bloodtype: A
+    birthday: 1984/07/23
+    tel: 0743-31-8522
+    keitai: 090-8249-8572
+    mail: oosima630@excite.com
+    zip: 630-2341
+    address: 奈良県山辺郡山添村遅瀬5-7-5
+    address_kata: ナラケンヤマベグンヤマゾエムラオソセ
+  - 'no': '108'
+    name: 谷川 裕康
+    name_kata: ヤガワ ヒロヤス
+    gender: 男
+    bloodtype: AB
+    birthday: 1984/09/21
+    tel: 087-982-3069
+    keitai: 090-5027-7816
+    mail: hiroyasu-yagawa@aitai.ne.jp
+    zip: 760-0053
+    address: 香川県高松市田町1-1-7
+    address_kata: カガワケンタカマツシタマチ
+  - 'no': '109'
+    name: 金子 宏弥
+    name_kata: カネコ ヒロヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/10/30
+    tel: 0550-35-3690
+    keitai: 090-4795-0160
+    mail: knk4120019@scuba-diver.jp
+    zip: 412-0019
+    address: 静岡県御殿場市山尾田2-2-7 ニューシティ山尾田 6階
+    address_kata: シズオカケンゴテンバシヤマオダ
+  - 'no': '110'
+    name: 広瀬 良信
+    name_kata: ヒロセ ヨシノブ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/05/02
+    tel: 0551-69-6059
+    keitai: 090-1735-5896
+    mail: ubonisoy72@excite.co.jp
+    zip: 408-0315
+    address: 山梨県北杜市白州町白須2-12-8
+    address_kata: ヤマナシケンホクトシハクシュウチョウシラス
+  - 'no': '111'
+    name: 岩瀬 周平
+    name_kata: イワセ シュウヘイ
+    gender: 男
+    bloodtype: O
+    birthday: 1974/08/23
+    tel: 076-394-5852
+    keitai: 090-1458-1096
+    mail: esawi1974@t-com.ne.jp
+    zip: 924-0023
+    address: 石川県白山市成町2257
+    address_kata: イシカワケンハクサンシナリマチ
+  - 'no': '112'
+    name: 古田 雄樹
+    name_kata: フルタ ユウキ
+    gender: 男
+    bloodtype: B
+    birthday: 1983/06/01
+    tel: 0296-22-3051
+    keitai: 080-9491-0121
+    mail: huruta0601@sunfield.ne.jp
+    zip: 304-0014
+    address: 茨城県下妻市中郷5986
+    address_kata: イバラキケンシモツマシナカゴウ
+  - 'no': '113'
+    name: 山村 重三郎
+    name_kata: ヤマムラ シゲザブロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/11/24
+    tel: 098-064-9515
+    keitai: 070-3797-5953
+    mail: ''
+    zip: 904-0022
+    address: 沖縄県沖縄市園田2-2-3
+    address_kata: オキナワケンオキナワシソノダ
+  - 'no': '114'
+    name: 馬場 顕子
+    name_kata: ババ アキコ
+    gender: 女
+    bloodtype: A
+    birthday: 1981/08/26
+    tel: 0197-63-1698
+    keitai: 090-2698-6167
+    mail: bb81@iij.ad.jp
+    zip: 029-4406
+    address: 岩手県奥州市衣川区大坂6-7-5
+    address_kata: イワテケンオウシュウシコロモガワクオオザカ
+  - 'no': '115'
+    name: 緒方 志奈
+    name_kata: オガタ シナ
+    gender: 女
+    bloodtype: O
+    birthday: 1990/01/02
+    tel: 076-351-4728
+    keitai: 090-0003-1916
+    mail: sina90@combzmail.jp
+    zip: 930-0108
+    address: 富山県富山市本郷5-3-7
+    address_kata: トヤマケントヤマシホンゴウ
+  - 'no': '116'
+    name: 嶋田 一樹
+    name_kata: シマダ ヒトキ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/08/09
+    tel: 082-599-8436
+    keitai: 090-4155-6189
+    mail: simadageocities@geocities.com
+    zip: 735-0008
+    address: 広島県安芸郡府中町鶴江8-2-9
+    address_kata: ヒロシマケンアキグンフチュウチョウツルエ
+  - 'no': '117'
+    name: 山根 義子
+    name_kata: ヤマネ ヨシコ
+    gender: 女
+    bloodtype: A
+    birthday: 1972/02/20
+    tel: 058-856-2537
+    keitai: 070-5323-5472
+    mail: ksy1972@tiki.ne.jp
+    zip: 500-8276
+    address: 岐阜県岐阜市加納南陽町9-1-7
+    address_kata: ギフケンギフシカノウナンヨウチョウ
+  - 'no': '118'
+    name: 金城 伸江
+    name_kata: キンジョウ ノブエ
+    gender: 女
+    bloodtype: AB
+    birthday: 1993/10/06
+    tel: 04-4371-1983
+    keitai: 090-4656-1876
+    mail: nbe_knju@dti.ne.jp
+    zip: 299-2864
+    address: 千葉県鴨川市天面1-11-7
+    address_kata: チバケンカモガワシアマツラ
+  - 'no': '119'
+    name: 中谷 冬樹
+    name_kata: ナカタニ フユキ
+    gender: 男
+    bloodtype: B
+    birthday: 1980/05/20
+    tel: 042-983-0510
+    keitai: 090-2841-5439
+    mail: hyk1900022@so-net.ne.jp
+    zip: 190-0022
+    address: 東京都立川市錦町3-8-5
+    address_kata: トウキョウトタチカワシニシキチョウ
+  - 'no': '120'
+    name: 松下 雅栄
+    name_kata: マツシタ マサエ
+    gender: 男
+    bloodtype: B
+    birthday: 1991/09/13
+    tel: 082-846-6666
+    keitai: 090-2526-4705
+    mail: easam0913@tiki.ne.jp
+    zip: 730-0022
+    address: 広島県広島市中区銀山町4-14-5 ウインベル・銀山町 14階
+    address_kata: ヒロシマケンヒロシマシナカクカナヤマチョウ
+  - 'no': '121'
+    name: 谷 友美
+    name_kata: タニ トモミ
+    gender: 女
+    bloodtype: A
+    birthday: 1982/02/18
+    tel: 0857-90-6198
+    keitai: 090-2172-5056
+    mail: tn6198@dti.ne.jp
+    zip: 681-0025
+    address: 鳥取県岩美郡岩美町宇治3-8-7 サンハイツ宇治 1205号室
+    address_kata: トットリケンイワミグンイワミチョウウジ
+  - 'no': '122'
+    name: 武井 義子
+    name_kata: タケイ ヨシコ
+    gender: 女
+    bloodtype: B
+    birthday: 1974/08/15
+    tel: 0178-20-6303
+    keitai: 090-1298-2844
+    mail: takei_yosiko@gmo-media.jp
+    zip: 039-2146
+    address: 青森県上北郡おいらせ町中谷地9-7-9
+    address_kata: アオモリケンカミキタグンオイラセチョウナカヤチ
+  - 'no': '123'
+    name: 黒木 督彦
+    name_kata: クロキ トクヒコ
+    gender: 男
+    bloodtype: B
+    birthday: 1987/04/25
+    tel: 0776-38-2388
+    keitai: 090-8240-3207
+    mail: ''
+    zip: 910-0051
+    address: 福井県福井市郡町3-10-8 ドミシール郡町 1413号室
+    address_kata: フクイケンフクイシコオリチョウ
+  - 'no': '124'
+    name: 伊藤 由治
+    name_kata: イトウ ヨシハル
+    gender: 男
+    bloodtype: B
+    birthday: 1991/07/19
+    tel: 0957-00-2533
+    keitai: 070-3947-2680
+    mail: yosiharu.itou@example.ac.jp
+    zip: 855-0003
+    address: 長崎県島原市三会町4-14-3
+    address_kata: ナガサキケンシマバラシミエマチ
+  - 'no': '125'
+    name: 山田 直紀
+    name_kata: ヤマダ ナオキ
+    gender: 男
+    bloodtype: B
+    birthday: 1971/10/23
+    tel: 0235-40-7471
+    keitai: 090-9374-5165
+    mail: dmy9970846@mesh.ne.jp
+    zip: 997-0846
+    address: 山形県鶴岡市中清水4-5-7
+    address_kata: ヤマガタケンツルオカシナカシミズ
+  - 'no': '126'
+    name: 星 元久
+    name_kata: ホシ モトヒサ
+    gender: 男
+    bloodtype: A
+    birthday: 1983/03/06
+    tel: 03-3966-2263
+    keitai: 090-1201-8597
+    mail: asihotom1983@users.gr.jp
+    zip: 169-0073
+    address: 東京都新宿区百人町2-5-9 エポカ百人町 608号室
+    address_kata: トウキョウトシンジュククヒャクニンチョウ
+  - 'no': '127'
+    name: 泉 厚哉
+    name_kata: イズミ アツヤ
+    gender: 男
+    bloodtype: O
+    birthday: 1989/04/17
+    tel: 0859-35-1417
+    keitai: 090-5985-6015
+    mail: atuya.izumi@example.jp
+    zip: 683-0204
+    address: 鳥取県西伯郡南部町福里1-1-3
+    address_kata: トットリケンサイハクグンナンブチョウフクサト
+  - 'no': '128'
+    name: 飯塚 顕太郎
+    name_kata: イイツカ ケンタロウ
+    gender: 男
+    bloodtype: AB
+    birthday: 1992/09/21
+    tel: 0594-39-6150
+    keitai: 090-5481-0005
+    mail: urtnkkntru@iij.ad.jp
+    zip: 511-0014
+    address: 三重県桑名市三崎通3-9-1
+    address_kata: ミエケンクワナシミサキドオリ
+  - 'no': '129'
+    name: 宮内 健児
+    name_kata: ミヤウチ ケンジ
+    gender: 男
+    bloodtype: O
+    birthday: 1981/11/18
+    tel: 052-394-6062
+    keitai: 090-7522-1767
+    mail: znk2002@users.gr.jp
+    zip: 453-0858
+    address: 愛知県名古屋市中村区野田町7769
+    address_kata: アイチケンナゴヤシナカムラクノダチョウ
+  - 'no': '130'
+    name: 中村 美己
+    name_kata: ナカムラ ヨシミ
+    gender: 男
+    bloodtype: O
+    birthday: 1983/12/19
+    tel: 0248-53-2453
+    keitai: 090-9323-6123
+    mail: ''
+    zip: 962-0805
+    address: 福島県須賀川市崩免7-14-1
+    address_kata: フクシマケンスカガワシクズレメン
+  - 'no': '131'
+    name: 菊地 顕子
+    name_kata: キクチ アキコ
+    gender: 女
+    bloodtype: O
+    birthday: 1982/09/02
+    tel: 042-965-1114
+    keitai: 090-1416-7341
+    mail: kikuti2003@sannet.ne.jp
+    zip: 202-0015
+    address: 東京都西東京市保谷町9-14-2
+    address_kata: トウキョウトニシトウキョウシホウヤチョウ
+  - 'no': '132'
+    name: 小池 惣之助
+    name_kata: コイケ ソウノスケ
+    gender: 男
+    bloodtype: A
+    birthday: 1989/05/19
+    tel: 0224-86-8691
+    keitai: ''
+    mail: koike.sounosuke@anet.ne.jp
+    zip: 989-1203
+    address: 宮城県柴田郡大河原町旭町5-12-6
+    address_kata: ミヤギケンシバタグンオオガワラマチアサヒチョウ
+  - 'no': '133'
+    name: 松山 直子
+    name_kata: マツヤマ ナオコ
+    gender: 女
+    bloodtype: A
+    birthday: 1970/05/16
+    tel: 0745-65-6877
+    keitai: 070-6505-2814
+    mail: okoan@infoseek.jp
+    zip: 639-2258
+    address: 奈良県御所市稲宿5-4-4 サンハイツ稲宿 14階
+    address_kata: ナラケンゴセシイナイド
+  - 'no': '134'
+    name: 野村 秀次郎
+    name_kata: ノムラ ヒデジロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1973/05/18
+    tel: 0868-01-4440
+    keitai: 070-0503-7503
+    mail: hidezirou.nomura@freeml.co.jp
+    zip: 707-0053
+    address: 岡山県美作市安蘇5940
+    address_kata: オカヤマケンミマサカシアソ
+  - 'no': '135'
+    name: 細川 波子
+    name_kata: ホソカワ ナミコ
+    gender: 女
+    bloodtype: A
+    birthday: 1979/03/15
+    tel: 0744-29-6646
+    keitai: 090-7243-9765
+    mail: hosokawa-namiko@excite.co.jp
+    zip: 634-0028
+    address: 奈良県橿原市法花寺町4-9-6 ニューコーポ法花寺町 411
+    address_kata: ナラケンカシハラシホッケイジチョウ
+  - 'no': '136'
+    name: 小野寺 元信
+    name_kata: オノデラ モトノブ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/09/30
+    tel: 025-371-8156
+    keitai: 090-1537-9920
+    mail: mtnb@t-com.ne.jp
+    zip: 950-2121
+    address: 新潟県新潟市槇尾2-2-6
+    address_kata: ニイガタケンニイガタシマキオ
+  - 'no': '137'
+    name: 浜野 堅次
+    name_kata: ハマノ ケンジ
+    gender: 男
+    bloodtype: B
+    birthday: 1984/12/18
+    tel: 03-3078-1314
+    keitai: 090-4813-9961
+    mail: ''
+    zip: 111-0035
+    address: 東京都台東区西浅草6069
+    address_kata: トウキョウトタイトウクニシアサクサ
+  - 'no': '138'
+    name: 柳田 準司
+    name_kata: ヤナギタ ジュンジ
+    gender: 男
+    bloodtype: B
+    birthday: 1993/07/06
+    tel: 03-3957-5246
+    keitai: 090-6597-1680
+    mail: atiganay0706@example.gr.jp
+    zip: 168-0061
+    address: '東京都杉並区大宮2-9-9 サンハイツ大宮 '
+    address_kata: トウキョウトスギナミクオオミヤ
+  - 'no': '139'
+    name: 岡野 雅栄
+    name_kata: オカノ マサエ
+    gender: 男
+    bloodtype: O
+    birthday: 1983/12/23
+    tel: 0893-26-9362
+    keitai: 070-2118-4230
+    mail: easam@infoseek.jp
+    zip: 795-0021
+    address: 愛媛県大洲市平野町野田1-13-5
+    address_kata: エヒメケンオオズシヒラノチョウノダ
+  - 'no': '140'
+    name: 西村 理恵子
+    name_kata: ニシムラ リエコ
+    gender: 女
+    bloodtype: O
+    birthday: 1989/11/19
+    tel: 0544-90-4313
+    keitai: ''
+    mail: riekonisimura@bbtec.net
+    zip: 418-0026
+    address: 静岡県富士宮市西小泉町6-1-5
+    address_kata: シズオカケンフジノミヤシニシコイズミチョウ
+  - 'no': '141'
+    name: 内藤 一生
+    name_kata: ナイトウ イッセイ
+    gender: 男
+    bloodtype: AB
+    birthday: 1970/04/14
+    tel: 0858-10-1867
+    keitai: 090-6004-3455
+    mail: issi07@excite.co.jp
+    zip: 682-0161
+    address: 鳥取県東伯郡三朝町柿谷7-8-5 サンコーポラス柿谷 202
+    address_kata: トットリケントウハクグンミササチョウカキダニ
+  - 'no': '142'
+    name: 大崎 勇四郎
+    name_kata: オオサキ ユウシロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1988/01/28
+    tel: 0134-12-2199
+    keitai: ''
+    mail: ikasoo88@infoseek.co.jp
+    zip: 047-0012
+    address: 北海道小樽市天狗山2917
+    address_kata: ホッカイドウオタルシテングヤマ
+  - 'no': '143'
+    name: 坂井 育雄
+    name_kata: サカイ イクオ
+    gender: 男
+    bloodtype: B
+    birthday: 1971/08/14
+    tel: 0796-76-1960
+    keitai: 090-6730-2117
+    mail: ''
+    zip: 669-5315
+    address: 兵庫県豊岡市日高町浅倉7-8-6
+    address_kata: ヒョウゴケントヨオカシヒダカチョウアサクラ
+  - 'no': '144'
+    name: 山田 是則
+    name_kata: ヤマダ ヨシノリ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/07/02
+    tel: 0198-11-9152
+    keitai: 080-2434-9694
+    mail: yamada72@nifty.jp
+    zip: 025-0014
+    address: 岩手県花巻市高松7-5-5 高松アパート 1107号室
+    address_kata: イワテケンハナマキシタカマツ
+  - 'no': '145'
+    name: 白川 永基
+    name_kata: シラカワ エイキ
+    gender: 男
+    bloodtype: A
+    birthday: 1981/04/05
+    tel: 0283-17-9466
+    keitai: 090-1583-4364
+    mail: ke198120060907@dti.ad.jp
+    zip: 327-0003
+    address: '栃木県佐野市大橋町3-2-4 大橋町ハウス '
+    address_kata: トチギケンサノシオオハシチョウ
+  - 'no': '146'
+    name: 長田 邦煕
+    name_kata: ナガタ クニヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1991/07/14
+    tel: 0566-49-4409
+    keitai: ''
+    mail: ngt9119871203@plala.or.jp
+    zip: 446-0021
+    address: 愛知県安城市法連町9-7-1
+    address_kata: アイチケンアンジョウシホウレンチョウ
+  - 'no': '147'
+    name: 大原 清重
+    name_kata: オオハラ キヨシゲ
+    gender: 男
+    bloodtype: B
+    birthday: 1993/03/08
+    tel: 076-141-6289
+    keitai: 090-9054-9599
+    mail: kiyosige-oohara@dion.ne.jp
+    zip: 930-0026
+    address: 富山県富山市八人町8-10-8
+    address_kata: トヤマケントヤマシハチニンマチ
+  - 'no': '148'
+    name: 野崎 智勝
+    name_kata: ノザキ トモカツ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/10/07
+    tel: 073-773-9805
+    keitai: ''
+    mail: tmkt640@geocities.com
+    zip: 640-1244
+    address: 和歌山県海草郡紀美野町福田7-14-2
+    address_kata: ワカヤマケンカイソウグンキミノチョウフクダ
+  - 'no': '149'
+    name: 川島 真紀子
+    name_kata: カワシマ マキコ
+    gender: 女
+    bloodtype: A
+    birthday: 1975/03/23
+    tel: 0766-12-6235
+    keitai: 070-2971-2314
+    mail: kwsm9390245@so-net.ne.jp
+    zip: 939-0245
+    address: 富山県射水市棚田5-11-6 フォルム棚田 710号室
+    address_kata: トヤマケンイミズシタナダ
+  - 'no': '150'
+    name: 平山 是則
+    name_kata: ヒラヤマ ヨシノリ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/04/18
+    tel: 096-631-5668
+    keitai: 090-0862-9186
+    mail: ''
+    zip: 862-0933
+    address: 熊本県熊本市小峯4-13-1 Kコーポ小峯 802
+    address_kata: クマモトケンクマモトシオミネ
+  - 'no': '151'
+    name: 宇野 とく子
+    name_kata: ウノ トクコ
+    gender: 女
+    bloodtype: A
+    birthday: 1990/02/08
+    tel: 058-082-3951
+    keitai: 070-5005-4767
+    mail: tokuko501@mesh.ne.jp
+    zip: 501-1163
+    address: 岐阜県岐阜市西改田米野2462
+    address_kata: ギフケンギフシニシカイデンコメノ
+  - 'no': '152'
+    name: 中村 英博
+    name_kata: ナカムラ ヒデヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1991/12/19
+    tel: 03-3444-7493
+    keitai: 080-2006-7031
+    mail: hdhr7493@livedoor.com
+    zip: 158-0086
+    address: '東京都世田谷区尾山台9-7-1 アーバンティ尾山台 '
+    address_kata: トウキョウトセタガヤクオヤマダイ
+  - 'no': '153'
+    name: 飯塚 愛
+    name_kata: イイツカ アイ
+    gender: 女
+    bloodtype: A
+    birthday: 1991/02/09
+    tel: 075-845-2852
+    keitai: 070-2017-4682
+    mail: a_itk@excite.co.jp
+    zip: 603-8407
+    address: 京都府京都市北区大宮北林町8022
+    address_kata: キョウトフキョウトシキタクオオミヤキタバヤシチョウ
+  - 'no': '154'
+    name: 小川 重三郎
+    name_kata: オガワ シゲザブロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1971/04/05
+    tel: 03-3860-1777
+    keitai: 090-5395-8992
+    mail: sigezaburouogawa@cuib.or.jp
+    zip: 124-0025
+    address: 東京都葛飾区西新小岩7-8-8
+    address_kata: トウキョウトカツシカクニシシンコイワ
+  - 'no': '155'
+    name: 武藤 伸次郎
+    name_kata: ムトウ シンジロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1980/12/19
+    tel: 03-3008-2078
+    keitai: 070-6574-3597
+    mail: urzns1980@mail.goo.ne.jp
+    zip: 124-0014
+    address: 東京都葛飾区東四つ木6-11-3
+    address_kata: トウキョウトカツシカクヒガシヨツギ
+  - 'no': '156'
+    name: 杉本 真知子
+    name_kata: スギモト マチコ
+    gender: 女
+    bloodtype: A
+    birthday: 1977/02/11
+    tel: 06-6684-8179
+    keitai: 070-0206-5490
+    mail: okitam5640042@ybb.ne.jp
+    zip: 564-0042
+    address: 大阪府吹田市穂波町5-12-1
+    address_kata: オオサカフスイタシホナミチョウ
+  - 'no': '157'
+    name: 溝口 友子
+    name_kata: ミゾクチ トモコ
+    gender: 女
+    bloodtype: B
+    birthday: 1974/01/12
+    tel: 072-942-3493
+    keitai: 090-7359-0127
+    mail: tmk57219871105@excite.com
+    zip: 572-0862
+    address: 大阪府寝屋川市打上宮前町2-9-2 シャルム打上宮前町 1514号室
+    address_kata: オオサカフネヤガワシウチアゲミヤマエチョウ
+  - 'no': '158'
+    name: 谷本 慶太郎
+    name_kata: タニモト ケイタロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/12/28
+    tel: 042-161-6050
+    keitai: 090-6699-3593
+    mail: otominat191@hi-ho.ne.jp
+    zip: 191-0063
+    address: '東京都日野市さくら町8-6-9 さくら町寮 '
+    address_kata: トウキョウトヒノシサクラマチ
+  - 'no': '159'
+    name: 坂本 徳彦
+    name_kata: サカモト ノリヒコ
+    gender: 男
+    bloodtype: O
+    birthday: 1983/06/19
+    tel: 052-294-2397
+    keitai: 090-4778-1280
+    mail: otomakas913511@ath.cx
+    zip: 457-0044
+    address: 愛知県名古屋市南区柵下町9-13-5 セトル柵下町 11階
+    address_kata: アイチケンナゴヤシミナミクサクシタチョウ
+  - 'no': '160'
+    name: 北川 準郎
+    name_kata: キタカワ ジュンロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1984/06/11
+    tel: 072-449-7423
+    keitai: 090-9214-3048
+    mail: wktk1984@odn.ne.jp
+    zip: 597-0091
+    address: 大阪府貝塚市二色4656
+    address_kata: オオサカフカイヅカシニシキ
+  - 'no': '161'
+    name: 西 敬正
+    name_kata: ニシ ヨシマサ
+    gender: 男
+    bloodtype: O
+    birthday: 1976/09/29
+    tel: 0798-80-0984
+    keitai: 090-8975-0605
+    mail: nisiyosimasa@hi-ho.ne.jp
+    zip: 663-8186
+    address: 兵庫県西宮市上鳴尾町5-8-3
+    address_kata: ヒョウゴケンニシノミヤシアゲナルオチョウ
+  - 'no': '162'
+    name: 日野 千絵子
+    name_kata: ヒノ チエコ
+    gender: 女
+    bloodtype: B
+    birthday: 1977/02/25
+    tel: 0583-99-3804
+    keitai: 090-3002-9172
+    mail: tieko1977@dti.ne.jp
+    zip: 504-0911
+    address: 岐阜県各務原市那加門前町8-1-4
+    address_kata: ギフケンカカミガハラシナカモンゼンチョウ
+  - 'no': '163'
+    name: 栗原 禎二
+    name_kata: クリハラ テイジ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/09/25
+    tel: 073-891-1056
+    keitai: 090-8806-1920
+    mail: tizkrhr@infoweb.ne.jp
+    zip: 640-8267
+    address: 和歌山県和歌山市芝ノ丁4560
+    address_kata: ワカヤマケンワカヤマシシバノチョウ
+  - 'no': '164'
+    name: 松原 雅宏
+    name_kata: マツバラ マサヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/05/27
+    tel: 075-930-3600
+    keitai: 090-4990-3633
+    mail: rhsm0527@gmail.com
+    zip: 614-8297
+    address: 京都府八幡市欽明台西2994
+    address_kata: キョウトフヤワタシキンメイダイニシ
+  - 'no': '165'
+    name: 三浦 幸郎
+    name_kata: ミウラ ユキロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1976/01/17
+    tel: 0191-63-9041
+    keitai: 090-2307-0948
+    mail: miura029@plala.or.jp
+    zip: 029-0131
+    address: 岩手県一関市狐禅寺2-1-1
+    address_kata: イワテケンイチノセキシコゼンジ
+  - 'no': '166'
+    name: 西川 有
+    name_kata: サイカワ タモツ
+    gender: 男
+    bloodtype: B
+    birthday: 1989/04/15
+    tel: 0956-48-9535
+    keitai: 070-5815-2634
+    mail: ''
+    zip: 859-6412
+    address: 長崎県佐世保市世知原町西ノ岳6-8-9
+    address_kata: ナガサキケンサセボシセチバルチョウニシノタケ
+  - 'no': '167'
+    name: 齋藤 好利
+    name_kata: サイトウ ヨシトシ
+    gender: 男
+    bloodtype: A
+    birthday: 1981/12/28
+    tel: 03-3492-1540
+    keitai: 090-6050-8181
+    mail: situ1010032@excite.co.jp
+    zip: 101-0032
+    address: 東京都千代田区岩本町8-15-9
+    address_kata: トウキョウトチヨダクイワモトチョウ
+  - 'no': '168'
+    name: 二宮 晴生
+    name_kata: ニノミヤ ハルオ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/06/22
+    tel: 0767-05-5336
+    keitai: 090-3365-0711
+    mail: haruo455@example.com
+    zip: 925-0044
+    address: 石川県羽咋市新保町4-5-5
+    address_kata: イシカワケンハクイシシンボマチ
+  - 'no': '169'
+    name: 岡部 竹義
+    name_kata: オカベ タケヨシ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/11/01
+    tel: 0959-42-9639
+    keitai: 090-5768-2092
+    mail: isoyekat1978@tokyo24.com
+    zip: 857-4212
+    address: 長崎県南松浦郡新上五島町小河原郷9512
+    address_kata: ナガサキケンミナミマツウラグンシンカミゴトウチョウオガワラゴウ
+  - 'no': '170'
+    name: 白井 祐次郎
+    name_kata: シライ ユウジロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1989/11/28
+    tel: 0123-44-1824
+    keitai: 090-4170-6886
+    mail: ''
+    zip: 068-0405
+    address: 北海道夕張市旭町1915
+    address_kata: ホッカイドウユウバリシアサヒマチ
+  - 'no': '171'
+    name: 田上 靖浩
+    name_kata: タガミ ヤスヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1976/12/04
+    tel: 03-3844-6287
+    keitai: 070-5586-8729
+    mail: ''
+    zip: 154-0017
+    address: 東京都世田谷区世田谷3-14-3 コスモ世田谷 809号室
+    address_kata: トウキョウトセタガヤクセタガヤ
+  - 'no': '172'
+    name: 戸田 貢太郎
+    name_kata: トダ コウタロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1970/04/04
+    tel: 0796-30-9673
+    keitai: 070-8596-9636
+    mail: koutarou05@excite.co.jp
+    zip: 669-6334
+    address: 兵庫県豊岡市竹野町河内2-8-8
+    address_kata: ヒョウゴケントヨオカシタケノチョウカワチ
+  - 'no': '173'
+    name: 関 梨恵子
+    name_kata: セキ リエコ
+    gender: 女
+    bloodtype: A
+    birthday: 1984/03/04
+    tel: 086-851-1008
+    keitai: 090-0615-0292
+    mail: ikes2004@gmail.com
+    zip: 709-0411
+    address: 岡山県和気郡和気町吉田1-5-6
+    address_kata: オカヤマケンワケグンワケチョウヨシダ
+  - 'no': '174'
+    name: 小谷 圭織
+    name_kata: コタニ カオリ
+    gender: 女
+    bloodtype: A
+    birthday: 1984/10/07
+    tel: 0997-30-8282
+    keitai: 090-0363-9174
+    mail: kotanikaori@sannet.ne.jp
+    zip: 891-9224
+    address: 鹿児島県大島郡知名町正名6-10-6
+    address_kata: カゴシマケンオオシマグンチナチョウマサナ
+  - 'no': '175'
+    name: 志村 哲昭
+    name_kata: シムラ テツアキ
+    gender: 男
+    bloodtype: B
+    birthday: 1981/08/10
+    tel: 0299-59-6434
+    keitai: ''
+    mail: simura-tetuaki@livedoor.com
+    zip: 300-0205
+    address: '茨城県かすみがうら市安食6-12-7 エチュード安食 '
+    address_kata: イバラキケンカスミガウラシアンジキ
+  - 'no': '176'
+    name: 河合 晴仁
+    name_kata: カワイ ハルヒト
+    gender: 男
+    bloodtype: O
+    birthday: 1972/08/28
+    tel: 093-344-6211
+    keitai: 070-2897-7752
+    mail: kawai6211@excite.co.jp
+    zip: 803-0836
+    address: 福岡県北九州市小倉北区中井5-13-7
+    address_kata: フクオカケンキタキュウシュウシコクラキタクナカイ
+  - 'no': '177'
+    name: 吉野 孝次
+    name_kata: ヨシノ コウジ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/05/23
+    tel: 08847-8-1754
+    keitai: 090-9744-7440
+    mail: kouziyosino@example.gr.jp
+    zip: 775-0304
+    address: 徳島県海部郡海陽町野江1-15-5
+    address_kata: トクシマケンカイフグンカイヨウチョウノエ
+  - 'no': '178'
+    name: 尾崎 成男
+    name_kata: オザキ シゲオ
+    gender: 男
+    bloodtype: A
+    birthday: 1986/08/11
+    tel: 042-051-1610
+    keitai: ''
+    mail: ozk@example.ad.jp
+    zip: 203-0012
+    address: 東京都東久留米市浅間町3-3-6
+    address_kata: トウキョウトヒガシクルメシセンゲンチョウ
+  - 'no': '179'
+    name: 福岡 多紀子
+    name_kata: フクオカ タキコ
+    gender: 女
+    bloodtype: O
+    birthday: 1987/09/02
+    tel: 03-3607-5021
+    keitai: 090-8064-8823
+    mail: okikat19731021@comeon.to
+    zip: 150-0042
+    address: 東京都渋谷区宇田川町8-12-9
+    address_kata: トウキョウトシブヤクウダガワチョウ
+  - 'no': '180'
+    name: 近藤 絵里
+    name_kata: コンドウ エリ
+    gender: 女
+    bloodtype: O
+    birthday: 1982/11/14
+    tel: 079-255-7784
+    keitai: 070-1389-6382
+    mail: udnk1114@tokyo24.com
+    zip: 675-0122
+    address: 兵庫県加古川市別府町別府1-8-5
+    address_kata: ヒョウゴケンカコガワシベフチョウベフ
+  - 'no': '181'
+    name: 藤村 義子
+    name_kata: フジムラ ヨシコ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/04/22
+    tel: 08873-1-7514
+    keitai: 090-7479-5150
+    mail: huzimurayosiko@so-net.ne.jp
+    zip: 784-0044
+    address: 高知県安芸市川北乙4952
+    address_kata: コウチケンアキシカワキタオツ
+  - 'no': '182'
+    name: 荻野 麻紀
+    name_kata: オギノ マキ
+    gender: 女
+    bloodtype: A
+    birthday: 1974/08/01
+    tel: 072-487-0526
+    keitai: 090-1807-8677
+    mail: ogino74@comeon.to
+    zip: 590-0024
+    address: 大阪府堺市堺区向陵中町5-4-9 ラ・カルム向陵中町 813
+    address_kata: オオサカフサカイシサカイクコウリョウナカマチ
+  - 'no': '183'
+    name: 大野 喜久郎
+    name_kata: オオノ キクオ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/03/31
+    tel: 072-381-7212
+    keitai: 090-8760-3665
+    mail: onoo566@ocn.ne.jp
+    zip: 566-0054
+    address: 大阪府摂津市鳥飼八防5-4-3 ドミール鳥飼八防 1F
+    address_kata: オオサカフセッツシトリカイハチボウ
+  - 'no': '184'
+    name: 南 偉生
+    name_kata: ミナミ ヒデオ
+    gender: 男
+    bloodtype: AB
+    birthday: 1990/09/11
+    tel: 0583-09-8286
+    keitai: 090-7056-4787
+    mail: mnm1990@combzmail.jp
+    zip: 504-0839
+    address: 岐阜県各務原市那加巾下町7-13-7
+    address_kata: ギフケンカカミガハラシナカハバシタチョウ
+  - 'no': '185'
+    name: 三木 亜依
+    name_kata: ミキ アイ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/06/04
+    tel: 023-516-6406
+    keitai: 070-3625-1275
+    mail: mikiai@gmail.com
+    zip: 999-3125
+    address: 山形県上山市金生東3662
+    address_kata: ヤマガタケンカミノヤマシカナオイヒガシ
+  - 'no': '186'
+    name: 谷川 英吾
+    name_kata: タニカワ エイゴ
+    gender: 男
+    bloodtype: A
+    birthday: 1989/12/25
+    tel: 03-3288-9656
+    keitai: 090-0125-6258
+    mail: ge1225@geocities.com
+    zip: 140-0014
+    address: 東京都品川区大井2-8-5 フリード大井 611号室
+    address_kata: トウキョウトシナガワクオオイ
+  - 'no': '187'
+    name: 池上 咲子
+    name_kata: イケガミ サクコ
+    gender: 女
+    bloodtype: B
+    birthday: 1974/04/15
+    tel: 042-127-8954
+    keitai: 090-5526-4578
+    mail: ikgm_skk@example.ad.jp
+    zip: 205-0011
+    address: 東京都羽村市五ノ神5-2-3
+    address_kata: トウキョウトハムラシゴノカミ
+  - 'no': '188'
+    name: 川端 一世
+    name_kata: カワバタ カズヨ
+    gender: 女
+    bloodtype: A
+    birthday: 1978/03/28
+    tel: 04996-6-8075
+    keitai: 090-8612-5223
+    mail: kzy_kwbt@excite.com
+    zip: 100-1511
+    address: 東京都八丈島八丈町三根9-14-1
+    address_kata: トウキョウトハチジョウジマハチジョウマチミツネ
+  - 'no': '189'
+    name: 今井 由治
+    name_kata: イマイ ヨシハル
+    gender: 男
+    bloodtype: O
+    birthday: 1985/06/17
+    tel: 0790-21-1674
+    keitai: 090-2036-2543
+    mail: imi679@sakura.ne.jp
+    zip: 679-5318
+    address: 兵庫県佐用郡佐用町東中山7986
+    address_kata: ヒョウゴケンサヨウグンサヨウチョウヒガシナカヤマ
+  - 'no': '190'
+    name: 塚田 芳弘
+    name_kata: ツカダ ヨシヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1990/08/27
+    tel: 075-368-6598
+    keitai: 070-6433-2204
+    mail: ''
+    zip: 602-8335
+    address: 京都府京都市上京区一観音町4-7-7
+    address_kata: キョウトフキョウトシカミギョウクイチカンノンチョウ
+  - 'no': '191'
+    name: 小川 倉美
+    name_kata: オガワ クラミ
+    gender: 女
+    bloodtype: B
+    birthday: 1991/10/22
+    tel: 059-271-9036
+    keitai: 070-0830-3465
+    mail: ''
+    zip: 512-1201
+    address: '三重県四日市市上海老町8-10-2 ウィークリーマンション上海老町 '
+    address_kata: ミエケンヨッカイチシカミエビチョウ
+  - 'no': '192'
+    name: 大槻 さゆみ
+    name_kata: オオツキ サユミ
+    gender: 女
+    bloodtype: O
+    birthday: 1976/09/09
+    tel: 0959-92-6141
+    keitai: 090-0374-1637
+    mail: otk_symdti@dti.ad.jp
+    zip: 857-4514
+    address: 長崎県南松浦郡新上五島町似首郷6-6-7-607
+    address_kata: ナガサキケンミナミマツウラグンシンカミゴトウチョウニタクビゴウ
+  - 'no': '193'
+    name: 牧野 文典
+    name_kata: マキノ フミノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/12/07
+    tel: 0241-50-3132
+    keitai: 090-8452-3890
+    mail: huminori_makino@hotmail.com
+    zip: 969-4167
+    address: 福島県喜多方市山都町大林7-7-5 ドミシール山都町大林 1204
+    address_kata: フクシマケンキタカタシヤマトマチオオバヤシ
+  - 'no': '194'
+    name: 金田 亜由美
+    name_kata: カネタ アユミ
+    gender: 女
+    bloodtype: A
+    birthday: 1986/03/06
+    tel: 0723-73-8337
+    keitai: 090-7135-4797
+    mail: imuya@tiki.ne.jp
+    zip: 580-0012
+    address: 大阪府松原市立部9-9-8
+    address_kata: オオサカフマツバラシタツベ
+  - 'no': '195'
+    name: 熊谷 堅次
+    name_kata: クマガイ ケンジ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/09/05
+    tel: 03-3040-5303
+    keitai: 090-5204-5641
+    mail: kumagai_kenzi@sannet.ne.jp
+    zip: 141-0022
+    address: 東京都品川区東五反田2-12-3
+    address_kata: トウキョウトシナガワクヒガシゴタンダ
+  - 'no': '196'
+    name: 坂本 洋子
+    name_kata: サカモト ヨウコ
+    gender: 女
+    bloodtype: B
+    birthday: 1980/03/21
+    tel: 0587-92-7022
+    keitai: 090-5994-6189
+    mail: okuoy1980@geocities.com
+    zip: 492-8175
+    address: 愛知県稲沢市北市場南町8-8-1
+    address_kata: アイチケンイナザワシキタイチバミナミマチ
+  - 'no': '197'
+    name: 神谷 つばさ
+    name_kata: シンタニ ツバサ
+    gender: 男
+    bloodtype: B
+    birthday: 1979/01/27
+    tel: 0956-68-2458
+    keitai: ''
+    mail: asabut1979@dti.ad.jp
+    zip: 859-3166
+    address: '長崎県佐世保市木原町6-7-5 マンション木原町第2 '
+    address_kata: ナガサキケンサセボシキハラチョウ
+  - 'no': '198'
+    name: 山岡 章一
+    name_kata: ヤマオカ ショウイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/03/17
+    tel: 072-247-2475
+    keitai: 090-6851-0525
+    mail: ''
+    zip: 573-0141
+    address: 大阪府枚方市大峰北町9-13-2
+    address_kata: オオサカフヒラカタシオオミネキタマチ
+  - 'no': '199'
+    name: 金子 直秋
+    name_kata: カネコ ナオアキ
+    gender: 男
+    bloodtype: B
+    birthday: 1979/09/14
+    tel: 0258-59-1050
+    keitai: 090-3522-9459
+    mail: ikaoan9401111@excite.com
+    zip: 940-1111
+    address: 新潟県長岡市町田町6-3-5
+    address_kata: ニイガタケンナガオカシマチダマチ
+  - 'no': '200'
+    name: 中本 茂信
+    name_kata: ナカモト シゲノブ
+    gender: 男
+    bloodtype: A
+    birthday: 1981/09/03
+    tel: 0545-77-8346
+    keitai: 090-9426-0642
+    mail: nakamoto_sigenobu@rakuten.co.jp
+    zip: 417-0056
+    address: 静岡県富士市日乃出町6-15-3
+    address_kata: シズオカケンフジシヒノデチョウ
+  - 'no': '201'
+    name: 戸田 兼一
+    name_kata: トダ カネカズ
+    gender: 男
+    bloodtype: O
+    birthday: 1976/09/30
+    tel: 0476-95-9753
+    keitai: ''
+    mail: todakanekazu@ocn.ne.jp
+    zip: 286-0211
+    address: 千葉県富里市御料2-9-6
+    address_kata: チバケントミサトシゴリョウ
+  - 'no': '202'
+    name: 米田 護
+    name_kata: マイタ マモル
+    gender: 男
+    bloodtype: B
+    birthday: 1994/05/25
+    tel: 01377-0-5903
+    keitai: 090-2902-2738
+    mail: mmr05255250rmm@t-com.ne.jp
+    zip: 049-3511
+    address: 北海道山越郡長万部町大浜9-8-8
+    address_kata: ホッカイドウヤマコシグンオシャマンベチョウオオハマ
+  - 'no': '203'
+    name: 小原 章一
+    name_kata: オハラ ショウイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/07/22
+    tel: 0565-76-8087
+    keitai: 070-1907-0779
+    mail: rho75@example.jp
+    zip: 471-0065
+    address: 愛知県豊田市平芝町2-10-3
+    address_kata: アイチケントヨタシヒラシバチョウ
+  - 'no': '204'
+    name: 中村 道貴
+    name_kata: ナカムラ ミチタカ
+    gender: 男
+    bloodtype: A
+    birthday: 1975/02/26
+    tel: 048-596-0406
+    keitai: 090-5206-8068
+    mail: mititakanakamura@sakura.ne.jp
+    zip: 337-0045
+    address: 埼玉県さいたま市見沼区新右エ門新田2-2-6 ウインベル・新右エ門新田 502号室
+    address_kata: サイタマケンサイタマシミヌマクシンウエモンシンデン
+  - 'no': '205'
+    name: 大野 雅宏
+    name_kata: オオノ マサヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1981/07/20
+    tel: 0575-89-0473
+    keitai: 070-3326-5097
+    mail: masahiro@dsn.ad.jp
+    zip: 501-2602
+    address: 岐阜県関市武芸川町小知野1757
+    address_kata: ギフケンセキシムゲガワチョウオジノ
+  - 'no': '206'
+    name: 宮原 秀春
+    name_kata: ミヤバラ ヒデハル
+    gender: 男
+    bloodtype: O
+    birthday: 1993/02/25
+    tel: 086-316-9785
+    keitai: 070-3985-0875
+    mail: miyabara93@mesh.ne.jp
+    zip: 709-1204
+    address: 岡山県岡山市灘崎町西高崎1-8-5
+    address_kata: オカヤマケンオカヤマシナダサキチョウニシタカサキ
+  - 'no': '207'
+    name: 角田 雅生
+    name_kata: スミタ マサオ
+    gender: 男
+    bloodtype: A
+    birthday: 1988/08/17
+    tel: 073-884-3974
+    keitai: 090-0197-4942
+    mail: sumitamasao@tiki.ne.jp
+    zip: 640-8248
+    address: 和歌山県和歌山市有田屋町5-5-1
+    address_kata: ワカヤマケンワカヤマシアリダヤマチ
+  - 'no': '208'
+    name: 宮下 麗奈
+    name_kata: ミヤシタ レイナ
+    gender: 女
+    bloodtype: A
+    birthday: 1989/06/18
+    tel: 075-501-0348
+    keitai: 090-2163-9996
+    mail: miyasita.reina@hi-ho.ne.jp
+    zip: 607-8222
+    address: 京都府京都市山科区勧修寺東堂田町3136
+    address_kata: キョウトフキョウトシヤマシナクカンシュウジヒガシドウデンチョウ
+  - 'no': '209'
+    name: 小島 優子
+    name_kata: コジマ ユウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1993/06/12
+    tel: 0836-22-7922
+    keitai: 090-1025-9923
+    mail: mzk93@excite.co.jp
+    zip: 756-0029
+    address: 山口県山陽小野田市船越6473
+    address_kata: ヤマグチケンサンヨウオノダシフナコシ
+  - 'no': '210'
+    name: 田代 允彦
+    name_kata: タシロ マサヒコ
+    gender: 男
+    bloodtype: O
+    birthday: 1977/03/14
+    tel: 076-075-2821
+    keitai: 090-6372-8697
+    mail: tasiro-masahiko@mesh.ne.jp
+    zip: 936-0072
+    address: 富山県滑川市緑町7778
+    address_kata: トヤマケンナメリカワシミドリマチ
+  - 'no': '211'
+    name: 福田 興亜
+    name_kata: フクタ キョウア
+    gender: 男
+    bloodtype: A
+    birthday: 1986/07/06
+    tel: 059-047-4314
+    keitai: 090-2260-8561
+    mail: tkh@aitai.ne.jp
+    zip: 510-0314
+    address: 三重県津市河芸町浜田1-12-4-9F
+    address_kata: ミエケンツシカワゲチョウハマダ
+  - 'no': '212'
+    name: 上原 拓夫
+    name_kata: ウエハラ タクオ
+    gender: 男
+    bloodtype: A
+    birthday: 1994/09/25
+    tel: 0996-79-4261
+    keitai: 090-8428-6814
+    mail: araheu0925@tiki.ne.jp
+    zip: 896-0013
+    address: 鹿児島県いちき串木野市栄町8-3-8 ペガサス栄町 1108
+    address_kata: カゴシマケンイチキクシキノシサカエマチ
+  - 'no': '213'
+    name: 山村 真琴
+    name_kata: ヤマムラ マコト
+    gender: 女
+    bloodtype: A
+    birthday: 1977/09/20
+    tel: 0197-25-2785
+    keitai: 090-4077-7798
+    mail: otokam77@bbtec.net
+    zip: 023-1103
+    address: 岩手県奥州市江刺区西大通り2046
+    address_kata: イワテケンオウシュウシエサシクニシオオドオリ
+  - 'no': '214'
+    name: 近藤 聡
+    name_kata: コンドウ アキラ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/09/30
+    tel: 0134-74-4248
+    keitai: 070-3756-3832
+    mail: kondou@sunfield.ne.jp
+    zip: 047-0034
+    address: 北海道小樽市緑4932
+    address_kata: ホッカイドウオタルシミドリ
+  - 'no': '215'
+    name: 河合 斎
+    name_kata: カワイ ヒトシ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/02/21
+    tel: 03-3972-0119
+    keitai: 090-0499-6942
+    mail: kawai.hitosi@combzmail.jp
+    zip: 173-0011
+    address: 東京都板橋区双葉町5-9-3
+    address_kata: トウキョウトイタバシクフタバチョウ
+  - 'no': '216'
+    name: 堀田 宏季
+    name_kata: ホツタ コウキ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/06/20
+    tel: 083-352-3572
+    keitai: ''
+    mail: hotuta.kouki@hi-ho.ne.jp
+    zip: 753-0214
+    address: 山口県山口市大内御堀9-1-8
+    address_kata: ヤマグチケンヤマグチシオオウチミホリ
+  - 'no': '217'
+    name: 黒木 貴浩
+    name_kata: クロキ タカヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1985/01/30
+    tel: 0986-58-6849
+    keitai: 090-9307-8002
+    mail: ''
+    zip: 885-1312
+    address: 宮崎県都城市高城町四家7-4-8
+    address_kata: ミヤザキケンミヤコノジョウシタカジョウチョウシカ
+  - 'no': '218'
+    name: 太田 伝三郎
+    name_kata: オオタ デンザブロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1970/12/16
+    tel: 0195-59-3661
+    keitai: 070-9595-7696
+    mail: oota-denzaburou@hotmail.co.jp
+    zip: 028-7112
+    address: 岩手県八幡平市田頭6-2-4 ヴェルテックス田頭 1207号室
+    address_kata: イワテケンハチマンタイシデンドウ
+  - 'no': '219'
+    name: 臼井 厚哉
+    name_kata: ウスイ アツヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/02/22
+    tel: 04-4049-5453
+    keitai: 070-9558-8149
+    mail: usui-atuya@example.jp
+    zip: 359-1131
+    address: '埼玉県所沢市久米5-8-4 久米寮 '
+    address_kata: サイタマケントコロザワシクメ
+  - 'no': '220'
+    name: 尾崎 光範
+    name_kata: オザキ ミツノリ
+    gender: 男
+    bloodtype: B
+    birthday: 1976/02/26
+    tel: 0776-22-0728
+    keitai: 090-8291-0409
+    mail: mitunori-ozaki@nifty.com
+    zip: 910-0039
+    address: 福井県福井市三ツ屋町4-1-2
+    address_kata: フクイケンフクイシミツヤチョウ
+  - 'no': '221'
+    name: 山本 元久
+    name_kata: ヤマモト モトヒサ
+    gender: 男
+    bloodtype: O
+    birthday: 1992/08/04
+    tel: 075-502-7717
+    keitai: 090-0899-6906
+    mail: yamamotomotohisa@infoseek.co.jp
+    zip: 618-0091
+    address: 京都府乙訓郡大山崎町円明寺3-6-5 パークハイツ円明寺 9階
+    address_kata: キョウトフオトクニグンオオヤマザキチョウエンミョウジ
+  - 'no': '222'
+    name: 大山 辰己
+    name_kata: オオヤマ タツミ
+    gender: 男
+    bloodtype: B
+    birthday: 1989/03/19
+    tel: 099-470-1479
+    keitai: 090-9558-2344
+    mail: ooyama.tatumi@ocn.ne.jp
+    zip: 892-0803
+    address: 鹿児島県鹿児島市祇園之洲町6-15-1
+    address_kata: カゴシマケンカゴシマシギオンノスチョウ
+  - 'no': '223'
+    name: 北野 隆哉
+    name_kata: キタノ タカヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/04/11
+    tel: 01558-1-5560
+    keitai: 070-8258-1100
+    mail: ykt1987@asp.home.ne.jp
+    zip: 089-2271
+    address: 北海道広尾郡大樹町光地園2-12-3
+    address_kata: ホッカイドウヒロオグンタイキチョウコウチエン
+  - 'no': '224'
+    name: 阿部 弘義
+    name_kata: アベ ヒロヨシ
+    gender: 男
+    bloodtype: A
+    birthday: 1974/04/30
+    tel: 0742-93-0081
+    keitai: ''
+    mail: hiroyosi-abe@dti.ad.jp
+    zip: 630-8373
+    address: 奈良県奈良市南市町1-15-8 カーム南市町 11階
+    address_kata: ナラケンナラシミナミイチチョウ
+  - 'no': '225'
+    name: 山下 允彦
+    name_kata: ヤマシタ マサヒコ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/01/22
+    tel: 0478-99-6784
+    keitai: 070-7591-9796
+    mail: okihasam72@example.ac.jp
+    zip: 289-0625
+    address: 千葉県香取郡東庄町夏目6-6-5
+    address_kata: チバケンカトリグントウノショウマチナツメ
+  - 'no': '226'
+    name: 古田 浩治
+    name_kata: フルタ コウジ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/11/01
+    tel: 0283-03-0447
+    keitai: 090-2645-9890
+    mail: kouzi1975@tokyo24.com
+    zip: 327-0323
+    address: 栃木県佐野市戸奈良町6-11-6
+    address_kata: トチギケンサノシトナラチョウ
+  - 'no': '227'
+    name: 宮本 市雄
+    name_kata: ミヤモト イチオ
+    gender: 男
+    bloodtype: AB
+    birthday: 1971/07/09
+    tel: 0857-83-6985
+    keitai: 090-8322-9530
+    mail: mymtito@tiki.ne.jp
+    zip: 689-1315
+    address: 鳥取県鳥取市佐治町畑1892
+    address_kata: トットリケントットリシサジチョウハタ
+  - 'no': '228'
+    name: 上村 倉美
+    name_kata: ウエムラ クラミ
+    gender: 女
+    bloodtype: B
+    birthday: 1994/03/24
+    tel: 0749-96-8596
+    keitai: 070-9939-1620
+    mail: imaruk1994@example.ne.jp
+    zip: 529-0123
+    address: 滋賀県東浅井郡虎姫町西大井6415
+    address_kata: シガケンヒガシアザイグントラヒメチョウニシオオイ
+  - 'no': '229'
+    name: 中田 良司
+    name_kata: ナカタ リョウジ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/07/02
+    tel: 015-543-9091
+    keitai: 090-5699-5642
+    mail: nakata.ryouzi@nifty.jp
+    zip: 089-5315
+    address: 北海道中川郡豊頃町茂岩5-5-8 エステート茂岩 2階
+    address_kata: ホッカイドウナカガワグントヨコロチョウモイワ
+  - 'no': '230'
+    name: 富田 和帰子
+    name_kata: トミタ ワキコ
+    gender: 女
+    bloodtype: A
+    birthday: 1984/06/25
+    tel: 0463-24-2575
+    keitai: 090-7077-9345
+    mail: wkk1984@mail.goo.ne.jp
+    zip: 259-1115
+    address: 神奈川県伊勢原市高森台6-6-3
+    address_kata: カナガワケンイセハラシタカモリダイ
+  - 'no': '231'
+    name: 千田 直武
+    name_kata: センダ ナオタケ
+    gender: 男
+    bloodtype: O
+    birthday: 1986/06/30
+    tel: 0742-89-4163
+    keitai: 080-9139-2662
+    mail: senda.naotake@fdt.ne.jp
+    zip: 630-8224
+    address: 奈良県奈良市角振町5-5-9 ボヌール角振町 406
+    address_kata: ナラケンナラシツノフリチョウ
+  - 'no': '232'
+    name: 武藤 優香
+    name_kata: ムトウ ユウカ
+    gender: 女
+    bloodtype: A
+    birthday: 1990/11/02
+    tel: 0773-04-8584
+    keitai: 090-8228-4854
+    mail: kuy90@example.co.jp
+    zip: 624-0101
+    address: 京都府舞鶴市大川7-2-6
+    address_kata: キョウトフマイヅルシオオカワ
+  - 'no': '233'
+    name: 池上 勇美
+    name_kata: イケガミ イサミ
+    gender: 女
+    bloodtype: A
+    birthday: 1979/11/26
+    tel: 0569-68-5070
+    keitai: 090-2259-6583
+    mail: isami8111@example.jp
+    zip: 470-2333
+    address: 愛知県知多郡武豊町高野前8-11-1
+    address_kata: アイチケンチタグンタケトヨチョウタカノマエ
+  - 'no': '234'
+    name: 岩瀬 佐千雄
+    name_kata: イワセ サチオ
+    gender: 男
+    bloodtype: O
+    birthday: 1994/10/29
+    tel: 025-174-1643
+    keitai: ''
+    mail: iwase_satio@asp.home.ne.jp
+    zip: 950-0133
+    address: 新潟県新潟市砂崩4-1-5 ロイヤルハイツ砂崩 12F
+    address_kata: ニイガタケンニイガタシスナクズレ
+  - 'no': '235'
+    name: 松野 洋和
+    name_kata: マツノ ヒロカズ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/05/24
+    tel: 042-961-7842
+    keitai: 090-7911-8036
+    mail: matuno-hirokazu@freeml.co.jp
+    zip: 207-0001
+    address: 東京都東大和市多摩湖9116
+    address_kata: トウキョウトヒガシヤマトシタマコ
+  - 'no': '236'
+    name: 平松 美波留
+    name_kata: ヒラマツ ミハル
+    gender: 女
+    bloodtype: O
+    birthday: 1970/05/19
+    tel: 0185-47-2196
+    keitai: 070-0724-7873
+    mail: hiramatu_miharu@infoseek.jp
+    zip: 016-0875
+    address: 秋田県能代市南陽崎2-3-9
+    address_kata: アキタケンノシロシナンヨウザキ
+  - 'no': '237'
+    name: 北野 秀志
+    name_kata: キタノ ヒデシ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/04/20
+    tel: 093-848-1797
+    keitai: 090-7802-0375
+    mail: onatik2007@example.org
+    zip: 804-0031
+    address: '福岡県北九州市戸畑区東大谷5-9-2 ミレニアム東大谷 '
+    address_kata: フクオカケンキタキュウシュウシトバタクヒガシオオタニ
+  - 'no': '238'
+    name: 豊田 千琴
+    name_kata: トヨタ チコト
+    gender: 女
+    bloodtype: A
+    birthday: 1990/12/05
+    tel: 0770-20-4902
+    keitai: 090-4165-1283
+    mail: tyt9140823@example.ad.jp
+    zip: 914-0823
+    address: 福井県敦賀市沓見5-1-9
+    address_kata: フクイケンツルガシクツミ
+  - 'no': '239'
+    name: 竹村 伸江
+    name_kata: タケムラ ノブエ
+    gender: 女
+    bloodtype: A
+    birthday: 1979/08/14
+    tel: 023-474-0198
+    keitai: 090-0154-6781
+    mail: ''
+    zip: 990-0871
+    address: 山形県山形市銅谷口2-13-9 パナハイツ銅谷口 3F
+    address_kata: ヤマガタケンヤマガタシドウヤグチ
+  - 'no': '240'
+    name: 野口 芙美
+    name_kata: ノグチ フミ
+    gender: 女
+    bloodtype: B
+    birthday: 1985/09/04
+    tel: 089-740-6977
+    keitai: 070-1512-2292
+    mail: noguti1985@combzmail.jp
+    zip: 790-0012
+    address: 愛媛県松山市湊町8-4-4 湊町アパート2号 1206
+    address_kata: エヒメケンマツヤマシミナトマチ
+  - 'no': '241'
+    name: 片岡 英則
+    name_kata: カタオカ ヒデノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1994/05/20
+    tel: 0723-85-8449
+    keitai: 070-9805-7297
+    mail: hdnr-ktok@combzmail.jp
+    zip: 580-0012
+    address: '大阪府松原市立部8-5-3 サンコーポラス立部 '
+    address_kata: オオサカフマツバラシタツベ
+  - 'no': '242'
+    name: 井上 完一
+    name_kata: イノウエ カンイチ
+    gender: 男
+    bloodtype: A
+    birthday: 1971/03/26
+    tel: 03-3083-6916
+    keitai: 090-3083-9518
+    mail: kanitiinoue@excite.co.jp
+    zip: 103-0003
+    address: 東京都中央区日本橋横山町6-6-1 日本橋横山町アパート 805号室
+    address_kata: トウキョウトチュウオウクニホンバシヨコヤマチョウ
+  - 'no': '243'
+    name: 平松 憲志
+    name_kata: ヒラマツ ノリユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/09/17
+    tel: 03-3080-7742
+    keitai: 090-6992-2293
+    mail: noriyukihiramatu@iij.ad.jp
+    zip: 201-0016
+    address: '東京都狛江市駒井町3-3-9 フォルム駒井町 '
+    address_kata: トウキョウトコマエシコマイマチ
+  - 'no': '244'
+    name: 前田 好近
+    name_kata: マエタ ヨシチカ
+    gender: 男
+    bloodtype: AB
+    birthday: 1970/03/12
+    tel: 0597-85-1926
+    keitai: 090-3837-6705
+    mail: akitisoy@asp.home.ne.jp
+    zip: 519-3613
+    address: 三重県尾鷲市瀬木山町5-13-5
+    address_kata: ミエケンオワセシセギヤマチョウ
+  - 'no': '245'
+    name: 大谷 完一
+    name_kata: オオタニ カンイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1974/04/01
+    tel: 029-916-0857
+    keitai: 090-6959-6448
+    mail: kaniti@t-com.ne.jp
+    zip: 305-0004
+    address: 茨城県つくば市柴崎2-15-9
+    address_kata: イバラキケンツクバシシバサキ
+  - 'no': '246'
+    name: 長島 森勝
+    name_kata: ナガシマ モリカツ
+    gender: 男
+    bloodtype: B
+    birthday: 1971/08/08
+    tel: 0596-86-9055
+    keitai: 070-8897-5878
+    mail: morikatu-nagasima@plala.or.jp
+    zip: 516-0025
+    address: 三重県伊勢市宇治中之切町9696
+    address_kata: ミエケンイセシウジナカノキリチョウ
+  - 'no': '247'
+    name: 村上 心一
+    name_kata: ムラカミ シンイチ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/12/29
+    tel: 048-955-5605
+    keitai: 090-8949-7249
+    mail: murakami_siniti@goo.ne.jp
+    zip: 369-1107
+    address: '埼玉県深谷市畠山6-7-8 エステート畠山 '
+    address_kata: サイタマケンフカヤシハタケヤマ
+  - 'no': '248'
+    name: 水野 政治
+    name_kata: ミズノ マサハル
+    gender: 男
+    bloodtype: B
+    birthday: 1972/09/27
+    tel: 042-011-3677
+    keitai: 090-4050-1597
+    mail: mshr-mzn@infoseek.co.jp
+    zip: 203-0054
+    address: 東京都東久留米市中央町8315
+    address_kata: トウキョウトヒガシクルメシチュウオウチョウ
+  - 'no': '249'
+    name: 堀 繁造
+    name_kata: ホリ シゲゾウ
+    gender: 男
+    bloodtype: B
+    birthday: 1979/03/29
+    tel: 025-599-1745
+    keitai: 070-8232-6611
+    mail: hori1609@example.ac.jp
+    zip: 951-8011
+    address: 新潟県新潟市入船町1609
+    address_kata: ニイガタケンニイガタシイリフネチョウ
+  - 'no': '250'
+    name: 森 裕子
+    name_kata: モリ ユウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1972/09/27
+    tel: 050-7692-4362
+    keitai: 090-9654-2698
+    mail: irom4362@example.com
+    zip: 577-0007
+    address: 大阪府東大阪市稲田本町7-10-5
+    address_kata: オオサカフヒガシオオサカシイナダホンマチ
+  - 'no': '251'
+    name: 本多 戴三
+    name_kata: ホンダ タイゾウ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/09/29
+    tel: 042-983-8904
+    keitai: 090-0519-3210
+    mail: honda.taizou@combzmail.jp
+    zip: 194-0004
+    address: 東京都町田市鶴間7870
+    address_kata: トウキョウトマチダシツルマ
+  - 'no': '252'
+    name: 小原 松次郎
+    name_kata: コハラ マツジロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/06/13
+    tel: 03-3941-7916
+    keitai: 090-4897-7956
+    mail: rhk1972@mxi.asp.home.ne.jp
+    zip: 135-0065
+    address: 東京都江東区中央防波堤5-3-1
+    address_kata: トウキョウトコウトウクチュウオウボウハテイ
+  - 'no': '253'
+    name: 小泉 勝信
+    name_kata: コイズミ カツノブ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/12/15
+    tel: 06-6164-1376
+    keitai: 090-5705-9915
+    mail: koizumi1215@yahoo.co.jp
+    zip: 560-0045
+    address: 大阪府豊中市刀根山2-13-6
+    address_kata: オオサカフトヨナカシトネヤマ
+  - 'no': '254'
+    name: 堀内 兵吉
+    name_kata: ホリウチ ヒョウキチ
+    gender: 男
+    bloodtype: B
+    birthday: 1976/03/20
+    tel: 06-6983-2300
+    keitai: 090-2901-1728
+    mail: hyoukiti1460@gmo-media.jp
+    zip: 560-0055
+    address: 大阪府豊中市柴原町1460
+    address_kata: オオサカフトヨナカシシバハラチョウ
+  - 'no': '255'
+    name: 河合 理香
+    name_kata: カワイ リカ
+    gender: 女
+    bloodtype: A
+    birthday: 1971/04/22
+    tel: 0164-23-1985
+    keitai: 070-6255-0743
+    mail: kwi7120020705@anet.ne.jp
+    zip: 078-2501
+    address: 北海道雨竜郡北竜町美葉牛3-4-4
+    address_kata: ホッカイドウウリュウグンホクリュウチョウビバウシ
+  - 'no': '256'
+    name: 溝口 育雄
+    name_kata: ミゾクチ イクオ
+    gender: 男
+    bloodtype: A
+    birthday: 1983/06/06
+    tel: 03-3621-6508
+    keitai: 090-2079-2291
+    mail: ikuo.mizokuti@example.ne.jp
+    zip: 154-0004
+    address: 東京都世田谷区太子堂5-3-9
+    address_kata: トウキョウトセタガヤクタイシドウ
+  - 'no': '257'
+    name: 北島 安則
+    name_kata: キタジマ ヤスノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/09/07
+    tel: 03-3170-5483
+    keitai: 090-3773-9168
+    mail: ysnr0907@mesh.ne.jp
+    zip: 135-0023
+    address: 東京都江東区平野2-6-1 レイクヒル平野 506号室
+    address_kata: トウキョウトコウトウクヒラノ
+  - 'no': '258'
+    name: 新田 亮子
+    name_kata: アラタ リョウコ
+    gender: 女
+    bloodtype: O
+    birthday: 1985/05/19
+    tel: 0794-66-6166
+    keitai: 090-2324-7783
+    mail: arata_ryouko@example.ne.jp
+    zip: 673-0445
+    address: 兵庫県三木市別所町西這田1-12-3 別所町西這田寮 14F
+    address_kata: ヒョウゴケンミキシベッショチョウニシホウダ
+  - 'no': '259'
+    name: 小坂 惣之助
+    name_kata: コサカ ソウノスケ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/11/11
+    tel: 0296-96-7964
+    keitai: ''
+    mail: ''
+    zip: 307-0005
+    address: '茨城県結城市川木谷5-4-2 ビブレ川木谷 '
+    address_kata: イバラキケンユウキシカワキヤ
+  - 'no': '260'
+    name: 山田 晴生
+    name_kata: ヤマダ ハルオ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/07/17
+    tel: 03-3103-5413
+    keitai: 090-0963-4497
+    mail: ''
+    zip: 143-0024
+    address: 東京都大田区中央3-10-2
+    address_kata: トウキョウトオオタクチュウオウ
+  - 'no': '261'
+    name: 佐々木 麗奈
+    name_kata: ササキ レナ
+    gender: 女
+    bloodtype: A
+    birthday: 1981/11/18
+    tel: 093-549-8017
+    keitai: ''
+    mail: ikasas@infoseek.co.jp
+    zip: 800-0314
+    address: 福岡県京都郡苅田町幸町8-8-9
+    address_kata: フクオカケンミヤコグンカンダマチサイワイマチ
+  - 'no': '262'
+    name: 鈴木 彩
+    name_kata: スズキ アヤ
+    gender: 女
+    bloodtype: A
+    birthday: 1984/10/27
+    tel: 0866-20-0578
+    keitai: 090-4647-1527
+    mail: aya_suzuki@dsn.ad.jp
+    zip: 716-0207
+    address: 岡山県高梁市川上町仁賀9-2-4
+    address_kata: オカヤマケンタカハシシカワカミチョウニカ
+  - 'no': '263'
+    name: 原 輝志郎
+    name_kata: ハラ キシロウ
+    gender: 男
+    bloodtype: B
+    birthday: 1990/09/26
+    tel: 0220-98-9783
+    keitai: 090-5074-1064
+    mail: uorisik9870445@nifty.jp
+    zip: 987-0445
+    address: 宮城県登米市南方町銭金壇9-2-7
+    address_kata: ミヤギケントメシミナミカタマチゼニガネダン
+  - 'no': '264'
+    name: 飯田 義隆
+    name_kata: イイダ ヨシタカ
+    gender: 男
+    bloodtype: AB
+    birthday: 1988/06/19
+    tel: 03-3594-3281
+    keitai: 090-6001-6206
+    mail: adii116hotmail@hotmail.co.jp
+    zip: 116-0014
+    address: 東京都荒川区東日暮里5-9-8
+    address_kata: トウキョウトアラカワクヒガシニッポリ
+  - 'no': '265'
+    name: 神田 雅美
+    name_kata: コウダ マサミ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/02/18
+    tel: 0123-09-9098
+    keitai: 090-7806-2732
+    mail: aduok94tokyo24@tokyo24.com
+    zip: 068-0405
+    address: 北海道夕張市旭町6-3-7
+    address_kata: ホッカイドウユウバリシアサヒマチ
+  - 'no': '266'
+    name: 金沢 一生
+    name_kata: カナザワ イッセイ
+    gender: 男
+    bloodtype: A
+    birthday: 1983/04/05
+    tel: 0798-50-8623
+    keitai: 090-4187-7078
+    mail: awazanak6638022@yahoo.co.jp
+    zip: 663-8022
+    address: 兵庫県西宮市日野町5-14-1
+    address_kata: ヒョウゴケンニシノミヤシヒノチョウ
+  - 'no': '267'
+    name: 米田 貞郎
+    name_kata: マイタ サダオ
+    gender: 男
+    bloodtype: O
+    birthday: 1983/07/31
+    tel: 0241-67-9615
+    keitai: 090-4895-7496
+    mail: sadao4356@aitai.ne.jp
+    zip: 969-4167
+    address: 福島県喜多方市山都町大林4356
+    address_kata: フクシマケンキタカタシヤマトマチオオバヤシ
+  - 'no': '268'
+    name: 森本 啓矩
+    name_kata: モリモト ヒロノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1975/01/26
+    tel: 0594-83-0101
+    keitai: 090-4922-7455
+    mail: morimoto0101@yahoo.co.jp
+    zip: 511-1104
+    address: 三重県桑名市長島町高座1-8-2
+    address_kata: ミエケンクワナシナガシマチョウコウザ
+  - 'no': '269'
+    name: 河原 昭良
+    name_kata: カワハラ アキヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1975/12/13
+    tel: 075-493-2699
+    keitai: 070-5580-9541
+    mail: arahawak2699@infoseek.jp
+    zip: 612-8369
+    address: 京都府京都市伏見区村上町7-11-4
+    address_kata: キョウトフキョウトシフシミクムラカミチョウ
+  - 'no': '270'
+    name: 宮崎 光次
+    name_kata: ミヤザキ ミツジ
+    gender: 男
+    bloodtype: O
+    birthday: 1990/07/09
+    tel: 0773-95-3313
+    keitai: 090-1039-5556
+    mail: mtz.myzk@livedoor.com
+    zip: 623-0035
+    address: 京都府綾部市上野町3-5-1
+    address_kata: キョウトフアヤベシウエノチョウ
+  - 'no': '271'
+    name: 岸 新太郎
+    name_kata: キシ シンタロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1978/06/30
+    tel: 0243-91-1381
+    keitai: 090-8035-4994
+    mail: urtns0630@iij.ad.jp
+    zip: 964-0818
+    address: 福島県二本松市不動2-6-4
+    address_kata: フクシマケンニホンマツシフドウ
+  - 'no': '272'
+    name: 新田 清一
+    name_kata: ニイタ キヨカズ
+    gender: 男
+    bloodtype: A
+    birthday: 1991/12/06
+    tel: 025-842-8865
+    keitai: 070-2633-0929
+    mail: nit1991@ath.cx
+    zip: 949-6431
+    address: 新潟県南魚沼市樺野沢9-3-3
+    address_kata: ニイガタケンミナミウオヌマシカバノサワ
+  - 'no': '273'
+    name: 三宅 譲介
+    name_kata: ミヤケ ジョウスケ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/04/12
+    tel: 0763-58-9715
+    keitai: 090-6370-4682
+    mail: miyake0412@hotmail.co.jp
+    zip: 939-1541
+    address: 富山県南砺市晩田6-7-8
+    address_kata: トヤマケンナントシバンデ
+  - 'no': '274'
+    name: 田原 虎之助
+    name_kata: タハラ トラノスケ
+    gender: 男
+    bloodtype: B
+    birthday: 1974/03/13
+    tel: 0244-78-4378
+    keitai: 090-3453-8761
+    mail: ''
+    zip: 979-2532
+    address: 福島県相馬市富沢2137
+    address_kata: フクシマケンソウマシトミザワ
+  - 'no': '275'
+    name: 松田 靖浩
+    name_kata: マツダ ヤスヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1982/07/12
+    tel: 086-280-9329
+    keitai: ''
+    mail: yshr.mtd@nifty.jp
+    zip: 711-0921
+    address: 岡山県倉敷市児島駅前7-7-4
+    address_kata: オカヤマケンクラシキシコジマエキマエ
+  - 'no': '276'
+    name: 松田 たか子
+    name_kata: マツダ タカコ
+    gender: 女
+    bloodtype: O
+    birthday: 1973/06/13
+    tel: 04-4804-8646
+    keitai: 090-7534-7759
+    mail: matuda73@example.jp
+    zip: 299-2864
+    address: 千葉県鴨川市天面5-7-4
+    address_kata: チバケンカモガワシアマツラ
+  - 'no': '277'
+    name: 手塚 亮子
+    name_kata: テヅカ リョウコ
+    gender: 女
+    bloodtype: B
+    birthday: 1986/12/07
+    tel: 0241-53-4527
+    keitai: 090-6999-9212
+    mail: ryouko.teduka@mail.goo.ne.jp
+    zip: 969-3525
+    address: 福島県喜多方市塩川町蛭田7606
+    address_kata: フクシマケンキタカタシシオカワマチヒルダ
+  - 'no': '278'
+    name: 岡部 成男
+    name_kata: オカベ シゲオ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/05/31
+    tel: 09496-1-9499
+    keitai: 090-2161-8985
+    mail: okabe0531@nifty.com
+    zip: 820-1104
+    address: 福岡県鞍手郡小竹町新多9-9-4 プランドール新多 4F
+    address_kata: フクオカケンクラテグンコタケマチニイダ
+  - 'no': '279'
+    name: 松野 美次
+    name_kata: マツノ ヨシツグ
+    gender: 男
+    bloodtype: B
+    birthday: 1971/11/17
+    tel: 0968-81-6592
+    keitai: 090-7792-7434
+    mail: matuno.yositugu@users.gr.jp
+    zip: 861-0424
+    address: '熊本県山鹿市菊鹿町松尾3-1-5 菊鹿町松尾荘 '
+    address_kata: クマモトケンヤマガシキクカマチマツオ
+  - 'no': '280'
+    name: 及川 美津枝
+    name_kata: オイカワ ミツエ
+    gender: 女
+    bloodtype: B
+    birthday: 1982/07/18
+    tel: 04-4564-5939
+    keitai: 090-1907-3549
+    mail: mitue270@infoseek.jp
+    zip: 270-0222
+    address: 千葉県野田市木間ヶ瀬4-8-1 ウィークリーマンション木間ヶ瀬 7階
+    address_kata: チバケンノダシキマガセ
+  - 'no': '281'
+    name: 北川 秀志
+    name_kata: キタカワ ヒデシ
+    gender: 男
+    bloodtype: AB
+    birthday: 1994/11/14
+    tel: 082-797-6185
+    keitai: 070-7195-9478
+    mail: ''
+    zip: 736-0041
+    address: 広島県安芸郡海田町大正町5-14-5
+    address_kata: ヒロシマケンアキグンカイタチョウタイショウマチ
+  - 'no': '282'
+    name: 菊池 喜久郎
+    name_kata: キクチ キクオ
+    gender: 男
+    bloodtype: B
+    birthday: 1976/06/13
+    tel: 053-102-4885
+    keitai: ''
+    mail: ''
+    zip: 434-0002
+    address: 静岡県浜松市尾野1231
+    address_kata: シズオカケンハママツシオノ
+  - 'no': '283'
+    name: 小谷 梨絵
+    name_kata: コタニ リエ
+    gender: 女
+    bloodtype: O
+    birthday: 1980/04/17
+    tel: 0137-43-9285
+    keitai: 090-1363-0442
+    mail: ktn-re@ath.cx
+    zip: 049-4515
+    address: 北海道久遠郡せたな町北檜山区兜野4429
+    address_kata: ホッカイドウクドウグンセタナチョウキタヒヤマクカブトノ
+  - 'no': '284'
+    name: 橋本 豊司
+    name_kata: ハシモト トヨシ
+    gender: 男
+    bloodtype: AB
+    birthday: 1972/09/15
+    tel: 0244-18-6710
+    keitai: 070-7436-7838
+    mail: toyosi_hasimoto@dion.ne.jp
+    zip: 979-2101
+    address: 福島県南相馬市小高区片草5-15-8 マリオン小高区片草 3階
+    address_kata: フクシマケンミナミソウマシオダカクカタクサ
+  - 'no': '285'
+    name: 坂本 利浩
+    name_kata: サカモト トシヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1991/08/25
+    tel: 03-3190-9052
+    keitai: 080-7084-0161
+    mail: sakamoto0825@ocn.ne.jp
+    zip: 102-0073
+    address: 東京都千代田区九段北7-1-2
+    address_kata: トウキョウトチヨダククダンキタ
+  - 'no': '286'
+    name: 西川 保行
+    name_kata: ニシカワ ヤスユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/07/12
+    tel: 0564-78-3952
+    keitai: 090-2969-4066
+    mail: ikuyusay@infoseek.jp
+    zip: 444-2117
+    address: 愛知県岡崎市百々西町2282
+    address_kata: アイチケンオカザキシドウドニシマチ
+  - 'no': '287'
+    name: 笠原 芳伸
+    name_kata: カサハラ ヨシノブ
+    gender: 男
+    bloodtype: AB
+    birthday: 1973/12/27
+    tel: 042-020-9009
+    keitai: 090-9863-0369
+    mail: kshr_ysnb@example.or.jp
+    zip: 191-0032
+    address: 東京都日野市三沢5-5-5
+    address_kata: トウキョウトヒノシミサワ
+  - 'no': '288'
+    name: 村山 周
+    name_kata: ムラヤマ シュウキチ
+    gender: 男
+    bloodtype: B
+    birthday: 1993/03/07
+    tel: 011-700-5784
+    keitai: 090-6343-4764
+    mail: amayarum93@hotmail.com
+    zip: 001-0027
+    address: 北海道札幌市北区北二十七条西9-9-1
+    address_kata: ホッカイドウサッポロシキタクキタ２７ジョウニシ
+  - 'no': '289'
+    name: 新田 豊司
+    name_kata: アラタ トヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1973/09/12
+    tel: 0296-53-9341
+    keitai: 090-0850-5073
+    mail: art1973@dti.ne.jp
+    zip: 309-1241
+    address: 茨城県桜川市青木1-10-4
+    address_kata: イバラキケンサクラガワシアオキ
+  - 'no': '290'
+    name: 石崎 幸博
+    name_kata: イシザキ ユキヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1993/12/30
+    tel: 0577-00-8512
+    keitai: 090-8145-9079
+    mail: iszk_ykhr@infoseek.co.jp
+    zip: 509-3311
+    address: 岐阜県高山市朝日町一之宿3-12-7
+    address_kata: ギフケンタカヤマシアサヒチョウイチノシュク
+  - 'no': '291'
+    name: 落合 美博
+    name_kata: オチアイ ヨシヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1991/03/24
+    tel: 0583-49-7458
+    keitai: 090-7507-6958
+    mail: otiai0324@hotmail.com
+    zip: 501-6025
+    address: 岐阜県各務原市川島河田町7-5-1
+    address_kata: ギフケンカカミガハラシカワシマコウダマチ
+  - 'no': '292'
+    name: 佐藤 錦也
+    name_kata: サトウ キンヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1973/05/03
+    tel: 078-418-1408
+    keitai: 090-2529-5707
+    mail: aynik6530044@gmail.com
+    zip: 653-0044
+    address: 兵庫県神戸市長田区南駒栄町8-12-5
+    address_kata: ヒョウゴケンコウベシナガタクミナミコマエチョウ
+  - 'no': '293'
+    name: 久保 直志
+    name_kata: クボ タダシ
+    gender: 男
+    bloodtype: B
+    birthday: 1988/07/06
+    tel: 086-581-4952
+    keitai: ''
+    mail: tdskb@nifty.jp
+    zip: 704-8161
+    address: 岡山県岡山市九蟠7-14-4
+    address_kata: オカヤマケンオカヤマシクバン
+  - 'no': '294'
+    name: 古田 恵志
+    name_kata: フルタ ケイシ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/12/31
+    tel: 03-3756-6002
+    keitai: 070-7836-6152
+    mail: keisi-huruta@rakuten.co.jp
+    zip: 154-0017
+    address: 東京都世田谷区世田谷1-14-3
+    address_kata: トウキョウトセタガヤクセタガヤ
+  - 'no': '295'
+    name: 森下 宜昭
+    name_kata: モリシタ ヨシアキ
+    gender: 男
+    bloodtype: B
+    birthday: 1975/01/09
+    tel: 0224-09-4935
+    keitai: 090-0097-2494
+    mail: yosiaki@asp.home.ne.jp
+    zip: 989-0524
+    address: 宮城県刈田郡七ヶ宿町上烏川3956
+    address_kata: ミヤギケンカッタグンシチカシュクマチカミカラスガワ
+  - 'no': '296'
+    name: 庄司 三佐男
+    name_kata: ショウジ ミサオ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/10/13
+    tel: 0166-86-5968
+    keitai: 090-1997-5863
+    mail: mso8019860119@gmo-media.jp
+    zip: 071-0222
+    address: 北海道上川郡美瑛町美田1-2-3
+    address_kata: ホッカイドウカミカワグンビエイチョウミタ
+  - 'no': '297'
+    name: 庄司 達生
+    name_kata: ショウジ タツオ
+    gender: 男
+    bloodtype: B
+    birthday: 1993/05/25
+    tel: 0795-18-9514
+    keitai: 090-9839-8159
+    mail: izuoys@ocn.ne.jp
+    zip: 679-1107
+    address: 兵庫県多可郡多可町中区奥中5-3-7
+    address_kata: ヒョウゴケンタカグンタカチョウナカクオクナカ
+  - 'no': '298'
+    name: 今井 菊治
+    name_kata: イマイ キクハル
+    gender: 男
+    bloodtype: B
+    birthday: 1981/10/30
+    tel: 0779-79-7470
+    keitai: 090-9300-6494
+    mail: kikuharu7470@users.gr.jp
+    zip: 912-0136
+    address: 福井県大野市松丸2096
+    address_kata: フクイケンオオノシマツマル
+  - 'no': '299'
+    name: 上村 恵理
+    name_kata: ウエムラ エリ
+    gender: 女
+    bloodtype: O
+    birthday: 1975/06/01
+    tel: 0898-59-1754
+    keitai: 080-8453-8244
+    mail: eri1975@fdt.ne.jp
+    zip: 794-0066
+    address: 愛媛県今治市高橋2-3-6 ピソブランコ・高橋 9階
+    address_kata: エヒメケンイマバリシタカハシ
+  - 'no': '300'
+    name: 樋口 志奈
+    name_kata: ヒグチ シナ
+    gender: 女
+    bloodtype: A
+    birthday: 1992/09/24
+    tel: 076-534-4122
+    keitai: 090-3807-1242
+    mail: higuti@combzmail.jp
+    zip: 939-2604
+    address: 富山県富山市婦中町小野島1-4-4
+    address_kata: トヤマケントヤマシフチュウマチコノシマ
+  - 'no': '301'
+    name: 宮城 義子
+    name_kata: ミヤギ ヨシコ
+    gender: 女
+    bloodtype: A
+    birthday: 1971/05/07
+    tel: 086-004-4633
+    keitai: 090-0480-7012
+    mail: myg0507@excite.com
+    zip: 700-0982
+    address: 岡山県岡山市中島田町9-7-9
+    address_kata: オカヤマケンオカヤマシナカシマダチョウ
+  - 'no': '302'
+    name: 堀 祐子
+    name_kata: ホリ ユウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1977/01/28
+    tel: 0175-12-5927
+    keitai: 090-8887-6490
+    mail: hori-yuuko@example.gr.jp
+    zip: 039-3168
+    address: 青森県上北郡野辺地町前平1-9-7
+    address_kata: アオモリケンカミキタグンノヘジマチマエヒラ
+  - 'no': '303'
+    name: 川上 初
+    name_kata: カワカミ ハジメ
+    gender: 男
+    bloodtype: O
+    birthday: 1991/12/03
+    tel: 0745-27-1289
+    keitai: 070-2326-2066
+    mail: ''
+    zip: 636-0023
+    address: '奈良県北葛城郡王寺町太子6-14-8 メゾネット太子 '
+    address_kata: ナラケンキタカツラギグンオウジチョウタイシ
+  - 'no': '304'
+    name: 菅野 重文
+    name_kata: スガノ シゲフミ
+    gender: 男
+    bloodtype: AB
+    birthday: 1970/12/23
+    tel: 0299-20-1361
+    keitai: 090-0928-5812
+    mail: sgn-sghm@plala.or.jp
+    zip: 314-0121
+    address: 茨城県神栖市溝口8-2-2
+    address_kata: イバラキケンカミスシミゾグチ
+  - 'no': '305'
+    name: 西岡 由枝
+    name_kata: ニシオカ ヨシエ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/11/25
+    tel: 07357-1-0771
+    keitai: 090-2937-5866
+    mail: nisioka-yosie@mxi.asp.home.ne.jp
+    zip: 649-4235
+    address: 和歌山県東牟婁郡古座川町相瀬1-11-5-7F
+    address_kata: ワカヤマケンヒガシムログンコザガワチョウアイセ
+  - 'no': '306'
+    name: 宮崎 洋子
+    name_kata: ミヤザキ ヨウコ
+    gender: 女
+    bloodtype: B
+    birthday: 1984/06/13
+    tel: 054-296-5682
+    keitai: 090-6399-0390
+    mail: ikazayim929@example.com
+    zip: 421-2306
+    address: 静岡県静岡市葵区平野9-2-9
+    address_kata: シズオカケンシズオカシアオイクヒラノ
+  - 'no': '307'
+    name: 小林 恵八郎
+    name_kata: コバヤシ エイハチロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1988/09/13
+    tel: 025-942-4116
+    keitai: 090-5983-5961
+    mail: urthe354@coara.or.jp
+    zip: 949-7231
+    address: 新潟県南魚沼市茗荷沢3-5-4
+    address_kata: ニイガタケンミナミウオヌマシミョウガサワ
+  - 'no': '308'
+    name: 向井 明博
+    name_kata: ムカイ アキヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1983/12/06
+    tel: 0426-78-9490
+    keitai: 090-4344-1779
+    mail: mukai@aitai.ne.jp
+    zip: 192-0152
+    address: 東京都八王子市美山町6-11-3 美山町アパート2号 1F
+    address_kata: トウキョウトハチオウジシミヤマチョウ
+  - 'no': '309'
+    name: 丹羽 正保
+    name_kata: ニワ マサヤス
+    gender: 男
+    bloodtype: B
+    birthday: 1983/12/10
+    tel: 0739-91-2043
+    keitai: 090-7889-1726
+    mail: nw_msys@sannet.ne.jp
+    zip: 649-3152
+    address: 和歌山県西牟婁郡すさみ町防己7-2-2
+    address_kata: ワカヤマケンニシムログンスサミチョウツヅラ
+  - 'no': '310'
+    name: 宇野 荘介
+    name_kata: ウノ ソウスケ
+    gender: 男
+    bloodtype: B
+    birthday: 1974/01/11
+    tel: 042-336-4717
+    keitai: 090-8634-6978
+    mail: sousuke-uno@web.ad.jp
+    zip: 206-0035
+    address: 東京都多摩市唐木田1-1-6
+    address_kata: トウキョウトタマシカラキダ
+  - 'no': '311'
+    name: 黒田 春実
+    name_kata: クロタ ハルミ
+    gender: 女
+    bloodtype: B
+    birthday: 1973/10/26
+    tel: 0254-71-4404
+    keitai: 090-7046-0398
+    mail: harumi-kurota@scuba-diver.jp
+    zip: 959-2074
+    address: 新潟県阿賀野市分田6571
+    address_kata: ニイガタケンアガノシブンダ
+  - 'no': '312'
+    name: 武田 哲子
+    name_kata: タケダ テツコ
+    gender: 女
+    bloodtype: AB
+    birthday: 1972/06/10
+    tel: 0743-24-5029
+    keitai: 090-5298-6252
+    mail: tetuko_takeda@aitai.ne.jp
+    zip: 632-0058
+    address: 奈良県天理市成願寺町6-6-9 パナハイツ成願寺町 807
+    address_kata: ナラケンテンリシジョウガンジチョウ
+  - 'no': '313'
+    name: 米田 靖雄
+    name_kata: ヨネタ ヤスオ
+    gender: 男
+    bloodtype: A
+    birthday: 1970/12/15
+    tel: 0568-61-2779
+    keitai: 080-5309-5657
+    mail: yso413311@mxi.asp.home.ne.jp
+    zip: 485-0805
+    address: 愛知県小牧市林4-13-3-11階
+    address_kata: アイチケンコマキシハヤシ
+  - 'no': '314'
+    name: 笠井 武久
+    name_kata: カサイ タケヒサ
+    gender: 男
+    bloodtype: B
+    birthday: 1970/06/26
+    tel: 075-305-6541
+    keitai: 090-5020-8976
+    mail: takehisa1970@example.gr.jp
+    zip: 612-8206
+    address: 京都府京都市伏見区下鳥羽六反長町3-1-1 ノースコート下鳥羽六反長町 209号室
+    address_kata: キョウトフキョウトシフシミクシモトバロクタンチョウチョウ
+  - 'no': '315'
+    name: 大森 美里
+    name_kata: オオモリ ミサト
+    gender: 女
+    bloodtype: B
+    birthday: 1990/06/12
+    tel: 0858-77-0119
+    keitai: 090-5102-7656
+    mail: mst-omr@example.org
+    zip: 689-2335
+    address: 鳥取県東伯郡琴浦町中津原5-3-5 パレットハウス中津原 502号室
+    address_kata: トットリケントウハクグンコトウラチョウナカツハラ
+  - 'no': '316'
+    name: 田原 一城
+    name_kata: タハラ カズキ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/12/08
+    tel: 0223-96-7428
+    keitai: ''
+    mail: ikuzak79@anet.ne.jp
+    zip: 989-2477
+    address: 宮城県岩沼市東谷地3-13-8 ボヌール東谷地 5階
+    address_kata: ミヤギケンイワヌマシヒガシヤチ
+  - 'no': '317'
+    name: 長沢 有紀子
+    name_kata: ナガサワ ユキコ
+    gender: 女
+    bloodtype: A
+    birthday: 1981/12/03
+    tel: 079-497-8292
+    keitai: 070-8466-3621
+    mail: ngsw.ykk@freeml.co.jp
+    zip: 669-2702
+    address: 兵庫県篠山市本郷4-13-2
+    address_kata: ヒョウゴケンササヤマシホンゴウ
+  - 'no': '318'
+    name: 坂井 重則
+    name_kata: サカイ シゲノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/01/06
+    tel: 025-080-9984
+    keitai: 090-6800-8068
+    mail: sakai79sakai79@bbtec.net
+    zip: 943-0136
+    address: 新潟県上越市西松野木8994
+    address_kata: ニイガタケンジョウエツシニシマツノキ
+  - 'no': '319'
+    name: 大石 圭
+    name_kata: オオイシ ケイ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/08/23
+    tel: 0795-31-5700
+    keitai: 090-3205-0498
+    mail: ois@users.gr.jp
+    zip: 669-3146
+    address: 兵庫県丹波市山南町南中6049
+    address_kata: ヒョウゴケンタンバシサンナンチョウミナミナカ
+  - 'no': '320'
+    name: 嶋田 小春
+    name_kata: シマダ コハル
+    gender: 女
+    bloodtype: A
+    birthday: 1975/01/29
+    tel: 0959-55-6681
+    keitai: ''
+    mail: rhkaitai@aitai.ne.jp
+    zip: 857-2221
+    address: 長崎県西海市西海町中浦南郷7-4-8 サンハイツ西海町中浦南郷 11階
+    address_kata: ナガサキケンサイカイシサイカイチョウナカウラミナミゴウ
+  - 'no': '321'
+    name: 福原 十三男
+    name_kata: フクハラ トミオ
+    gender: 男
+    bloodtype: A
+    birthday: 1977/05/29
+    tel: 0765-18-3492
+    keitai: 090-2713-6661
+    mail: tomio@tokyo24.com
+    zip: 938-0072
+    address: 富山県黒部市生地中区4-2-5
+    address_kata: トヤマケンクロベシイクジナカク
+  - 'no': '322'
+    name: 井口 初美
+    name_kata: イグチ ハツミ
+    gender: 女
+    bloodtype: AB
+    birthday: 1985/07/02
+    tel: 024-187-2954
+    keitai: 090-2117-5076
+    mail: igthtm@asp.home.ne.jp
+    zip: 960-8076
+    address: 福島県福島市上野寺5-7-5
+    address_kata: フクシマケンフクシマシカミノデラ
+  - 'no': '323'
+    name: 永野 和茂
+    name_kata: ナガノ カズシゲ
+    gender: 男
+    bloodtype: O
+    birthday: 1992/06/14
+    tel: 0944-14-1091
+    keitai: 090-0871-5315
+    mail: nagano.kazusige@mail.goo.ne.jp
+    zip: 836-0007
+    address: 福岡県大牟田市城町9-3-1
+    address_kata: フクオカケンオオムタシシロマチ
+  - 'no': '324'
+    name: 森本 成美
+    name_kata: モリモト ナリミ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/12/19
+    tel: 0565-54-8582
+    keitai: 070-0371-0426
+    mail: mrmtmrmt@fdt.ne.jp
+    zip: 444-2844
+    address: 愛知県豊田市伯母沢町4-10-6-412
+    address_kata: アイチケントヨタシオバザワチョウ
+  - 'no': '325'
+    name: 田辺 つばさ
+    name_kata: タナベ ツバサ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/10/25
+    tel: 042-332-0532
+    keitai: 090-7352-4993
+    mail: tanabe0532@comeon.to
+    zip: 206-0804
+    address: 東京都稲城市百村6-7-1
+    address_kata: トウキョウトイナギシモムラ
+  - 'no': '326'
+    name: 吉原 亜依
+    name_kata: ヨシハラ アイ
+    gender: 女
+    bloodtype: A
+    birthday: 1972/09/13
+    tel: 0977-00-8659
+    keitai: 090-0930-0880
+    mail: ''
+    zip: 874-0844
+    address: 大分県別府市火売6258
+    address_kata: オオイタケンベップシホノメ
+  - 'no': '327'
+    name: 大西 幸博
+    name_kata: オオニシ ユキヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/10/04
+    tel: 042-361-0408
+    keitai: 070-4286-5742
+    mail: yukihiro1004@yahoo.co.jp
+    zip: 190-1203
+    address: 東京都西多摩郡瑞穂町高根9285
+    address_kata: トウキョウトニシタマグンミズホマチタカネ
+  - 'no': '328'
+    name: 岩井 荘介
+    name_kata: イワイ ソウスケ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/04/27
+    tel: 025-451-5832
+    keitai: 090-1411-8881
+    mail: ksus950ksus950@asp.home.ne.jp
+    zip: 950-2154
+    address: 新潟県新潟市内野潟向5-1-2
+    address_kata: ニイガタケンニイガタシウチノカタムカイ
+  - 'no': '329'
+    name: 津田 貞久
+    name_kata: ツダ サダヒサ
+    gender: 男
+    bloodtype: B
+    birthday: 1989/12/09
+    tel: 03-3125-7376
+    keitai: 090-4807-1214
+    mail: dt1209dt1209@plala.or.jp
+    zip: 165-0024
+    address: 東京都中野区松が丘1752
+    address_kata: トウキョウトナカノクマツガオカ
+  - 'no': '330'
+    name: 花田 明久
+    name_kata: ハナダ アキヒサ
+    gender: 男
+    bloodtype: B
+    birthday: 1989/04/21
+    tel: 083-625-3050
+    keitai: 090-4458-5118
+    mail: hnd0421hnd0421@mxi.asp.home.ne.jp
+    zip: 759-1341
+    address: 山口県阿武郡阿東町生雲西分6-1-8 アスコットヴィラ生雲西分 4階
+    address_kata: ヤマグチケンアブグンアトウチョウイクモニシブン
+  - 'no': '331'
+    name: 小沢 敬
+    name_kata: オザワ サトシ
+    gender: 男
+    bloodtype: O
+    birthday: 1970/03/02
+    tel: 072-324-2579
+    keitai: 090-6289-7732
+    mail: awazo2579@goo.ne.jp
+    zip: 566-0032
+    address: 大阪府摂津市桜町9-11-4
+    address_kata: オオサカフセッツシサクラマチ
+  - 'no': '332'
+    name: 片岡 泰秀
+    name_kata: カタオカ ヤスヒデ
+    gender: 男
+    bloodtype: B
+    birthday: 1977/08/10
+    tel: 0778-81-5432
+    keitai: 090-0200-0988
+    mail: ktok-yshd@tokyo24.com
+    zip: 910-2532
+    address: 福井県今立郡池田町新保3-9-5-9F
+    address_kata: フクイケンイマダテグンイケダチョウシンボ
+  - 'no': '333'
+    name: 馬場 理香
+    name_kata: ババ リカ
+    gender: 女
+    bloodtype: A
+    birthday: 1990/11/02
+    tel: 0426-58-4622
+    keitai: 090-3387-8151
+    mail: akir2002@infoweb.ne.jp
+    zip: 192-0902
+    address: 東京都八王子市上野町6-4-9
+    address_kata: トウキョウトハチオウジシウエノマチ
+  - 'no': '334'
+    name: 大原 元臣
+    name_kata: オオハラ モトオミ
+    gender: 男
+    bloodtype: B
+    birthday: 1992/05/01
+    tel: 078-872-0289
+    keitai: 090-3469-8814
+    mail: motoomioohara@nifty.com
+    zip: 652-0023
+    address: 兵庫県神戸市兵庫区都由乃町8-3-7 スカイコート都由乃町 8階
+    address_kata: ヒョウゴケンコウベシヒョウゴクツユノチョウ
+  - 'no': '335'
+    name: 山岡 秋美
+    name_kata: ヤマオカ アキミ
+    gender: 女
+    bloodtype: A
+    birthday: 1985/03/09
+    tel: 0877-26-5680
+    keitai: ''
+    mail: yamaoka.akimi@users.gr.jp
+    zip: 763-0044
+    address: 香川県丸亀市福島町4-12-9
+    address_kata: カガワケンマルガメシフクシマチョウ
+  - 'no': '336'
+    name: 千葉 華代
+    name_kata: チバ ハナヨ
+    gender: 女
+    bloodtype: AB
+    birthday: 1993/08/15
+    tel: 0248-97-1871
+    keitai: 070-0711-4850
+    mail: hny93@dti.ne.jp
+    zip: 961-0085
+    address: 福島県白河市町田9-6-1
+    address_kata: フクシマケンシラカワシマチダ
+  - 'no': '337'
+    name: 河原 繁次
+    name_kata: カワハラ シゲツグ
+    gender: 男
+    bloodtype: B
+    birthday: 1978/01/18
+    tel: 0426-76-2461
+    keitai: 090-1882-1181
+    mail: ''
+    zip: 192-0054
+    address: 東京都八王子市小門町2-11-9
+    address_kata: トウキョウトハチオウジシオカドマチ
+  - 'no': '338'
+    name: 青山 奈緒実
+    name_kata: アオヤマ ナオミ
+    gender: 女
+    bloodtype: O
+    birthday: 1994/03/13
+    tel: 078-253-7854
+    keitai: 070-9559-8283
+    mail: ''
+    zip: 654-0023
+    address: 兵庫県神戸市須磨区戎町1-13-1
+    address_kata: ヒョウゴケンコウベシスマクエビスチョウ
+  - 'no': '339'
+    name: 宮本 雅近
+    name_kata: ミヤモト マサチカ
+    gender: 男
+    bloodtype: A
+    birthday: 1973/05/28
+    tel: 042-256-0583
+    keitai: 090-6859-0955
+    mail: masatikamiyamoto@scuba-diver.jp
+    zip: 195-0062
+    address: 東京都町田市大蔵町3-2-2 大蔵町第2ビル 1013
+    address_kata: トウキョウトマチダシオオクラマチ
+  - 'no': '340'
+    name: 吉川 千琴
+    name_kata: ヨシカワ チコト
+    gender: 女
+    bloodtype: A
+    birthday: 1977/10/24
+    tel: 0256-05-2850
+    keitai: 090-7593-7203
+    mail: awakisoy8129@yahoo.co.jp
+    zip: 955-0813
+    address: 新潟県三条市袋8-12-9
+    address_kata: ニイガタケンサンジョウシフクロ
+  - 'no': '341'
+    name: 小野 安彦
+    name_kata: オノ ヤスヒコ
+    gender: 男
+    bloodtype: A
+    birthday: 1970/07/08
+    tel: 03-3415-5769
+    keitai: 090-2282-7627
+    mail: ono1250035@sunfield.ne.jp
+    zip: 125-0035
+    address: 東京都葛飾区南水元1-9-8 ミレニアム南水元 15階
+    address_kata: トウキョウトカツシカクミナミミズモト
+  - 'no': '342'
+    name: 山川 美樹
+    name_kata: ヤマカワ ミキ
+    gender: 女
+    bloodtype: A
+    birthday: 1974/12/01
+    tel: 025-465-7553
+    keitai: 090-4092-5502
+    mail: ''
+    zip: 950-2054
+    address: 新潟県新潟市寺尾東2-7-8
+    address_kata: ニイガタケンニイガタシテラオヒガシ
+  - 'no': '343'
+    name: 石原 隆次
+    name_kata: イシハラ リュウジ
+    gender: 男
+    bloodtype: O
+    birthday: 1988/02/07
+    tel: 045-968-8333
+    keitai: 090-3687-3432
+    mail: izuuyr2400004@t-com.ne.jp
+    zip: 240-0004
+    address: 神奈川県横浜市保土ヶ谷区岩間町1-6-8 ヴェルテックス岩間町 1015
+    address_kata: カナガワケンヨコハマシホドガヤクイワマチョウ
+  - 'no': '344'
+    name: 今村 厚成
+    name_kata: イマムラ アツナリ
+    gender: 男
+    bloodtype: O
+    birthday: 1993/06/19
+    tel: 07476-1-0306
+    keitai: 090-8712-1952
+    mail: imamura465@freeml.co.jp
+    zip: 638-0543
+    address: 奈良県吉野郡天川村和田4-6-5
+    address_kata: ナラケンヨシノグンテンカワムラワダ
+  - 'no': '345'
+    name: 本田 保二
+    name_kata: ホンダ ヤスジ
+    gender: 男
+    bloodtype: A
+    birthday: 1994/10/11
+    tel: 0551-87-1205
+    keitai: 070-8371-1383
+    mail: honda94honda94@sunfield.ne.jp
+    zip: 408-0034
+    address: 山梨県北杜市長坂町大八田4-3-3
+    address_kata: ヤマナシケンホクトシナガサカチョウオオバッタ
+  - 'no': '346'
+    name: 横井 裕康
+    name_kata: ヨコイ ヒロヤス
+    gender: 男
+    bloodtype: B
+    birthday: 1971/01/02
+    tel: 0980-71-8883
+    keitai: ''
+    mail: hrys.yki@ybb.ne.jp
+    zip: 905-0214
+    address: 沖縄県国頭郡本部町渡久地7-15-3
+    address_kata: オキナワケンクニガミグンモトブチョウトグチ
+  - 'no': '347'
+    name: 溝口 章緒
+    name_kata: ミゾクチ アキオ
+    gender: 女
+    bloodtype: O
+    birthday: 1970/11/18
+    tel: 0584-35-9644
+    keitai: 090-9726-9646
+    mail: oka1970@example.or.jp
+    zip: 503-1626
+    address: 岐阜県大垣市上石津町祢宜上4-13-4-1004号室
+    address_kata: ギフケンオオガキシカミイシヅチョウネギカミ
+  - 'no': '348'
+    name: 長田 恵治
+    name_kata: オサダ ケイジ
+    gender: 男
+    bloodtype: O
+    birthday: 1971/02/18
+    tel: 0299-43-0628
+    keitai: 090-3842-8690
+    mail: ''
+    zip: 314-0032
+    address: 茨城県鹿嶋市宮下9-2-6 ノースコート宮下 4階
+    address_kata: イバラキケンカシマシミヤシタ
+  - 'no': '349'
+    name: 新谷 森勝
+    name_kata: アラヤ モリカツ
+    gender: 男
+    bloodtype: B
+    birthday: 1973/09/01
+    tel: 0868-61-4405
+    keitai: 090-1173-4324
+    mail: morikatu-araya@sannet.ne.jp
+    zip: 709-4242
+    address: 岡山県美作市田原1795
+    address_kata: オカヤマケンミマサカシタワラ
+  - 'no': '350'
+    name: 川野 宣男
+    name_kata: コウノ ノブオ
+    gender: 男
+    bloodtype: AB
+    birthday: 1985/02/05
+    tel: 045-246-5319
+    keitai: 070-3158-2082
+    mail: nbo-kun@web.ad.jp
+    zip: 241-0033
+    address: 神奈川県横浜市旭区今川町5-5-8
+    address_kata: カナガワケンヨコハマシアサヒクイマガワチョウ
+  - 'no': '351'
+    name: 古田 準一郎
+    name_kata: コダ ジュンイチロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1992/07/26
+    tel: 0268-33-9827
+    keitai: ''
+    mail: ''
+    zip: 386-1542
+    address: 長野県上田市下室賀4-6-3
+    address_kata: ナガノケンウエダシシモムロガ
+  - 'no': '352'
+    name: 坂本 保二
+    name_kata: サカモト ヤスジ
+    gender: 男
+    bloodtype: B
+    birthday: 1974/04/07
+    tel: 088-546-3953
+    keitai: 090-1025-3446
+    mail: izusay97115@sakura.ne.jp
+    zip: 772-0015
+    address: 徳島県鳴門市撫養町北浜9-7-1-15F
+    address_kata: トクシマケンナルトシムヤチョウキタハマ
+  - 'no': '353'
+    name: 武藤 権一
+    name_kata: タケトウ ケンイチ
+    gender: 男
+    bloodtype: B
+    birthday: 1984/01/19
+    tel: 076-291-6728
+    keitai: 090-3159-7210
+    mail: tktu1984@ocn.ne.jp
+    zip: 930-0103
+    address: 富山県富山市北代東部9-14-1
+    address_kata: トヤマケントヤマシキタダイトウブ
+  - 'no': '354'
+    name: 藤岡 知明
+    name_kata: フジオカ トモアキ
+    gender: 男
+    bloodtype: O
+    birthday: 1973/04/05
+    tel: 03-3183-8827
+    keitai: ''
+    mail: ikaomot@combzmail.jp
+    zip: 165-0022
+    address: 東京都中野区江古田9-3-5
+    address_kata: トウキョウトナカノクエゴタ
+  - 'no': '355'
+    name: 米田 佳江
+    name_kata: マイタ ヨシエ
+    gender: 女
+    bloodtype: B
+    birthday: 1974/01/25
+    tel: 042-602-7479
+    keitai: 090-0811-7738
+    mail: maita-yosie@comeon.to
+    zip: 190-1213
+    address: 東京都西多摩郡瑞穂町武蔵7-5-6
+    address_kata: トウキョウトニシタマグンミズホマチムサシ
+  - 'no': '356'
+    name: 中田 克明
+    name_kata: ナカタ カツアキ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/08/24
+    tel: 024-773-6180
+    keitai: 090-9312-8138
+    mail: nakata0824@example.net
+    zip: 960-0211
+    address: 福島県福島市飯坂町湯野6-4-7
+    address_kata: フクシマケンフクシマシイイザカマチユノ
+  - 'no': '357'
+    name: 原 良弥
+    name_kata: ハラ リョウヤ
+    gender: 男
+    bloodtype: A
+    birthday: 1994/07/26
+    tel: 078-145-3951
+    keitai: 090-9223-5095
+    mail: hr94@scuba-diver.jp
+    zip: 657-0855
+    address: 兵庫県神戸市灘区日出町5-4-7
+    address_kata: ヒョウゴケンコウベシナダクヒノデチョウ
+  - 'no': '358'
+    name: 畑中 康三
+    name_kata: ハタケナカ コウゾウ
+    gender: 男
+    bloodtype: B
+    birthday: 1984/03/12
+    tel: 0889-15-7320
+    keitai: 070-1985-1522
+    mail: kouzou-hatakenaka@mxi.asp.home.ne.jp
+    zip: 789-1235
+    address: 高知県高岡郡佐川町川ノ内組6-14-6
+    address_kata: コウチケンタカオカグンサカワチョウカワノウチグミ
+  - 'no': '359'
+    name: 井上 善英
+    name_kata: イノウエ ヨシヒデ
+    gender: 男
+    bloodtype: O
+    birthday: 1994/03/14
+    tel: 03-3635-8643
+    keitai: 090-8691-7985
+    mail: yosihideinoue@anet.ne.jp
+    zip: 162-0856
+    address: 東京都新宿区市谷甲良町6-3-7 エポカ市谷甲良町 508
+    address_kata: トウキョウトシンジュククイチガヤコウラチョウ
+  - 'no': '360'
+    name: 大塚 裕香
+    name_kata: オオツカ ユウカ
+    gender: 女
+    bloodtype: B
+    birthday: 1978/01/08
+    tel: 076-707-1039
+    keitai: 090-9089-3835
+    mail: ''
+    zip: 929-0412
+    address: 石川県河北郡津幡町九折5-9-7
+    address_kata: イシカワケンカホクグンツバタマチツヅラオリ
+  - 'no': '361'
+    name: 大沢 勝英
+    name_kata: オオサワ カツヒデ
+    gender: 男
+    bloodtype: O
+    birthday: 1970/03/24
+    tel: 079-312-9519
+    keitai: 070-2176-6552
+    mail: kthd9519@example.ne.jp
+    zip: 676-0067
+    address: 兵庫県高砂市高砂町東農人町1-9-4
+    address_kata: ヒョウゴケンタカサゴシタカサゴチョウヒガシノウニンマチ
+  - 'no': '362'
+    name: 横井 正保
+    name_kata: ヨコイ マサヤス
+    gender: 男
+    bloodtype: B
+    birthday: 1970/04/29
+    tel: 059-159-1631
+    keitai: 090-2719-6346
+    mail: iokoy1970@example.jp
+    zip: 514-0037
+    address: 三重県津市東古河町5-14-2
+    address_kata: ミエケンツシヒガシフルカワチョウ
+  - 'no': '363'
+    name: 福本 千琴
+    name_kata: フクモト チコト
+    gender: 女
+    bloodtype: B
+    birthday: 1993/04/02
+    tel: 093-864-9077
+    keitai: 090-9672-5325
+    mail: hukumoto-tikoto@mail.goo.ne.jp
+    zip: 807-0867
+    address: '福岡県北九州市八幡西区自由ヶ丘6-11-8 メゾネット自由ヶ丘 '
+    address_kata: フクオカケンキタキュウシュウシヤハタニシクジユウガオカ
+  - 'no': '364'
+    name: 山下 泰秀
+    name_kata: ヤマシタ ヤスヒデ
+    gender: 男
+    bloodtype: B
+    birthday: 1993/04/14
+    tel: 0234-98-5672
+    keitai: 090-8539-3725
+    mail: dhsy0414@mesh.ne.jp
+    zip: 999-8204
+    address: '山形県酒田市新出8-15-3 パナハイツ新出 '
+    address_kata: ヤマガタケンサカタシシンデ
+  - 'no': '365'
+    name: 川村 満生
+    name_kata: カワムラ ミチオ
+    gender: 男
+    bloodtype: O
+    birthday: 1984/06/01
+    tel: 0944-33-3378
+    keitai: 090-6745-4698
+    mail: otm@so-net.ne.jp
+    zip: 832-0014
+    address: 福岡県柳川市八百屋町7-8-1
+    address_kata: フクオカケンヤナガワシヤオヤマチ
+  - 'no': '366'
+    name: 山岡 鉄次
+    name_kata: ヤマオカ テツジ
+    gender: 男
+    bloodtype: A
+    birthday: 1983/05/11
+    tel: 0776-25-7884
+    keitai: 090-0393-1579
+    mail: ttz0511@mxi.asp.home.ne.jp
+    zip: 910-0005
+    address: 福井県福井市大手6-7-6
+    address_kata: フクイケンフクイシオオテ
+  - 'no': '367'
+    name: 遠藤 好博
+    name_kata: エンドウ ヨシヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/12/09
+    tel: 01547-3-8501
+    keitai: ''
+    mail: yshr7997rhsy@ath.cx
+    zip: 088-0572
+    address: 北海道白糠郡白糠町西庶路西三条南2-6-9
+    address_kata: ホッカイドウシラヌカグンシラヌカチョウニシショロニシ３ジョウミナミ
+  - 'no': '368'
+    name: 荒木 麻琴
+    name_kata: アラキ マコト
+    gender: 女
+    bloodtype: A
+    birthday: 1972/02/01
+    tel: 0823-70-0865
+    keitai: 090-9508-4081
+    mail: arkmkt@scuba-diver.jp
+    zip: 737-0818
+    address: 広島県呉市二河町7-12-9
+    address_kata: ヒロシマケンクレシニコウチョウ
+  - 'no': '369'
+    name: 野村 繁美
+    name_kata: ノムラ シゲミ
+    gender: 女
+    bloodtype: B
+    birthday: 1981/02/20
+    tel: 0256-61-8597
+    keitai: 090-9165-4655
+    mail: sigeminomura@hi-ho.ne.jp
+    zip: 959-0314
+    address: 新潟県西蒲原郡弥彦村山岸4-10-3 パストラル山岸 308
+    address_kata: ニイガタケンニシカンバラグンヤヒコムラヤマギシ
+  - 'no': '370'
+    name: 青木 芳尚
+    name_kata: アオキ ヨシナオ
+    gender: 男
+    bloodtype: A
+    birthday: 1993/07/28
+    tel: 0980-50-1337
+    keitai: 090-8449-2830
+    mail: ak0728example@example.jp
+    zip: 905-0702
+    address: 沖縄県島尻郡伊平屋村前泊1-6-2 ドミール前泊 4階
+    address_kata: オキナワケンシマジリグンイヘヤソンマエドマリ
+  - 'no': '371'
+    name: 土屋 章子
+    name_kata: ツチヤ ショウコ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/03/04
+    tel: 0564-83-1019
+    keitai: ''
+    mail: syuk4443168@example.gr.jp
+    zip: 444-3168
+    address: 愛知県岡崎市安戸町4-5-6 レジデンス安戸町 15F
+    address_kata: アイチケンオカザキシヤスドチョウ
+  - 'no': '372'
+    name: 島田 澄
+    name_kata: シマダ スミ
+    gender: 女
+    bloodtype: O
+    birthday: 1985/09/05
+    tel: 04-4505-2324
+    keitai: 090-4487-9058
+    mail: sumi0905@coara.or.jp
+    zip: 298-0013
+    address: 千葉県いすみ市小池6-8-7
+    address_kata: チバケンイスミシオイケ
+  - 'no': '373'
+    name: 野田 利次
+    name_kata: ノダ トシジ
+    gender: 男
+    bloodtype: A
+    birthday: 1990/03/22
+    tel: 04994-2-5708
+    keitai: 090-4212-4304
+    mail: tsz.nddn.zst@anet.ne.jp
+    zip: 100-1103
+    address: 東京都三宅島三宅村伊ヶ谷3-15-7 伊ヶ谷第2ビル 509号室
+    address_kata: トウキョウトミヤケジマミヤケムライガヤ
+  - 'no': '374'
+    name: 北川 伸江
+    name_kata: キタカワ ノブエ
+    gender: 女
+    bloodtype: O
+    birthday: 1992/06/15
+    tel: 0152-04-8050
+    keitai: 070-0941-7561
+    mail: eubon8050@dti.ad.jp
+    zip: 093-0335
+    address: 北海道北見市常呂町吉野4-7-5 ＴＯＰ・常呂町吉野 406
+    address_kata: ホッカイドウキタミシトコロチョウヨシノ
+  - 'no': '375'
+    name: 小川 政年
+    name_kata: オガワ マサトシ
+    gender: 男
+    bloodtype: A
+    birthday: 1989/01/01
+    tel: 03-3162-4262
+    keitai: 070-2196-8146
+    mail: masatosi05@iij.ad.jp
+    zip: 162-0818
+    address: 東京都新宿区築地町5-13-1
+    address_kata: トウキョウトシンジュククツキジマチ
+  - 'no': '376'
+    name: 竹村 敏美
+    name_kata: タケムラ トシミ
+    gender: 女
+    bloodtype: AB
+    birthday: 1980/11/18
+    tel: 0226-74-9286
+    keitai: 070-3776-4847
+    mail: imisot80@dti.ad.jp
+    zip: 988-0243
+    address: 宮城県気仙沼市波路上牧4-10-5
+    address_kata: ミヤギケンケセンヌマシハジカミマギ
+  - 'no': '377'
+    name: 平井 則昭
+    name_kata: ヒライ ノリアキ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/10/01
+    tel: 0257-69-4508
+    keitai: 070-2316-6920
+    mail: ''
+    zip: 948-0125
+    address: 新潟県十日町市小根岸9-5-5
+    address_kata: ニイガタケントオカマチシコネギシ
+  - 'no': '378'
+    name: 平川 謙三
+    name_kata: ヒラカワ ケンゾウ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/09/18
+    tel: 0195-92-2623
+    keitai: 070-9879-9028
+    mail: kenzou87@hi-ho.ne.jp
+    zip: 028-7604
+    address: 岩手県八幡平市丑山口5-3-6
+    address_kata: イワテケンハチマンタイシウシヤマグチ
+  - 'no': '379'
+    name: 三好 慶太郎
+    name_kata: ミヨシ ケイタロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/04/30
+    tel: 0248-52-8712
+    keitai: 070-3927-6996
+    mail: miyosi0430@example.net
+    zip: 969-0303
+    address: 福島県白河市大信下小屋6177
+    address_kata: フクシマケンシラカワシタイシンシモコヤ
+  - 'no': '380'
+    name: 新田 菜美
+    name_kata: アラタ ナミ
+    gender: 女
+    bloodtype: A
+    birthday: 1982/06/06
+    tel: 0285-25-4327
+    keitai: 090-2622-0214
+    mail: nami@gmail.com
+    zip: 321-4522
+    address: 栃木県芳賀郡二宮町久下田西7-13-6
+    address_kata: トチギケンハガグンニノミヤマチクゲタニシ
+  - 'no': '381'
+    name: 小松 望
+    name_kata: コマツ ノゾミ
+    gender: 女
+    bloodtype: B
+    birthday: 1980/07/23
+    tel: 0574-10-4370
+    keitai: ''
+    mail: nozomi0723@example.ac.jp
+    zip: 509-0248
+    address: 岐阜県可児市清水ヶ丘7-7-2 プランドール清水ヶ丘 4階
+    address_kata: ギフケンカニシシミズガオカ
+  - 'no': '382'
+    name: 石崎 兵吉
+    name_kata: イシザキ ヒョウキチ
+    gender: 男
+    bloodtype: A
+    birthday: 1982/07/22
+    tel: 0564-91-3363
+    keitai: 090-1591-6692
+    mail: iszk.hyukt@hotmail.com
+    zip: 444-0876
+    address: 愛知県岡崎市竜美北8-1-9
+    address_kata: アイチケンオカザキシタツミキタ
+  - 'no': '383'
+    name: 安井 好行
+    name_kata: ヤスイ ヨシユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1982/06/25
+    tel: 0594-73-5771
+    keitai: 090-0238-9105
+    mail: yasui.yosiyuki@coara.or.jp
+    zip: 511-0087
+    address: 三重県桑名市吉津屋町4-15-2
+    address_kata: ミエケンクワナシヨツヤチョウ
+  - 'no': '384'
+    name: 市川 希美
+    name_kata: イチカワ ノゾミ
+    gender: 女
+    bloodtype: B
+    birthday: 1992/10/11
+    tel: 0273-78-4133
+    keitai: 090-2155-2451
+    mail: ''
+    zip: 370-3402
+    address: 群馬県高崎市倉渕町三ノ倉7-2-2
+    address_kata: グンマケンタカサキシクラブチマチサンノクラ
+  - 'no': '385'
+    name: 新田 美津江
+    name_kata: アラタ ミツエ
+    gender: 女
+    bloodtype: O
+    birthday: 1992/11/02
+    tel: 0256-61-3073
+    keitai: 090-1518-7795
+    mail: mte_art@dsn.ad.jp
+    zip: 959-0314
+    address: 新潟県西蒲原郡弥彦村山岸8-6-1
+    address_kata: ニイガタケンニシカンバラグンヤヒコムラヤマギシ
+  - 'no': '386'
+    name: 庄司 理平
+    name_kata: ショウジ リヘイ
+    gender: 男
+    bloodtype: O
+    birthday: 1979/10/06
+    tel: 089-567-7830
+    keitai: 090-0364-3995
+    mail: iehir790@mesh.ne.jp
+    zip: 790-0012
+    address: 愛媛県松山市湊町6-12-9
+    address_kata: エヒメケンマツヤマシミナトマチ
+  - 'no': '387'
+    name: 小森 真樹
+    name_kata: コモリ マキ
+    gender: 女
+    bloodtype: A
+    birthday: 1980/08/04
+    tel: 0257-29-4182
+    keitai: 090-2008-9821
+    mail: ikam1980@example.or.jp
+    zip: 942-1506
+    address: 新潟県十日町市中子2-13-9
+    address_kata: ニイガタケントオカマチシナカゴ
+  - 'no': '388'
+    name: 河野 政年
+    name_kata: カワノ マサトシ
+    gender: 男
+    bloodtype: A
+    birthday: 1971/04/14
+    tel: 0243-95-7445
+    keitai: 070-7671-6109
+    mail: msts1971@ath.cx
+    zip: 964-0014
+    address: 福島県二本松市上新田5-8-6
+    address_kata: フクシマケンニホンマツシカミシンデン
+  - 'no': '389'
+    name: 稲垣 真樹
+    name_kata: イナガキ マキ
+    gender: 女
+    bloodtype: A
+    birthday: 1981/03/19
+    tel: 0564-09-1990
+    keitai: 090-6443-7092
+    mail: inagaki1981@fdt.ne.jp
+    zip: 444-0949
+    address: 愛知県岡崎市宇頭南町2-15-9 シティ宇頭南町 7F
+    address_kata: アイチケンオカザキシウトウミナミマチ
+  - 'no': '390'
+    name: 川野 なつみ
+    name_kata: カワノ ナツミ
+    gender: 女
+    bloodtype: B
+    birthday: 1975/12/01
+    tel: 0575-76-6518
+    keitai: 080-9693-1094
+    mail: natumi-kawano@bbtec.net
+    zip: 501-3854
+    address: 岐阜県関市月見町6-7-1
+    address_kata: ギフケンセキシツキミチョウ
+  - 'no': '391'
+    name: 福田 力弥
+    name_kata: フクタ リキヤ
+    gender: 男
+    bloodtype: O
+    birthday: 1970/07/20
+    tel: 0428-95-3607
+    keitai: 070-1944-7238
+    mail: rikiya.hukuta@rakuten.co.jp
+    zip: 198-0063
+    address: 東京都青梅市梅郷4-10-6
+    address_kata: トウキョウトオウメシバイゴウ
+  - 'no': '392'
+    name: 望月 令
+    name_kata: モチヅキ レイ
+    gender: 女
+    bloodtype: B
+    birthday: 1970/02/20
+    tel: 078-197-8221
+    keitai: 090-6318-7867
+    mail: motiduki@eaccess.net
+    zip: 655-0013
+    address: 兵庫県神戸市垂水区福田7-1-1
+    address_kata: ヒョウゴケンコウベシタルミクフクダ
+  - 'no': '393'
+    name: 星野 光範
+    name_kata: ホシノ ミツノリ
+    gender: 男
+    bloodtype: B
+    birthday: 1991/11/12
+    tel: 03-3375-0579
+    keitai: 070-7129-8192
+    mail: onisoh91@example.com
+    zip: 157-0062
+    address: 東京都世田谷区南烏山3-14-2
+    address_kata: トウキョウトセタガヤクミナミカラスヤマ
+  - 'no': '394'
+    name: 新谷 麻紀
+    name_kata: シンタニ マキ
+    gender: 女
+    bloodtype: A
+    birthday: 1981/04/18
+    tel: 0836-65-0139
+    keitai: 090-2923-0370
+    mail: inatnis@example.ac.jp
+    zip: 755-0071
+    address: 山口県宇部市宮地町9-12-4
+    address_kata: ヤマグチケンウベシミヤジチョウ
+  - 'no': '395'
+    name: 小松 知生
+    name_kata: コマツ トモオ
+    gender: 男
+    bloodtype: O
+    birthday: 1994/11/15
+    tel: 03-3406-3285
+    keitai: 090-6023-3172
+    mail: komatu1620044@yahoo.co.jp
+    zip: 162-0044
+    address: 東京都新宿区喜久井町5-2-8
+    address_kata: トウキョウトシンジュククキクイチョウ
+  - 'no': '396'
+    name: 大崎 靖浩
+    name_kata: ダイサキ ヤスヒロ
+    gender: 男
+    bloodtype: B
+    birthday: 1970/03/10
+    tel: 0739-05-4672
+    keitai: 090-5466-8440
+    mail: ''
+    zip: 646-1211
+    address: 和歌山県田辺市和田2095
+    address_kata: ワカヤマケンタナベシワダ
+  - 'no': '397'
+    name: 角田 友
+    name_kata: スミタ トモ
+    gender: 女
+    bloodtype: B
+    birthday: 1970/01/28
+    tel: 042-868-8045
+    keitai: 070-3854-0364
+    mail: tomo_sumita@combzmail.jp
+    zip: 190-1222
+    address: 東京都西多摩郡瑞穂町箱根ヶ崎東松原3-9-3 ノースコート箱根ヶ崎東松原 708号室
+    address_kata: トウキョウトニシタマグンミズホマチハコネガサキヒガシマツバラ
+  - 'no': '398'
+    name: 森 恵志
+    name_kata: モリ ケイシ
+    gender: 男
+    bloodtype: B
+    birthday: 1985/03/20
+    tel: 0426-16-0133
+    keitai: 090-5493-1837
+    mail: mori_keisi@bbtec.net
+    zip: 192-0016
+    address: 東京都八王子市谷野町1-14-3
+    address_kata: トウキョウトハチオウジシヤノマチ
+  - 'no': '399'
+    name: 野田 満生
+    name_kata: ノダ ミツオ
+    gender: 男
+    bloodtype: O
+    birthday: 1989/10/18
+    tel: 044-379-3243
+    keitai: 090-0699-4543
+    mail: ''
+    zip: 211-0062
+    address: 神奈川県川崎市中原区小杉陣屋町6-8-2-1415
+    address_kata: カナガワケンカワサキシナカハラクコスギジンヤチョウ
+  - 'no': '400'
+    name: 松下 智子
+    name_kata: マツシタ トモコ
+    gender: 女
+    bloodtype: B
+    birthday: 1981/09/11
+    tel: 0153-81-4508
+    keitai: 080-3975-5684
+    mail: tstm@t-com.ne.jp
+    zip: 088-1553
+    address: 北海道厚岸郡浜中町霧多布西三条5-9-1
+    address_kata: ホッカイドウアッケシグンハマナカチョウキリタップニシ３ジョウ
+  - 'no': '401'
+    name: 大谷 優子
+    name_kata: オオタニ ユウコ
+    gender: 女
+    bloodtype: O
+    birthday: 1988/09/27
+    tel: 01537-5-6184
+    keitai: 090-5255-2795
+    mail: yuk@cuib.or.jp
+    zip: 086-1049
+    address: 北海道標津郡中標津町東九条北1-13-4
+    address_kata: ホッカイドウシベツグンナカシベツチョウヒガシ９ジョウキタ
+  - 'no': '402'
+    name: 竹田 繁美
+    name_kata: タケダ シゲミ
+    gender: 女
+    bloodtype: B
+    birthday: 1981/10/02
+    tel: 0797-74-9476
+    keitai: 090-5678-3543
+    mail: takeda81@geocities.com
+    zip: 665-0842
+    address: 兵庫県宝塚市川面8-1-6-1215
+    address_kata: ヒョウゴケンタカラヅカシカワモ
+  - 'no': '403'
+    name: 青山 裕香
+    name_kata: アオヤマ ユウカ
+    gender: 女
+    bloodtype: B
+    birthday: 1989/07/26
+    tel: 098-605-6855
+    keitai: 080-6025-8229
+    mail: ''
+    zip: 901-3702
+    address: 沖縄県島尻郡粟国村東7-7-3
+    address_kata: オキナワケンシマジリグンアグニソンヒガシ
+  - 'no': '404'
+    name: 柴田 茂也
+    name_kata: シバタ シゲヤ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/02/17
+    tel: 0175-10-9685
+    keitai: 090-1653-7109
+    mail: atabis0217@freeml.co.jp
+    zip: 039-3171
+    address: 青森県上北郡野辺地町二本木7-3-3 二本木寮 811
+    address_kata: アオモリケンカミキタグンノヘジマチニホンキ
+  - 'no': '405'
+    name: 宮沢 義幸
+    name_kata: ミヤザワ ヨシユキ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/04/27
+    tel: 0763-02-5871
+    keitai: 070-6375-7549
+    mail: yosiyukimiyazawa@hotmail.co.jp
+    zip: 939-1734
+    address: 富山県南砺市竹林7-13-5
+    address_kata: トヤマケンナントシタケバヤシ
+  - 'no': '406'
+    name: 熊谷 惣之助
+    name_kata: クマガイ ソウノスケ
+    gender: 男
+    bloodtype: A
+    birthday: 1986/01/13
+    tel: 075-787-6934
+    keitai: 090-0596-9111
+    mail: kumagai-sounosuke@cuib.or.jp
+    zip: 604-8166
+    address: 京都府京都市中京区御倉町1-6-4-504号室
+    address_kata: キョウトフキョウトシナカギョウクミクラチョウ
+  - 'no': '407'
+    name: 高瀬 成子
+    name_kata: タカセ セイコ
+    gender: 女
+    bloodtype: A
+    birthday: 1982/09/07
+    tel: 06-6760-8670
+    keitai: 090-4410-4923
+    mail: ''
+    zip: 579-8011
+    address: 大阪府東大阪市東石切町5-10-5
+    address_kata: オオサカフヒガシオオサカシヒガシイシキリチョウ
+  - 'no': '408'
+    name: 吉井 貴朗
+    name_kata: ヨシイ タカオ
+    gender: 男
+    bloodtype: B
+    birthday: 1970/10/10
+    tel: 0761-71-2613
+    keitai: 090-3683-9942
+    mail: yosii@livedoor.com
+    zip: 923-0072
+    address: 石川県小松市みどり町1465
+    address_kata: イシカワケンコマツシミドリマチ
+  - 'no': '409'
+    name: 石田 史男
+    name_kata: イシダ フミオ
+    gender: 男
+    bloodtype: A
+    birthday: 1976/09/14
+    tel: 03-3007-4296
+    keitai: ''
+    mail: isd-hmo@hotmail.com
+    zip: 120-0035
+    address: 東京都足立区千住中居町4-14-7
+    address_kata: トウキョウトアダチクセンジュナカイチョウ
+  - 'no': '410'
+    name: 寺田 ハルノ
+    name_kata: テラダ ハルノ
+    gender: 女
+    bloodtype: B
+    birthday: 1970/02/24
+    tel: 0771-03-9227
+    keitai: 090-4822-4633
+    mail: onurahgmo@gmo-media.jp
+    zip: 621-0856
+    address: 京都府亀岡市上矢田町5-10-4 上矢田町ビル 10階
+    address_kata: キョウトフカメオカシカミヤダチョウ
+  - 'no': '411'
+    name: 松浦 久近
+    name_kata: マツウラ ヒサチカ
+    gender: 男
+    bloodtype: A
+    birthday: 1983/09/28
+    tel: 0234-71-6958
+    keitai: 070-7496-6007
+    mail: akitasih1983@example.jp
+    zip: 999-8225
+    address: 山形県酒田市大島田8-7-6-6階
+    address_kata: ヤマガタケンサカタシオオシマダ
+  - 'no': '412'
+    name: 森川 俊憲
+    name_kata: モリカワ トシノリ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/06/05
+    tel: 03-3169-5647
+    keitai: 090-2847-0642
+    mail: ''
+    zip: 135-0065
+    address: 東京都江東区中央防波堤3-10-7 ミレニアム中央防波堤 10F
+    address_kata: トウキョウトコウトウクチュウオウボウハテイ
+  - 'no': '413'
+    name: 谷川 宏幸
+    name_kata: ヤガワ ヒロユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1980/01/11
+    tel: 024-174-8808
+    keitai: 090-6342-8603
+    mail: ikuyorih0111@livedoor.com
+    zip: 960-8076
+    address: 福島県福島市上野寺9292
+    address_kata: フクシマケンフクシマシカミノデラ
+  - 'no': '414'
+    name: 荻野 正進
+    name_kata: オギノ マサノブ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/07/12
+    tel: 075-755-4564
+    keitai: 090-8213-8373
+    mail: msnb1978@example.ne.jp
+    zip: 601-8024
+    address: 京都府京都市南区東九条東札辻町8-4-7
+    address_kata: キョウトフキョウトシミナミクヒガシクジョウヒガシフダノツジチョウ
+  - 'no': '415'
+    name: 徳永 佐十郎
+    name_kata: トクナガ サジュウロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1990/10/03
+    tel: 077-410-9536
+    keitai: 090-3803-6634
+    mail: uoruujas1990@web.ad.jp
+    zip: 524-0043
+    address: 滋賀県守山市二町町5-2-6
+    address_kata: シガケンモリヤマシフタマチチョウ
+  - 'no': '416'
+    name: 戸田 保光
+    name_kata: トダ ヤスミツ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/04/11
+    tel: 0536-68-3467
+    keitai: 080-5140-3361
+    mail: toda.yasumitu@infoseek.jp
+    zip: 449-0401
+    address: 愛知県北設楽郡豊根村三沢5260
+    address_kata: アイチケンキタシタラグントヨネムラミサワ
+  - 'no': '417'
+    name: 工藤 喜代信
+    name_kata: クドウ キヨノブ
+    gender: 男
+    bloodtype: O
+    birthday: 1970/07/28
+    tel: 0958-48-6751
+    keitai: 090-4608-4310
+    mail: kiyonobu8500942@example.org
+    zip: 850-0942
+    address: 長崎県長崎市南町1-4-7
+    address_kata: ナガサキケンナガサキシミナミマチ
+  - 'no': '418'
+    name: 中田 美次
+    name_kata: ナカタ ヨシツグ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/03/22
+    tel: 0547-56-9404
+    keitai: 090-8875-2929
+    mail: ugutisoy82@freeml.co.jp
+    zip: 427-0044
+    address: 静岡県島田市宮川町1730
+    address_kata: シズオカケンシマダシミヤガワチョウ
+  - 'no': '419'
+    name: 北川 雅
+    name_kata: キタカワ ミヤビ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/09/24
+    tel: 03-3261-2662
+    keitai: 080-8434-1805
+    mail: awakatik@sakura.ne.jp
+    zip: 142-0064
+    address: 東京都品川区旗の台6-14-6 エスポワール旗の台 9階
+    address_kata: トウキョウトシナガワクハタノダイ
+  - 'no': '420'
+    name: 小沢 光善
+    name_kata: オザワ ミツヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/03/06
+    tel: 0173-27-7762
+    keitai: 090-4292-7019
+    mail: ozawa87@example.gr.jp
+    zip: 037-0081
+    address: 青森県五所川原市新宮4-14-9
+    address_kata: アオモリケンゴショガワラシシンミヤ
+  - 'no': '421'
+    name: 宮城 知明
+    name_kata: ミヤギ トモアキ
+    gender: 男
+    bloodtype: O
+    birthday: 1994/10/27
+    tel: 024-152-0168
+    keitai: 070-4366-2098
+    mail: tomoaki20111124@infoseek.jp
+    zip: 963-0122
+    address: 福島県郡山市三穂田町野田4387
+    address_kata: フクシマケンコオリヤマシミホタマチノダ
+  - 'no': '422'
+    name: 堀内 明寛
+    name_kata: ホリウチ アキヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1980/11/13
+    tel: 0866-13-8635
+    keitai: 090-9752-8184
+    mail: ''
+    zip: 716-0065
+    address: 岡山県高梁市松原町大津寄6588
+    address_kata: オカヤマケンタカハシシマツバラチョウオオヅヨリ
+  - 'no': '423'
+    name: 高瀬 絵里
+    name_kata: タカセ エリ
+    gender: 女
+    bloodtype: A
+    birthday: 1984/06/21
+    tel: 042-130-2960
+    keitai: 090-5197-2868
+    mail: tks84@excite.co.jp
+    zip: 208-0035
+    address: 東京都武蔵村山市中原9-1-9
+    address_kata: トウキョウトムサシムラヤマシナカハラ
+  - 'no': '424'
+    name: 大橋 杏子
+    name_kata: オオハシ キョウコ
+    gender: 女
+    bloodtype: O
+    birthday: 1976/12/17
+    tel: 042-138-3190
+    keitai: 070-1203-7327
+    mail: kyouko76@sunfield.ne.jp
+    zip: 188-0012
+    address: 東京都西東京市南町3-4-7 コンフォート南町 1205号室
+    address_kata: トウキョウトニシトウキョウシミナミチョウ
+  - 'no': '425'
+    name: 富永 ハルノ
+    name_kata: トミナガ ハルノ
+    gender: 女
+    bloodtype: A
+    birthday: 1989/07/14
+    tel: 03-3811-9996
+    keitai: 090-2741-3054
+    mail: ''
+    zip: 144-0034
+    address: 東京都大田区西糀谷2-12-8
+    address_kata: トウキョウトオオタクニシコウジヤ
+  - 'no': '426'
+    name: 柳田 美緒
+    name_kata: ヤナギタ ミオ
+    gender: 女
+    bloodtype: A
+    birthday: 1992/09/11
+    tel: 0220-09-8594
+    keitai: ''
+    mail: oim9219831231@ocn.ne.jp
+    zip: 987-0444
+    address: 宮城県登米市南方町角欠前6357
+    address_kata: ミヤギケントメシミナミカタマチツノガケマエ
+  - 'no': '427'
+    name: 田島 勝司
+    name_kata: タシマ カツシ
+    gender: 男
+    bloodtype: B
+    birthday: 1977/09/02
+    tel: 097-279-4360
+    keitai: 090-4466-8032
+    mail: katusi4360@livedoor.com
+    zip: 870-0036
+    address: 大分県大分市寿町7-2-1
+    address_kata: オオイタケンオオイタシコトブキマチ
+  - 'no': '428'
+    name: 市川 希美
+    name_kata: イチカワ ノゾミ
+    gender: 女
+    bloodtype: O
+    birthday: 1990/09/06
+    tel: 03-3972-9287
+    keitai: 090-7360-8957
+    mail: imozon135@example.co.jp
+    zip: 135-0064
+    address: 東京都江東区青海8-2-1
+    address_kata: トウキョウトコウトウクアオミ
+  - 'no': '429'
+    name: 市川 完一
+    name_kata: イチカワ カンイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1984/12/12
+    tel: 098-794-1578
+    keitai: 070-1707-7933
+    mail: itkw_knt@infoseek.jp
+    zip: 901-2315
+    address: 沖縄県中頭郡北中城村荻道3-7-1
+    address_kata: オキナワケンナカガミグンキタナカグスクソンオギドウ
+  - 'no': '430'
+    name: 古谷 亜由美
+    name_kata: コタニ アユミ
+    gender: 女
+    bloodtype: A
+    birthday: 1982/01/04
+    tel: 086-419-7922
+    keitai: 090-2007-0810
+    mail: ''
+    zip: 703-8258
+    address: 岡山県岡山市西川原3580
+    address_kata: オカヤマケンオカヤマシニシガワラ
+  - 'no': '431'
+    name: 三谷 竹一
+    name_kata: ミタニ タケイチ
+    gender: 男
+    bloodtype: O
+    birthday: 1980/04/18
+    tel: 0242-73-7171
+    keitai: 090-2795-2263
+    mail: takeiti969@ybb.ne.jp
+    zip: 969-5121
+    address: 福島県会津若松市大戸町上三寄南原4-12-3
+    address_kata: フクシマケンアイヅワカマツシオオトマチカミミヨリミナミハラ
+  - 'no': '432'
+    name: 平野 治行
+    name_kata: ヒラノ ハルユキ
+    gender: 男
+    bloodtype: AB
+    birthday: 1990/11/28
+    tel: 0958-62-6360
+    keitai: 090-9670-0459
+    mail: haruyuki.hirano@scuba-diver.jp
+    zip: 852-8052
+    address: 長崎県長崎市岩屋町7-13-1
+    address_kata: ナガサキケンナガサキシイワヤマチ
+  - 'no': '433'
+    name: 杉山 憲志
+    name_kata: スギヤマ ノリユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/02/10
+    tel: 011-087-1453
+    keitai: 090-6811-4798
+    mail: sgym@freeml.co.jp
+    zip: 061-1127
+    address: 北海道北広島市新富町西1-12-8
+    address_kata: ホッカイドウキタヒロシマシシントミチョウニシ
+  - 'no': '434'
+    name: 上野 省次郎
+    name_kata: ウエノ ショウジロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1990/04/02
+    tel: 0241-57-4277
+    keitai: 090-2053-2295
+    mail: syuzru966@example.or.jp
+    zip: 966-0843
+    address: 福島県喜多方市東籠田1-10-9 ボヌール東籠田 4F
+    address_kata: フクシマケンキタカタシヒガシカゴタ
+  - 'no': '435'
+    name: 渋谷 和海
+    name_kata: シブタニ カズミ
+    gender: 男
+    bloodtype: B
+    birthday: 1979/09/02
+    tel: 075-503-3723
+    keitai: 070-1827-1078
+    mail: kzm19799791mzk@example.ac.jp
+    zip: 606-0054
+    address: 京都府京都市左京区上高野三反田町9-9-7 カーム上高野三反田町 706
+    address_kata: キョウトフキョウトシサキョウクカミタカノサンタンダチョウ
+  - 'no': '436'
+    name: 森川 良秋
+    name_kata: モリカワ ヨシアキ
+    gender: 男
+    bloodtype: O
+    birthday: 1976/04/18
+    tel: 0426-04-4306
+    keitai: 070-1838-7964
+    mail: ''
+    zip: 193-0834
+    address: 東京都八王子市東浅川町1-11-7
+    address_kata: トウキョウトハチオウジシヒガシアサカワマチ
+  - 'no': '437'
+    name: 土井 恵志
+    name_kata: ドイ ケイシ
+    gender: 男
+    bloodtype: O
+    birthday: 1989/06/25
+    tel: 084-782-7606
+    keitai: 070-7024-6908
+    mail: doi118@mesh.ne.jp
+    zip: 720-1132
+    address: 広島県福山市駅家町倉光1-1-8
+    address_kata: ヒロシマケンフクヤマシエキヤチョウクラミツ
+  - 'no': '438'
+    name: 岩本 清名
+    name_kata: イワモト セイナ
+    gender: 女
+    bloodtype: A
+    birthday: 1982/08/05
+    tel: 0565-62-6445
+    keitai: 090-5371-6941
+    mail: iwmt.sin@dsn.ad.jp
+    zip: 444-2844
+    address: 愛知県豊田市伯母沢町4-6-5
+    address_kata: アイチケントヨタシオバザワチョウ
+  - 'no': '439'
+    name: 岡野 敬吉
+    name_kata: オカノ ケイキチ
+    gender: 男
+    bloodtype: A
+    birthday: 1991/05/08
+    tel: 042-023-3773
+    keitai: 090-8877-3278
+    mail: keikiti0508@tokyo24.com
+    zip: 182-0025
+    address: 東京都調布市多摩川7-8-1
+    address_kata: トウキョウトチョウフシタマガワ
+  - 'no': '440'
+    name: 堀内 麻紀
+    name_kata: ホリウチ マキ
+    gender: 女
+    bloodtype: A
+    birthday: 1987/01/31
+    tel: 0984-39-6512
+    keitai: 090-2750-8470
+    mail: ikam9437@yahoo.co.jp
+    zip: 889-4241
+    address: 宮崎県えびの市西郷9-4-3 アーバンライフ西郷 7階
+    address_kata: ミヤザキケンエビノシサイゴウ
+  - 'no': '441'
+    name: 柏木 亜衣
+    name_kata: カシワギ アイ
+    gender: 女
+    bloodtype: A
+    birthday: 1973/10/12
+    tel: 024-693-0658
+    keitai: 090-6068-0319
+    mail: igawisak@odn.ne.jp
+    zip: 960-0463
+    address: 福島県伊達市田町7-11-7
+    address_kata: フクシマケンダテシタマチ
+  - 'no': '442'
+    name: 大石 真里
+    name_kata: オオイシ マリ
+    gender: 女
+    bloodtype: O
+    birthday: 1974/04/01
+    tel: 0422-99-3465
+    keitai: 090-6412-3194
+    mail: ois.mr@bbtec.net
+    zip: 180-0022
+    address: 東京都武蔵野市境4-8-1
+    address_kata: トウキョウトムサシノシサカイ
+  - 'no': '443'
+    name: 小林 裕紀
+    name_kata: コバヤシ ヒロキ
+    gender: 男
+    bloodtype: B
+    birthday: 1975/12/24
+    tel: 0174-95-3892
+    keitai: 070-8663-4875
+    mail: hrk.kbys@cuib.or.jp
+    zip: 030-1212
+    address: 青森県東津軽郡蓬田村阿弥陀川1-15-9
+    address_kata: アオモリケンヒガシツガルグンヨモギタムラアミダガワ
+  - 'no': '444'
+    name: 平田 寿美
+    name_kata: ヒラタ ヒサミ
+    gender: 女
+    bloodtype: O
+    birthday: 1987/03/13
+    tel: 0228-89-5417
+    keitai: 070-8743-7383
+    mail: imasih0313@tokyo24.com
+    zip: 987-2344
+    address: 宮城県栗原市一迫宮下6377
+    address_kata: ミヤギケンクリハラシイチハサマミヤジタ
+  - 'no': '445'
+    name: 徳田 栄之介
+    name_kata: トクタ エイノスケ
+    gender: 男
+    bloodtype: A
+    birthday: 1973/09/11
+    tel: 03-3726-0909
+    keitai: 090-0039-7359
+    mail: tkt73@example.org
+    zip: 144-0053
+    address: 東京都大田区蒲田本町3327
+    address_kata: トウキョウトオオタクカマタホンチョウ
+  - 'no': '446'
+    name: 入江 正宣
+    name_kata: イリエ マサノリ
+    gender: 男
+    bloodtype: O
+    birthday: 1987/08/28
+    tel: 0248-65-7403
+    keitai: 070-1639-3199
+    mail: ironasam87@nifty.jp
+    zip: 962-0512
+    address: 福島県岩瀬郡天栄村飯豊8-9-3
+    address_kata: フクシマケンイワセグンテンエイムライイトヨ
+  - 'no': '447'
+    name: 清水 家継
+    name_kata: シミズ イエツグ
+    gender: 男
+    bloodtype: A
+    birthday: 1986/10/16
+    tel: 03-3099-1584
+    keitai: 090-1335-5090
+    mail: gti1016@web.ad.jp
+    zip: 145-0066
+    address: 東京都大田区南雪谷1987
+    address_kata: トウキョウトオオタクミナミユキガヤ
+  - 'no': '448'
+    name: 佐野 ナツ子
+    name_kata: サノ ナツコ
+    gender: 女
+    bloodtype: O
+    birthday: 1985/08/12
+    tel: 0575-12-9794
+    keitai: 090-0724-2887
+    mail: ntk.sn@rakuten.co.jp
+    zip: 501-3839
+    address: 岐阜県関市長住町1-10-9
+    address_kata: ギフケンセキシナガズミチョウ
+  - 'no': '449'
+    name: 安部 とみ子
+    name_kata: アベ トミコ
+    gender: 女
+    bloodtype: A
+    birthday: 1989/11/05
+    tel: 048-570-4222
+    keitai: 070-5198-3894
+    mail: kmttmk@dsn.ad.jp
+    zip: 340-0033
+    address: 埼玉県草加市柳島町6-11-8
+    address_kata: サイタマケンソウカシヤナギシマチョウ
+  - 'no': '450'
+    name: 上村 夕子
+    name_kata: ウエムラ ユウコ
+    gender: 女
+    bloodtype: B
+    birthday: 1970/06/08
+    tel: 0276-51-2851
+    keitai: 090-5074-4376
+    mail: rmu@example.com
+    zip: 374-0132
+    address: 群馬県邑楽郡板倉町板倉9-8-7
+    address_kata: グンマケンオウラグンイタクラマチイタクラ
+  - 'no': '451'
+    name: 千葉 信広
+    name_kata: チバ ノブヒロ
+    gender: 男
+    bloodtype: O
+    birthday: 1979/12/19
+    tel: 0479-34-1221
+    keitai: 090-8554-4485
+    mail: tiba7920070526@iij.ad.jp
+    zip: 289-2112
+    address: 千葉県匝瑳市荻野8-5-1
+    address_kata: チバケンソウサシオギノ
+  - 'no': '452'
+    name: 岸 なつみ
+    name_kata: キシ ナツミ
+    gender: 女
+    bloodtype: A
+    birthday: 1976/02/10
+    tel: 025-034-7550
+    keitai: 090-4428-9253
+    mail: natumi@example.ad.jp
+    zip: 946-0107
+    address: '新潟県魚沼市清本9-15-9 メゾン清本 '
+    address_kata: ニイガタケンウオヌマシキヨモト
+  - 'no': '453'
+    name: 島田 友美
+    name_kata: シマダ トモミ
+    gender: 女
+    bloodtype: O
+    birthday: 1990/12/28
+    tel: 03-3399-9701
+    keitai: 090-9098-0584
+    mail: tomomi_simada@sannet.ne.jp
+    zip: 162-0045
+    address: 東京都新宿区馬場下町4-11-7
+    address_kata: トウキョウトシンジュククババシタチョウ
+  - 'no': '454'
+    name: 河村 知生
+    name_kata: コウムラ トモオ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/11/30
+    tel: 03-3915-9990
+    keitai: 090-7097-4783
+    mail: koumura1985@infoweb.ne.jp
+    zip: 133-0071
+    address: '東京都江戸川区東松本6-8-1 Kコーポ東松本 '
+    address_kata: トウキョウトエドガワクヒガシマツモト
+  - 'no': '455'
+    name: 前田 久紀
+    name_kata: マエタ ヒサノリ
+    gender: 男
+    bloodtype: AB
+    birthday: 1977/06/05
+    tel: 03-3091-7461
+    keitai: 090-7739-5370
+    mail: ironasih77@nifty.com
+    zip: 160-0002
+    address: 東京都新宿区坂町1-9-2 プチドミール坂町 403号室
+    address_kata: トウキョウトシンジュククサカマチ
+  - 'no': '456'
+    name: 大石 雅近
+    name_kata: オオイシ マサチカ
+    gender: 男
+    bloodtype: B
+    birthday: 1977/09/22
+    tel: 0826-53-2245
+    keitai: 090-9009-2125
+    mail: ktsm77@example.ad.jp
+    zip: 731-3621
+    address: 広島県山県郡安芸太田町下筒賀3-6-7
+    address_kata: ヒロシマケンヤマガタグンアキオオタチョウシモツツガ
+  - 'no': '457'
+    name: 神田 理香
+    name_kata: カンダ リカ
+    gender: 女
+    bloodtype: A
+    birthday: 1985/05/22
+    tel: 01566-6-4539
+    keitai: 090-6718-2111
+    mail: kanda_rika@example.org
+    zip: 089-0125
+    address: 北海道上川郡清水町本通西6100
+    address_kata: ホッカイドウカミカワグンシミズチョウホンドオリニシ
+  - 'no': '458'
+    name: 栗原 三重子
+    name_kata: クリハラ ミエコ
+    gender: 女
+    bloodtype: O
+    birthday: 1970/07/27
+    tel: 0794-61-8831
+    keitai: 090-7406-1847
+    mail: ''
+    zip: 673-0532
+    address: 兵庫県三木市緑が丘町中5-14-1
+    address_kata: ヒョウゴケンミキシミドリガオカチョウナカ
+  - 'no': '459'
+    name: 清水 元久
+    name_kata: シミズ モトヒサ
+    gender: 男
+    bloodtype: O
+    birthday: 1981/08/10
+    tel: 075-500-3379
+    keitai: 090-0445-2977
+    mail: smz0810@example.jp
+    zip: 602-8406
+    address: 京都府京都市上京区花開院町4-11-5 カーム花開院町 1512号室
+    address_kata: キョウトフキョウトシカミギョウクケイカインチョウ
+  - 'no': '460'
+    name: 柏木 威佐夫
+    name_kata: カシワギ イサオ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/01/24
+    tel: 059-679-9518
+    keitai: 090-8037-6840
+    mail: kswg514@nifty.jp
+    zip: 514-0836
+    address: 三重県津市野崎垣内岩田3-14-7-304号室
+    address_kata: ミエケンツシノザキガイトイワタ
+  - 'no': '461'
+    name: 三上 成子
+    name_kata: ミカミ セイコ
+    gender: 女
+    bloodtype: O
+    birthday: 1980/10/04
+    tel: 052-152-3397
+    keitai: 090-0466-2436
+    mail: mikami-seiko@freeml.co.jp
+    zip: 453-0858
+    address: 愛知県名古屋市中村区野田町8-8-4
+    address_kata: アイチケンナゴヤシナカムラクノダチョウ
+  - 'no': '462'
+    name: 青木 沙耶香
+    name_kata: アオキ サヤカ
+    gender: 女
+    bloodtype: A
+    birthday: 1990/10/26
+    tel: 0776-15-2863
+    keitai: ''
+    mail: ak286320150501@mail.goo.ne.jp
+    zip: 918-8062
+    address: 福井県福井市下市町1-8-3
+    address_kata: フクイケンフクイシシモイチチョウ
+  - 'no': '463'
+    name: 稲葉 保平
+    name_kata: イナバ ヤスヘイ
+    gender: 男
+    bloodtype: B
+    birthday: 1976/12/31
+    tel: 096-914-0953
+    keitai: 090-8370-1047
+    mail: inabayasuhei@example.gr.jp
+    zip: 862-0968
+    address: 熊本県熊本市馬渡3-7-9
+    address_kata: クマモトケンクマモトシマワタリ
+  - 'no': '464'
+    name: 須田 元久
+    name_kata: スダ モトヒサ
+    gender: 男
+    bloodtype: O
+    birthday: 1974/06/21
+    tel: 086-449-9707
+    keitai: 090-2975-1182
+    mail: suda7090732@example.net
+    zip: 709-0732
+    address: 岡山県赤磐市可真下1-15-3
+    address_kata: オカヤマケンアカイワシカマシモ
+  - 'no': '465'
+    name: 湯浅 偉生
+    name_kata: ユアサ ヒデオ
+    gender: 男
+    bloodtype: AB
+    birthday: 1979/01/09
+    tel: 0157-76-7194
+    keitai: ''
+    mail: yuasa@sannet.ne.jp
+    zip: 099-1436
+    address: 北海道常呂郡訓子府町大町4-9-7
+    address_kata: ホッカイドウトコログンクンネップチョウオオマチ
+  - 'no': '466'
+    name: 金田 利次
+    name_kata: カナダ トシジ
+    gender: 男
+    bloodtype: B
+    birthday: 1985/10/09
+    tel: 0229-93-6935
+    keitai: 070-8623-9440
+    mail: tosizi.kanada@nifty.jp
+    zip: 989-4308
+    address: 宮城県大崎市田尻沼部7-11-7
+    address_kata: ミヤギケンオオサキシタジリヌマベ
+  - 'no': '467'
+    name: 谷本 酉蔵
+    name_kata: タニモト トリゾウ
+    gender: 男
+    bloodtype: A
+    birthday: 1979/09/26
+    tel: 075-004-7229
+    keitai: 090-1942-4541
+    mail: ''
+    zip: 604-8175
+    address: 京都府京都市中京区円福寺町4-2-9 クローバーステイ円福寺町 2F
+    address_kata: キョウトフキョウトシナカギョウクエンプクジチョウ
+  - 'no': '468'
+    name: 福永 英充
+    name_kata: フクナガ ヒデミツ
+    gender: 男
+    bloodtype: O
+    birthday: 1977/11/15
+    tel: 0567-35-7621
+    keitai: 090-8009-4341
+    mail: ''
+    zip: 498-0041
+    address: 愛知県弥富市芝井8-5-6
+    address_kata: アイチケンヤトミシシバイ
+  - 'no': '469'
+    name: 北野 十志夫
+    name_kata: キタノ トシオ
+    gender: 男
+    bloodtype: O
+    birthday: 1991/01/08
+    tel: 0478-10-3444
+    keitai: 090-0183-0673
+    mail: onatik2890338@example.ad.jp
+    zip: 289-0338
+    address: 千葉県香取市下小川9727
+    address_kata: チバケンカトリシシモオガワ
+  - 'no': '470'
+    name: 斎藤 章緒
+    name_kata: サイトウ アキオ
+    gender: 女
+    bloodtype: O
+    birthday: 1993/04/11
+    tel: 0958-96-8315
+    keitai: 070-4539-8785
+    mail: utis@coara.or.jp
+    zip: 857-0071
+    address: 長崎県長崎市池島町7-12-8 池島町アパート 109
+    address_kata: ナガサキケンナガサキシイケシママチ
+  - 'no': '471'
+    name: 中村 良司
+    name_kata: ナカムラ リョウジ
+    gender: 男
+    bloodtype: O
+    birthday: 1977/02/27
+    tel: 082-473-3135
+    keitai: 070-0669-4337
+    mail: ryouzi_nakamura@goo.ne.jp
+    zip: 739-0131
+    address: 広島県東広島市八本松町篠5-8-7
+    address_kata: ヒロシマケンヒガシヒロシマシハチホンマツチョウササ
+  - 'no': '472'
+    name: 山口 絢子
+    name_kata: ヤマグチ アヤコ
+    gender: 女
+    bloodtype: O
+    birthday: 1980/01/10
+    tel: 0197-40-9125
+    keitai: 090-9214-9371
+    mail: tgmy1980@comeon.to
+    zip: 029-4207
+    address: 岩手県奥州市前沢区三日町4-15-3
+    address_kata: イワテケンオウシュウシマエサワクミッカマチ
+  - 'no': '473'
+    name: 内海 とく子
+    name_kata: ウチウミ トクコ
+    gender: 女
+    bloodtype: A
+    birthday: 1994/04/13
+    tel: 0248-22-7958
+    keitai: ''
+    mail: kkt674@asp.home.ne.jp
+    zip: 961-0866
+    address: 福島県白河市鶴芝6-7-4
+    address_kata: フクシマケンシラカワシツルシバ
+  - 'no': '474'
+    name: 野崎 幸博
+    name_kata: ノザキ ユキヒロ
+    gender: 男
+    bloodtype: A
+    birthday: 1978/02/25
+    tel: 054-209-3152
+    keitai: 090-9572-7948
+    mail: yukihiro-nozaki@tiki.ne.jp
+    zip: 424-0024
+    address: 静岡県静岡市清水区八坂東1-14-1
+    address_kata: シズオカケンシズオカシシミズクヤサカヒガシ
+  - 'no': '475'
+    name: 石井 顕太郎
+    name_kata: イシイ ケンタロウ
+    gender: 男
+    bloodtype: AB
+    birthday: 1986/04/16
+    tel: 0254-34-9292
+    keitai: 080-8488-3692
+    mail: kentarou0416@nifty.com
+    zip: 959-3935
+    address: 新潟県岩船郡山北町北田中3-14-2 エポカ北田中 4F
+    address_kata: ニイガタケンイワフネグンサンポクマチキタタナカ
+  - 'no': '476'
+    name: 山内 治次
+    name_kata: ヤマウチ ハルジ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/12/13
+    tel: 076-050-4094
+    keitai: 080-3102-9307
+    mail: izurah1213@infoseek.co.jp
+    zip: 930-0842
+    address: 富山県富山市窪新町3663
+    address_kata: トヤマケントヤマシクボシンマチ
+  - 'no': '477'
+    name: 杉原 とく子
+    name_kata: スギハラ トクコ
+    gender: 女
+    bloodtype: O
+    birthday: 1970/09/01
+    tel: 03-3258-3652
+    keitai: 090-6606-0674
+    mail: kkt1340083@excite.co.jp
+    zip: 134-0083
+    address: 東京都江戸川区中葛西3-2-4-1F
+    address_kata: トウキョウトエドガワクナカカサイ
+  - 'no': '478'
+    name: 上野 智治
+    name_kata: ウエノ トモハル
+    gender: 男
+    bloodtype: O
+    birthday: 1972/02/01
+    tel: 042-054-4130
+    keitai: 090-1555-0570
+    mail: ueno207@asp.home.ne.jp
+    zip: 207-0015
+    address: 東京都東大和市中央4-14-2
+    address_kata: トウキョウトヒガシヤマトシチュウオウ
+  - 'no': '479'
+    name: 長田 秋代
+    name_kata: オサダ アキヨ
+    gender: 女
+    bloodtype: O
+    birthday: 1973/05/30
+    tel: 0574-63-7784
+    keitai: 090-6746-9483
+    mail: aky-osddso-yka@example.ac.jp
+    zip: 505-0532
+    address: 岐阜県加茂郡八百津町南戸1-2-7
+    address_kata: ギフケンカモグンヤオツチョウミナト
+  - 'no': '480'
+    name: 松浦 恵
+    name_kata: マツウラ メグミ
+    gender: 女
+    bloodtype: O
+    birthday: 1984/08/02
+    tel: 0955-59-4442
+    keitai: 070-3676-4526
+    mail: aruutam84@rakuten.co.jp
+    zip: 848-0013
+    address: 佐賀県伊万里市南波多町笠椎7275
+    address_kata: サガケンイマリシミナミハタチョウカサジ
+  - 'no': '481'
+    name: 土田 征四郎
+    name_kata: トダ セイシロウ
+    gender: 男
+    bloodtype: O
+    birthday: 1970/01/09
+    tel: 0721-71-2267
+    keitai: 090-0801-4198
+    mail: tdsisru@nifty.com
+    zip: 586-0002
+    address: 大阪府河内長野市市町7-4-2
+    address_kata: オオサカフカワチナガノシイチチョウ
+  - 'no': '482'
+    name: 松原 重文
+    name_kata: マツバラ シゲフミ
+    gender: 男
+    bloodtype: O
+    birthday: 1977/01/14
+    tel: 03-3471-8715
+    keitai: 090-4714-7770
+    mail: sigehumi@example.org
+    zip: 121-0834
+    address: 東京都足立区入谷町1225
+    address_kata: トウキョウトアダチクイリヤマチ
+  - 'no': '483'
+    name: 新谷 繁造
+    name_kata: シンタニ シゲゾウ
+    gender: 男
+    bloodtype: A
+    birthday: 1981/03/12
+    tel: 026-899-5498
+    keitai: 090-4769-1028
+    mail: sgzu0312@mesh.ne.jp
+    zip: 381-0212
+    address: 長野県上高井郡小布施町吉島3-7-4 サンコーポラス吉島 8階
+    address_kata: ナガノケンカミタカイグンオブセマチヨシジマ
+  - 'no': '484'
+    name: 宮沢 益已
+    name_kata: ミヤザワ マスミ
+    gender: 男
+    bloodtype: A
+    birthday: 1993/02/15
+    tel: 0968-44-1426
+    keitai: 090-4780-2507
+    mail: awazayim864@eaccess.net
+    zip: 864-0161
+    address: 熊本県荒尾市菰屋8-4-9
+    address_kata: クマモトケンアラオシコモヤ
+  - 'no': '485'
+    name: 三浦 美智
+    name_kata: ミウラ ミチ
+    gender: 女
+    bloodtype: A
+    birthday: 1974/03/27
+    tel: 0550-46-9330
+    keitai: 070-1429-1704
+    mail: ''
+    zip: 412-0038
+    address: 静岡県御殿場市駒門1-11-9
+    address_kata: シズオカケンゴテンバシコマカド
+  - 'no': '486'
+    name: 浜崎 昭良
+    name_kata: ハマサキ アキヨシ
+    gender: 男
+    bloodtype: O
+    birthday: 1973/11/12
+    tel: 096-131-1197
+    keitai: ''
+    mail: akiyosi1197@dion.ne.jp
+    zip: 860-0862
+    address: 熊本県熊本市黒髪7-3-8 ハイツドリーム黒髪 12階
+    address_kata: クマモトケンクマモトシクロカミ
+  - 'no': '487'
+    name: 平田 豊秋
+    name_kata: ヒラタ トヨアキ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/08/02
+    tel: 0883-85-9800
+    keitai: 090-1310-4498
+    mail: trh7795303@combzmail.jp
+    zip: 779-5303
+    address: 徳島県三好市山城町下川2-9-9 エチュード山城町下川 1507号室
+    address_kata: トクシマケンミヨシシヤマシロチョウシモカワ
+  - 'no': '488'
+    name: 篠崎 直幸
+    name_kata: シノサキ ナオユキ
+    gender: 男
+    bloodtype: O
+    birthday: 1994/04/13
+    tel: 0436-82-9965
+    keitai: 090-6779-7805
+    mail: ikasonis94@example.net
+    zip: 290-0179
+    address: 千葉県市原市久々津8-4-3
+    address_kata: チバケンイチハラシクグツ
+  - 'no': '489'
+    name: 上村 ひびき
+    name_kata: ウエムラ ヒビキ
+    gender: 男
+    bloodtype: O
+    birthday: 1984/12/12
+    tel: 052-807-8893
+    keitai: 090-4398-5055
+    mail: uemura@aitai.ne.jp
+    zip: 464-0065
+    address: 愛知県名古屋市千種区堀割町5-8-6
+    address_kata: アイチケンナゴヤシチクサクホリワリチョウ
+  - 'no': '490'
+    name: 土田 昭子
+    name_kata: トダ テルコ
+    gender: 女
+    bloodtype: B
+    birthday: 1972/08/09
+    tel: 092-228-3608
+    keitai: 070-2505-2096
+    mail: krtkrt@example.ad.jp
+    zip: 816-0096
+    address: 福岡県福岡市博多区東光寺町2-10-1
+    address_kata: フクオカケンフクオカシハカタクトウコウジマチ
+  - 'no': '491'
+    name: 竹下 房男
+    name_kata: タケシタ フサオ
+    gender: 男
+    bloodtype: A
+    birthday: 1985/02/06
+    tel: 0568-44-0144
+    keitai: 090-5622-2452
+    mail: atisekat@dti.ad.jp
+    zip: 486-0917
+    address: 愛知県春日井市美濃町5-10-1 トーシンコーポ美濃町 1106
+    address_kata: アイチケンカスガイシミノマチ
+  - 'no': '492'
+    name: 小西 利次
+    name_kata: コニシ トシジ
+    gender: 男
+    bloodtype: B
+    birthday: 1982/06/13
+    tel: 052-596-6765
+    keitai: 090-0021-8160
+    mail: zst458@gmail.com
+    zip: 458-0042
+    address: 愛知県名古屋市緑区高根台6-7-3 ミレニアム高根台 15F
+    address_kata: アイチケンナゴヤシミドリクタカネダイ
+  - 'no': '493'
+    name: 小笠原 利人
+    name_kata: オガサハラ トシヒト
+    gender: 男
+    bloodtype: O
+    birthday: 1983/11/27
+    tel: 0123-44-0615
+    keitai: 090-3716-8683
+    mail: tosihitoogasahara@gmo-media.jp
+    zip: 066-0073
+    address: 北海道千歳市北斗9-15-7 ウインベル・北斗 1501号室
+    address_kata: ホッカイドウチトセシホクト
+  - 'no': '494'
+    name: 榊原 伸二
+    name_kata: サカキハラ シンジ
+    gender: 男
+    bloodtype: B
+    birthday: 1978/10/16
+    tel: 058-266-1928
+    keitai: 090-1883-6858
+    mail: sakakihara1928@ocn.ne.jp
+    zip: 501-6077
+    address: 岐阜県羽島郡笠松町天王町6-2-7
+    address_kata: ギフケンハシマグンカサマツチョウテンノウチョウ
+  - 'no': '495'
+    name: 佐伯 雅近
+    name_kata: サイキ マサチカ
+    gender: 男
+    bloodtype: AB
+    birthday: 1988/08/06
+    tel: 0859-40-3457
+    keitai: 070-0855-1722
+    mail: saiki.masatika@plala.or.jp
+    zip: 689-3311
+    address: 鳥取県西伯郡大山町宮内6-8-7
+    address_kata: トットリケンサイハクグンダイセンチョウミヤウチ
+  - 'no': '496'
+    name: 泉 僧三郎
+    name_kata: イズミ ソウザブロウ
+    gender: 男
+    bloodtype: A
+    birthday: 1987/11/21
+    tel: 0994-99-5442
+    keitai: 090-9857-1289
+    mail: mzi1121mzi1121@excite.com
+    zip: 893-0014
+    address: 鹿児島県鹿屋市寿8-8-6-1207号室
+    address_kata: カゴシマケンカノヤシコトブキ
+  - 'no': '497'
+    name: 小谷 晴生
+    name_kata: コタニ ハルオ
+    gender: 男
+    bloodtype: O
+    birthday: 1972/08/12
+    tel: 0748-41-9311
+    keitai: 070-5984-7579
+    mail: inatok72@livedoor.com
+    zip: 528-0033
+    address: 滋賀県甲賀市水口町綾野9-2-1-1112
+    address_kata: シガケンコウカシミナクチチョウアヤノ
+  - 'no': '498'
+    name: 森下 完一
+    name_kata: モリシタ カンイチ
+    gender: 男
+    bloodtype: A
+    birthday: 1972/12/31
+    tel: 0266-41-2912
+    keitai: ''
+    mail: atisirom392@tiki.ne.jp
+    zip: 392-0024
+    address: 長野県諏訪市小和田6-3-6
+    address_kata: ナガノケンスワシコワタ
+  - 'no': '499'
+    name: 山村 真琴
+    name_kata: ヤマムラ マコト
+    gender: 女
+    bloodtype: O
+    birthday: 1990/11/20
+    tel: 0776-89-8718
+    keitai: 070-1182-8146
+    mail: makotoyamamura@example.ad.jp
+    zip: 910-0103
+    address: 福井県福井市中角町5-4-7
+    address_kata: フクイケンフクイシナカツノチョウ
+  - 'no': '500'
+    name: 本間 さゆみ
+    name_kata: ホンマ サユミ
+    gender: 女
+    bloodtype: O
+    birthday: 1994/05/14
+    tel: 047-975-0960
+    keitai: 090-1011-5178
+    mail: mnh0514@excite.co.jp
+    zip: 271-0053
+    address: 千葉県松戸市中根1-1-8
+    address_kata: チバケンマツドシナカネ

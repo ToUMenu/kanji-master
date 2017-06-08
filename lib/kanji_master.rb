@@ -1,8 +1,15 @@
 require "kanji_master/version"
 require "kanji_master/constant"
 require "kanji_master/regex_constant"
+
+# Data Model
 require "kanji_master/prefecture"
+require "kanji_master/person"
+
+# KanjiMaster Model Class
 require "kanji_master/text"
+
+# Drivers
 require "kanji_master/random"
 require "kanji_master/reader"
 require "kanji_master/counter"
