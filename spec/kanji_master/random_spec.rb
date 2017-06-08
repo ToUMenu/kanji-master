@@ -24,6 +24,7 @@ describe KanjiMaster::Random do
     it "should random number kanji (#{i})" do
       expect(instance.chinese_number_character).not_to be nil
       expect(instance.number_kanji).not_to be nil
+      expect(instance.kanji_number).not_to be nil
     end
   end
 

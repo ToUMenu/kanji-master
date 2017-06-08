@@ -65,4 +65,26 @@ describe "KanjiMaster CoreExtension String" do
       expect('ひらがな'.hiragana).to eq 'ひらがな'
     end
   end
+
+  describe "reader extension" do
+    describe 'it should check alphabet?' do
+      it 'should return true on alphabet' do
+        expect("alphabet".alphabet?).to be true
+      end
+
+      it 'should return false on kanji' do
+        expect("漢字".alphabet?).to be false
+      end
+    end
+
+    describe 'it should check maybe_kanji?' do
+      it 'should return false on alphabet' do
+        expect("alphabet".maybe_kanji?).to be false
+      end
+
+      it 'should return true on kanji' do
+        expect("漢字".maybe_kanji?).to be true
+      end
+    end
+  end
 end
