@@ -13,5 +13,17 @@ module KanjiMaster
     end
     alias :kanji_number :chinese_number_character
     alias :number_kanji :chinese_number_character
+
+    def person
+      Person.new(Person.data[rand(0..499)])
+    end
+
+    def address
+      Address.new(Address.data[rand(0..499)])
+    end
+
+    def name
+      Name.new(Name.data[rand(0..499)])
+    end
   end
 end

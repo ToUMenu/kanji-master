@@ -35,14 +35,6 @@ analyzed_text.alphabets  # => "alphabet"
 analyzed_text.kanjis     # => "漢字"
 ```
 
-### Counter
-
-```ruby
-counter = KanjiMaster::Counter.new
-counter.kanji(3)
-# => '三'
-```
-
 ### Converter
 
 ```ruby
@@ -72,6 +64,15 @@ require "kanji_master/core_extension/string"
 ```ruby
 random = KanjiMaster::Random.new
 
+random.person
+# => #<KanjiMaster::Person:0x007fb9e0225140 @name="岩井 美砂", @name_kana="イワイ ミサ", @gender="女", @bloodtype="A", @birthday="1980/08/08", @zip="672-8088", @address="兵庫県姫路市飾磨区英賀西町5-5-3", @address_kata="ヒョウゴケンヒメジシシカマクアガニシチョウ">
+
+random.name
+# => #<KanjiMaster::Name:0x007fb9e05c32c0 @full_name="青木 沙耶香", @first_name="沙耶香", @last_name="青木", @katakana="アオキ サヤカ", @kana="アオキ サヤカ", @hiragana="あおき さやか", @hira="あおき さやか">
+
+random.address
+# => #<KanjiMaster::Address:0x007fe3ffb0a820 @zip_code="579-8011", @name="大阪府東大阪市東石切町5-10-5", @katakana="オオサカフヒガシオオサカシヒガシイシキリチョウ", @kana="オオサカフヒガシオオサカシヒガシイシキリチョウ", @hiragana="おおさかふひがしおおさかしひがしいしきりちょう", @hira="おおさかふひがしおおさかしひがしいしきりちょう">
+
 random.prefecture_hash
 # => {:name=>"鳥取県", :romaji=>"tottori", :hiragana=>"とっとりけん", :katakana=>"トットリケン", :area=>"中国"}
 random.prefecture_name
@@ -79,6 +80,14 @@ random.prefecture_name
 
 random.number_kanji
 # => "八"
+```
+
+### Counter
+
+```ruby
+counter = KanjiMaster::Counter.new
+counter.kanji(3)
+# => '三'
 ```
 
 ## Development
