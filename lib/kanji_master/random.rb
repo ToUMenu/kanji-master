@@ -21,5 +21,9 @@ module KanjiMaster
     def address
       Address.new(Address.data[rand(0..499)])
     end
+
+    def name
+      Name.new(Name.data[rand(0..499)])
+    end
   end
 end

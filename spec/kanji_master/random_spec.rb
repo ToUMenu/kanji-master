@@ -47,5 +47,15 @@ describe KanjiMaster::Random do
       expect(instance.address.kana).not_to be nil
       expect(instance.address.zip_code).not_to be nil
     end
+
+    it "should random name #{i}" do
+      expect(instance.name).not_to be nil
+      expect(instance.name.first_name).not_to be nil
+      expect(instance.name.last_name).not_to be nil
+      expect(instance.name.hira).not_to be nil
+      expect(instance.name.hiragana).not_to be nil
+      expect(instance.name.katakana).not_to be nil
+      expect(instance.name.kana).not_to be nil
+    end
   end
 end

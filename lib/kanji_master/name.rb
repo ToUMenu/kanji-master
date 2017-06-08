@@ -4,7 +4,7 @@ require 'active_support'
 module KanjiMaster
   #  Name get data from Person.rb which access the data from `person.yml`
   class Name
-    attr_accessor :zip_code, :name, :katakana, :kana, :hiragana, :hira
+    attr_accessor :zip_code, :name, :katakana, :kana, :hiragana, :hira, :first_name, :last_name
 
     filepath = File.join(File.dirname(__FILE__), '../data/person.yml')
     @data    = YAML.load_file(filepath)
