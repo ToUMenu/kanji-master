@@ -8,6 +8,10 @@ module KanjiMaster
       !alphabet?(text)
     end
 
+    def kanji?(text)
+      RegexConstant::KANJI_REGEX === text
+    end
+
     def read_text(text)
       matched_kanji = text.match(RegexConstant::KANJI_REGEX)
 

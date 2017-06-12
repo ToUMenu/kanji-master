@@ -21,5 +21,10 @@ module KanjiMaster
       reader = Reader.new
       reader.maybe_kanji?(self)
     end
+
+    def kanji?
+      reader = Reader.new
+      reader.kanji?(self)
+    end
   end
 end

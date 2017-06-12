@@ -25,6 +25,28 @@ describe KanjiMaster::Reader do
     end
   end
 
+  describe 'should check kanji?' do
+    it 'should return false on alphabet' do
+      expect(instance.kanji?('alphabet')).to be false
+    end
+
+    it 'should return true on kanji' do
+      expect(instance.kanji?('漢字')).to be true
+    end
+
+    it 'should return false on hiragana' do
+      expect(instance.kanji?('これはひらがな')).to be false
+    end
+
+    it 'should return false on katakana' do
+      expect(instance.kanji?('カタカナ')).to be false
+    end
+
+    it 'should return false on different language' do
+      expect(instance.kanji?('안녕하세요')).to be false
+    end
+  end
+
   describe 'it should read_text' do
     it 'should read_text correctly (1)' do
       analyzed_text = instance.read_text('漢字alphabet898989')
