@@ -86,5 +86,27 @@ describe "KanjiMaster CoreExtension String" do
         expect("漢字".maybe_kanji?).to be true
       end
     end
+
+    describe 'should check kanji?' do
+      it 'should return false on alphabet' do
+        expect('alphabet'.kanji?).to be false
+      end
+
+      it 'should return true on kanji' do
+        expect('漢字'.kanji?).to be true
+      end
+
+      it 'should return false on hiragana' do
+        expect('これはひらがな'.kanji?).to be false
+      end
+
+      it 'should return false on katakana' do
+        expect('カタカナ'.kanji?).to be false
+      end
+
+      it 'should return false on different language' do
+        expect('안녕하세요'.kanji?).to be false
+      end
+    end
   end
 end
