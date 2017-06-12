@@ -26,8 +26,10 @@ $ gem install kanji_master
 reader = KanjiMaster::Reader.new
 reader.alphabet?('word')
 # => true
-reader.maybe_kanji?('漢字')
+reader.kanji?('漢字')
 # => true
+reader.kanji?('かんじ')
+# => false
 
 analyzed_text = reader.read_text('漢字alphabet898989')
 analyzed_text.numbers    # => "898989"
@@ -56,7 +58,8 @@ require "kanji_master/core_extension/string"
 "sushi".hira #=> 'すし'
 
 "sushi".alphabet? # => true
-"sushi".maybe_kanji? # => false
+"가세요".kanji? # => false
+"漢字".kanji? # => true
 ```
 
 ### Random
