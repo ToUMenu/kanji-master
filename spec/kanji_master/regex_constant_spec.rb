@@ -25,5 +25,9 @@ describe KanjiMaster::RegexConstant do
     it 'ROMAJI_REGEX' do
       expect(instance::ROMAJI_REGEX).not_to be nil
     end
+
+    it 'JP_ZIPCODE_REGEX' do
+      expect(instance::JP_ZIPCODE_REGEX).not_to be nil
+    end
   end
 end
