@@ -64,4 +64,28 @@ describe KanjiMaster::Reader do
       expect(analyzed_text.kanjis).to eq "漢字"
     end
   end
+
+  describe 'check zipcode?' do
+    it 'should check zipcode correctly' do
+      expect(instance.zipcode?('Not Zip Code')).to be false
+      expect(instance.zipcode?('11111224')).to be false
+      expect(instance.zipcode?('郵便番号')).to be false
+      expect(instance.zipcode?('〒郵便番号')).to be false
+
+      expect(instance.zip_code?('Not Zip Code')).to be false
+      expect(instance.zip_code?('11111224')).to be false
+      expect(instance.zip_code?('郵便番号')).to be false
+      expect(instance.zip_code?('〒郵便番号')).to be false
+    end
+
+    it 'should return true for zipcode' do
+      expect(instance.zipcode?('111-1122')).to be true
+      expect(instance.zipcode?('〒111-1122')).to be true
+      expect(instance.zipcode?('1111122')).to be true
+
+      expect(instance.zip_code?('111-1122')).to be true
+      expect(instance.zip_code?('〒111-1122')).to be true
+      expect(instance.zip_code?('1111122')).to be true
+    end
+  end
 end
