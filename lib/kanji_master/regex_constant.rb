@@ -7,5 +7,7 @@ module KanjiMaster
     HIRAGANA_REGEX = /[\p{Hiragana}]+/
     KATAKANA_REGEX = /[\p{Katakana}]+/
     ROMAJI_REGEX   = /^[a-zA-Z]/
+
+    JP_ZIPCODE_REGEX = /^\d{3}[-]\d{4}$|^\d{3}[-]\d{2}$|^\d{7}$|^[〒]\d{3}[-]\d{4}$/
   end
 end

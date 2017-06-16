@@ -35,6 +35,10 @@ analyzed_text = reader.read_text('漢字alphabet898989')
 analyzed_text.numbers    # => "898989"
 analyzed_text.alphabets  # => "alphabet"
 analyzed_text.kanjis     # => "漢字"
+
+reader.zipcode?('〒120-0001') # => true
+reader.zipcode?('120-0001') # => true
+reader.zipcode?('1200001') # => true
 ```
 
 ### Converter

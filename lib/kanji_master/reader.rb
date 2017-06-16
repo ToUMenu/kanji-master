@@ -12,6 +12,11 @@ module KanjiMaster
       RegexConstant::KANJI_REGEX === text
     end
 
+    def zip_code?(text); zipcode?(text) end
+    def zipcode?(text)
+      RegexConstant::JP_ZIPCODE_REGEX === text
+    end
+
     def read_text(text)
       matched_kanji = text.match(RegexConstant::KANJI_REGEX)
 
