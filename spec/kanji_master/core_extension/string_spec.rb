@@ -108,5 +108,23 @@ describe "KanjiMaster CoreExtension String" do
         expect('안녕하세요'.kanji?).to be false
       end
     end
+
+    describe 'check jp_zipcode?' do
+      it 'should check jp_zipcode? correctly' do
+        expect('Not Zip Code'.jp_zipcode?).to be false
+        expect('11111224'.jp_zipcode?).to be false
+        expect('111'.jp_zipcode?).to be false
+        expect('111113'.jp_zipcode?).to be false
+        expect("郵便番号".jp_zipcode?).to be false
+        expect("〒郵便番号".jp_zipcode?).to be false
+      end
+
+      it 'should return true for jp_zipcode?' do
+        expect('111-1122'.jp_zipcode?).to be true
+        expect('125-0042'.jp_zipcode?).to be true
+        expect('〒125-0042'.jp_zipcode?).to be true
+        expect('1111122'.jp_zipcode?).to be true
+      end
+    end
   end
 end

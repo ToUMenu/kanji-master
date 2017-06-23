@@ -64,6 +64,8 @@ require "kanji_master/core_extension/string"
 "sushi".alphabet? # => true
 "가세요".kanji? # => false
 "漢字".kanji? # => true
+
+"〒125-0042".jp_zipcode? # => true
 ```
 
 ### Random

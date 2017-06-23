@@ -26,5 +26,11 @@ module KanjiMaster
       reader = Reader.new
       reader.kanji?(self)
     end
+
+    def jp_zip_code?; jp_zipcode? end
+    def jp_zipcode?
+      reader = Reader.new
+      reader.zipcode?(self)
+    end
   end
 end
