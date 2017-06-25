@@ -87,6 +87,9 @@ random.prefecture_hash
 random.prefecture_name
 # => "秋田県"
 
+random.prefecture
+# => #<KanjiMaster::Prefecture:0x007fbb5c8961c8 @name="大阪府", @romaji="osaka", @hiragana="おおさかふ", @katakana="オオサカフ", @area="関西">
+
 random.number_kanji
 # => "八"
 ```
