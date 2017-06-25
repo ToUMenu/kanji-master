@@ -18,6 +18,10 @@ describe KanjiMaster::Random do
     it 'should return random prefecture_name' do
       expect(instance.prefecture_name).not_to be nil
     end
+
+    it "should return random prefecture" do
+      expect(instance.prefecture).not_to be nil
+    end
   end
 
   1.upto(10*3) do |i|
