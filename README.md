@@ -82,13 +82,13 @@ random.name
 random.address
 # => #<KanjiMaster::Address:0x007fe3ffb0a820 @zip_code="579-8011", @name="大阪府東大阪市東石切町5-10-5", @katakana="オオサカフヒガシオオサカシヒガシイシキリチョウ", @kana="オオサカフヒガシオオサカシヒガシイシキリチョウ", @hiragana="おおさかふひがしおおさかしひがしいしきりちょう", @hira="おおさかふひがしおおさかしひがしいしきりちょう">
 
+random.prefecture
+# => #<KanjiMaster::Prefecture:0x007fbb5c8961c8 @name="大阪府", @romaji="osaka", @hiragana="おおさかふ", @katakana="オオサカフ", @area="関西">
+
 random.prefecture_hash
 # => {:name=>"鳥取県", :romaji=>"tottori", :hiragana=>"とっとりけん", :katakana=>"トットリケン", :area=>"中国"}
 random.prefecture_name
 # => "秋田県"
-
-random.prefecture
-# => #<KanjiMaster::Prefecture:0x007fbb5c8961c8 @name="大阪府", @romaji="osaka", @hiragana="おおさかふ", @katakana="オオサカフ", @area="関西">
 
 random.number_kanji
 # => "八"
