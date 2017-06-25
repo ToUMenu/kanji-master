@@ -21,6 +21,10 @@ describe KanjiMaster::Random do
 
     it "should return random prefecture" do
       expect(instance.prefecture).not_to be nil
+      expect(instance.prefecture.romaji).not_to be nil
+      expect(instance.prefecture.hiragana).not_to be nil
+      expect(instance.prefecture.katakana).not_to be nil
+      expect(instance.prefecture.area).not_to be nil
     end
   end
 
