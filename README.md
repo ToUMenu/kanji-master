@@ -109,13 +109,9 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 ## Contributing
 
-Fork this repository.
+Details in [CONTRIBUTING](/CONTRIBUTING.md)
 
-```shell
-$ git checkout -b your_working_branch
-```
-
-Feel free to send the pull request!
+Feel free to send pull request!
 
 ## License
 
