@@ -16,3 +16,6 @@ require "kanji_master/random"
 require "kanji_master/reader"
 require "kanji_master/counter"
 require "kanji_master/converter"
+
+# Rails Helper
+require 'kanji_master/reader_helper' if defined? ActionView
