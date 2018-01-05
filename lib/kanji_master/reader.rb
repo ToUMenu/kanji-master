@@ -4,6 +4,10 @@ module KanjiMaster
       !(RegexConstant::NON_ENGLISH_REGEX === text)
     end
 
+    def number?(text)
+      (RegexConstant::NUMBER_REGEX === text)
+    end
+
     def maybe_kanji?(text)
       !alphabet?(text)
     end

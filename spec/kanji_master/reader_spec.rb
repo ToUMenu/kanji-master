@@ -15,6 +15,17 @@ describe KanjiMaster::Reader do
     end
   end
 
+  describe 'it should check number?' do
+    it 'should return true on number' do
+      expect(instance.number?('alphabet')).to be false
+    end
+
+    it 'should return false on number' do
+      expect(instance.number?('123')).to be false
+    end
+  end
+
+
   describe 'it should check maybe_kanji?' do
     it 'should return false on alphabet' do
       expect(instance.maybe_kanji?('alphabet')).to be false
