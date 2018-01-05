@@ -17,6 +17,8 @@ module KanjiMaster
     end
 
     def zip_code?(text); zipcode?(text) end
+    def postal_code?(text); zipcode?(text) end
+    def postcode?(text); zipcode?(text) end
     def zipcode?(text)
       RegexConstant::JP_ZIPCODE_REGEX === text
     end

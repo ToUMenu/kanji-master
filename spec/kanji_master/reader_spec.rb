@@ -92,5 +92,11 @@ describe KanjiMaster::Reader do
       expect(instance.zipcode?('〒125-0042')).to be true
       expect(instance.zipcode?('1111122')).to be true
     end
+
+    it 'should return with alias method' do
+      expect(instance.zip_code?('111-1122')).to be true
+      expect(instance.postal_code?('125-0042')).to be true
+      expect(instance.postcode?('〒125-0042')).to be true
+    end
   end
 end
