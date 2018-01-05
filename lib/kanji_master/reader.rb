@@ -4,6 +4,10 @@ module KanjiMaster
       !(RegexConstant::NON_ENGLISH_REGEX === text)
     end
 
+    def number?(text)
+      (RegexConstant::NUMBER_REGEX === text)
+    end
+
     def maybe_kanji?(text)
       !alphabet?(text)
     end
@@ -13,6 +17,8 @@ module KanjiMaster
     end
 
     def zip_code?(text); zipcode?(text) end
+    def postal_code?(text); zipcode?(text) end
+    def postcode?(text); zipcode?(text) end
     def zipcode?(text)
       RegexConstant::JP_ZIPCODE_REGEX === text
     end
